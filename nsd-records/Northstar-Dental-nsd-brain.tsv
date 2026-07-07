@@ -1,0 +1,164 @@
+01bda959b8b85ca353b3dafdcfc1373c5946e8dd	2026-04-11T01:55:59+05:30	Northstar-Dental	nsd-brain	website generation v3 (#24)
+03b4b864ea94278e02fdbd88dcef4688bc4fcaff	2026-04-21T12:51:47+05:30	Northstar-Dental	nsd-brain	add check to prevern t adding media in raw transcript and pre generated notes
+03d851ee1038ec326509c19a811a1b9cfa73a972	2026-03-31T16:14:08+05:30	Northstar-Dental	nsd-brain	update meeting maping with prospects
+0537389ecc144b3e076a798c0362c51b9b00e263	2026-03-25T14:22:56+05:30	Northstar-Dental	nsd-brain	update enc and gitignore
+0559e28b4169f71c877de05791ecb2cbdbb47393	2026-03-31T17:35:34+05:30	Northstar-Dental	nsd-brain	card conversion button on meeting info page and slug usage
+05754c8cd4dcb71016d84e8c6740c2f67e65ddd3	2026-04-03T14:09:34+05:30	Northstar-Dental	nsd-brain	Accounts list: multi-select filters, search, and alphabetical sorting (#12)
+05a4eb1a8a9684b4990826dc3579df7c62b2da7a	2026-04-02T12:04:37+05:30	Northstar-Dental	nsd-brain	account level braina and info (#6)
+062da83b1dca074e4d20074de81ecad73fc593e3	2026-03-31T15:45:33+05:30	Northstar-Dental	nsd-brain	Add Individual/Company prospect types with contact persons
+06dadf5bda08cec2e099d6813e20d2e46645c7d6	2026-04-03T12:23:10+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+07a49e424279d1be60606320d9ca5c595c545133	2026-04-08T16:03:34+05:30	Northstar-Dental	nsd-brain	update readme.md, claude.md and primer.md
+0b0968f7af707c848fa97f00d3d4da6effd35984	2026-04-14T17:35:26+05:30	Northstar-Dental	nsd-brain	added poeple in accounts
+0b9270e8cd668c59701800ef7a7045d4c89248c6	2026-03-31T19:38:07+05:30	Northstar-Dental	nsd-brain	build fix
+0bf22075814af5d0863243f62d17f11c1d7e6525	2026-03-19T20:12:50+05:30	Northstar-Dental	nsd-brain	readme file
+0d682968aae6c989988bed69af34e2a9ae92e843	2026-04-14T17:32:59+05:30	Northstar-Dental	nsd-brain	v0 of scrapping
+0ec6704771a3cd1e75ec614cd9cbdd90a1c0dc01	2026-03-31T13:47:20+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+102a41e32f5539cceab49481f3453441a08f2e65	2026-04-15T11:51:19+05:30	Northstar-Dental	nsd-brain	URL Enrichment and People Phase 1
+11356d974a06c34bd8db8076ffae949ab4e4f753	2026-04-08T15:56:22+05:30	Northstar-Dental	nsd-brain	comment reply
+1583cc36fc708b0200ae48904780e85ed2254b00	2026-05-07T12:41:19+05:30	Northstar-Dental	nsd-brain	v0 scrapiing the dentaltown homepage
+1675df6f86b2082b946048a3ec9f759c1f9d2c3e	2026-04-03T22:25:01+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+1876d7a3c14aaa5463af3a8bea805460d3270be5	2026-04-17T18:35:59+05:30	Northstar-Dental	nsd-brain	network graph
+1a49a7703cea56c0249409f333665569c46b81b9	2026-04-13T22:37:07+05:30	Northstar-Dental	nsd-brain	Add image upload to card comments and descriptions (#28)
+2145535cea5beeb32f1f03ee820eaa9154d6fca0	2026-04-16T17:16:05+05:30	Northstar-Dental	nsd-brain	combined migrations
+2156d74829115287119ff13581744d9edf990c8b	2026-04-14T17:47:07+05:30	Northstar-Dental	nsd-brain	fix stop signal
+22da43c3806ac7d8c317c28e589e03117cdbcc68	2026-04-20T16:04:57+05:30	Northstar-Dental	nsd-brain	local run fixes
+23bac3604bfe14448b19db308f8ddfb3655c7b8a	2026-04-03T12:06:10+05:30	Northstar-Dental	nsd-brain	add scroll
+2453b66b3f71386310c3e8fe0600d08bf4359854	2026-04-17T14:38:36+05:30	Northstar-Dental	nsd-brain	fix cureent compamy issue on 2nd degree scrape and seaching
+24a289e1ea5787e12d21c64fd0dfe7f69e2607b2	2026-04-14T20:29:34+05:30	Northstar-Dental	nsd-brain	fix 1st degree retrival
+25854d1344292cddb8aed5dc8fffe2227f37ed47	2026-05-19T13:31:21+05:30	Northstar-Dental	nsd-brain	WIP on morning-grind: d4b1c43 morning grind articles
+25bce340fba66b87e12ba1434a74db16f8b50896	2026-03-24T12:53:31+05:30	Northstar-Dental	nsd-brain	basic ui changes
+2bd97755cd865f082da8f3e4261a47c1de3eb5b2	2026-04-01T20:26:23+05:30	Northstar-Dental	nsd-brain	account level braina and info
+2be9c849f88bba424718ca1915188ab04dd3ac32	2026-04-14T14:30:22+05:30	Northstar-Dental	nsd-brain	feat(backend): warm-path traversal, people CRUD, and edge-origin lifecycle services
+2bf1821c357f59eb3f20656707d2813e5825bf10	2026-04-14T14:30:42+05:30	Northstar-Dental	nsd-brain	docs: relationship graph architecture, origins, and pitfalls in CLAUDE.md
+2cc6c9bf292680f1135dadc00ed5ef3437f83ee2	2026-04-14T20:39:15+05:30	Northstar-Dental	nsd-brain	add sorting and remove buffer to update data
+2d40ab63e08147adfa54ab3ab6148000432734cb	2026-04-13T20:41:37+05:30	Northstar-Dental	nsd-brain	added external type (company/individual) toggle to account detail edit form
+2f2a7bbcc1a662e71f648ab6a35ae68b54c7b0cd	2026-04-03T18:51:42+05:30	Northstar-Dental	nsd-brain	added URL enrichment
+30bbd35cd728f838dc933d6ed3cecb0d5b36a86a	2026-03-20T14:48:02+05:30	Northstar-Dental	nsd-brain	log button
+31642b31b2546d59c405cfc0eb1731b8763fe0b9	2026-04-02T21:48:32+05:30	Northstar-Dental	nsd-brain	update Readme.md and claude.md
+3288474bd23f9defc5c2433186571da6c19f41cd	2026-06-18T18:42:38+05:30	Northstar-Dental	nsd-brain	added title in contact person (#47)
+37b7bae4a3087e46d2ffd7051257861574f14b87	2026-04-03T18:52:09+05:30	Northstar-Dental	nsd-brain	added URL enrichment (#14)
+3f9351d3ba8176aff45ab22a59c8c01d0d15289f	2026-04-20T11:29:05+05:30	Northstar-Dental	nsd-brain	Revert "Linkedin scrapper (#34)" (#35)
+3fa4af4349e1651ed35a59b1ef2a983f515a2fcb	2026-04-13T22:32:28+05:30	Northstar-Dental	nsd-brain	image preview fix
+41a44b4f0fb3d8164da8fd03cc8d974dea816371	2026-04-20T18:44:13+05:30	Northstar-Dental	nsd-brain	button issue fix
+4250c4f2b4933b91189c989f1ea48c05cd6ba410	2026-03-31T16:18:18+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+444814d5a97e5e8adce44a3d0b52005b083d122c	2026-05-19T20:25:29+05:30	Northstar-Dental	nsd-brain	anthropic model update (#46)
+4b09b29c2fd75b2ee36a1e188466809430eaa8dd	2026-04-10T20:37:52+05:30	Northstar-Dental	nsd-brain	Website generator (#22)
+4ea17d47b408b504f145f5624c647b53c4d7d84b	2026-05-11T19:13:07+05:30	Northstar-Dental	nsd-brain	morning grind articles (#45)
+54cf77088f94668dc6188fd565ee77ea20865403	2026-04-14T14:32:17+05:30	Northstar-Dental	nsd-brain	refactor(admin): redesign pricing config with input/output split cards
+567b6ce2707d92af07085fc845d2e17e1497de19	2026-04-24T12:22:47+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+592af574cab40bd1479e31075769f2b9116ea48f	2026-04-06T17:06:32+05:30	Northstar-Dental	nsd-brain	update reamde.md and claude.md
+5a04571ad01662d4d670b7dfc53bc659f7dbef12	2026-04-03T22:04:05+05:30	Northstar-Dental	nsd-brain	track account lead souucre
+5bab9ed50c13411262ed68eb957cab828356d49c	2026-04-06T11:09:36+05:30	Northstar-Dental	nsd-brain	fix: add prompt.account_brain to CONFIG_DEFAULTS and increase max_tokens (#16)
+5bac7aa70644f5291c4943e7711b030e7ed998b6	2026-03-20T16:50:00+05:30	Northstar-Dental	nsd-brain	track api cost
+5d0f26d35a2714d2ac0fd3887935c731cd86215b	2026-03-25T13:57:35+05:30	Northstar-Dental	nsd-brain	authentication
+5e5fc28c078606096dfa414c99a0b4c1f12f68c6	2026-03-31T16:00:38+05:30	Northstar-Dental	nsd-brain	prospect type and change
+5f1f92116f92e1f70f2e3908d30c545ce54341e1	2026-04-15T16:40:04+05:30	Northstar-Dental	nsd-brain	fixed the individual to company switch bug (#30)
+602bccb70de54cc9e84b70fddc210a624b2f4a6b	2026-04-08T15:11:51+05:30	Northstar-Dental	nsd-brain	update migration
+639540912e75054d3865cbc150c17ab01dfb0891	2026-04-21T12:54:44+05:30	Northstar-Dental	nsd-brain	Remove image support from raw transcript and pre-generated notes
+63e58e34545c8067ebdbfe0ecbe947949a56d414	2026-04-01T13:10:38+05:30	Northstar-Dental	nsd-brain	add fe skill
+63fff5257cad35a92e9f6b3d3fc9bcc28eff4735	2026-03-20T12:20:33+05:30	Northstar-Dental	nsd-brain	search for context
+64194db645bfe1dd14e911967fda4212f4281c5f	2026-04-15T13:10:08+05:30	Northstar-Dental	nsd-brain	Person intelligence Phase 1 (#29)
+673ad54c2a1f48822a480f17e5f7e99d65d8b9ae	2026-04-24T12:22:47+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+6793e69e2b89f661fe1b021de8eefb21d3695476	2026-03-18T14:27:45+05:30	Northstar-Dental	nsd-brain	initial commit and setup
+6c49786ff0e2a86fca2acf854fd56ce27adf2930	2026-04-14T14:30:29+05:30	Northstar-Dental	nsd-brain	refactor(backend): migrate contact callers to PersonAccount junction and auto-affiliate attendees
+6d2a818443194bb90ab370d9e68926f9a7715abd	2026-03-19T13:34:34+05:30	Northstar-Dental	nsd-brain	store data seprately
+6d4393164a9eb5f0bc9e046f28fe8f3c14ba1ae1	2026-04-01T16:03:36+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+6d9c62e5c3af6b354e9bd684fbfe06b5e6b9e742	2026-03-30T19:53:17+05:30	Northstar-Dental	nsd-brain	queue for brain processing and embedding
+6d9e1353ae3ad164c4115818b91dee6e57571d17	2026-04-15T11:40:27+05:30	Northstar-Dental	nsd-brain	name and url for 2nd degree connections
+6ea4f3a2942713dfbc48b211dffe3329f2a6f203	2026-04-13T20:42:31+05:30	Northstar-Dental	nsd-brain	Add external type toggle to account detail edit form
+6efafd536e40d370a51de0903538921daa76ba33	2026-04-08T15:20:57+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+727e3538abdb8ffbff27e10c25edf882996ed998	2026-04-02T18:45:38+05:30	Northstar-Dental	nsd-brain	fix: build @nsd/conductor and @nsd/plugin packages in Docker (#8)
+727e673cbdae527c9bde77a1f0088fd4eb64d49d	2026-03-19T13:04:47+05:30	Northstar-Dental	nsd-brain	admin settings
+72a0550ddea20eb3065316123f5bc7d1e4d922f3	2026-04-16T18:34:24+05:30	Northstar-Dental	nsd-brain	Person intelligence v2 (#32)
+765605abc7ab96255ba98bf0f34e10c0e49bd4a3	2026-05-19T20:18:49+05:30	Northstar-Dental	nsd-brain	anthropic model update
+7721340f9c2798881b7473cd434f1f5cc8ed5359	2026-03-31T17:46:24+05:30	Northstar-Dental	nsd-brain	Kanban Board (#4)
+78317fdee41c76c33e73615f8921a59011ec1b1e	2026-03-18T23:52:57+05:30	Northstar-Dental	nsd-brain	weekly roll ups
+7867e33a1f34490a76d89e0279e92529faca7dd5	2026-04-17T18:52:44+05:30	Northstar-Dental	nsd-brain	infra changes
+7a5889622e6b17713734e526d9370e641ebf36f9	2026-04-11T02:28:41+05:30	Northstar-Dental	nsd-brain	added job cancel in conductor
+7a9622fdb0630ac2a95a798e7795735388f95a74	2026-04-06T16:56:46+05:30	Northstar-Dental	nsd-brain	account extisting software
+7ee1c6e29fc140dccaa6e4ccd723d25a527f0499	2026-04-08T15:21:33+05:30	Northstar-Dental	nsd-brain	 Kanban board enhancements (#19)
+8439b0eb99d28c7491000e133c268cdefe03abc0	2026-04-06T17:08:56+05:30	Northstar-Dental	nsd-brain	Account locations and existing software tracking (#17)
+857f3f43aa359a78b0a1a1410a47cb55564ab321	2026-04-19T00:20:38+05:30	Northstar-Dental	nsd-brain	Linkedin scrapper (#34)
+85ee4f21f58e3ba48169a7186ae34fdfe8b5ab8f	2026-03-31T13:47:51+05:30	Northstar-Dental	nsd-brain	Transcript chuncks (#2)
+87cf6909e4b5483f4290e68e255e1de2cc27b2f5	2026-04-20T16:02:26+05:30	Northstar-Dental	nsd-brain	fixed migration for people
+8866dc7b4cbec7c2bc3c2c82456aed5a4636ef86	2026-03-30T20:20:22+05:30	Northstar-Dental	nsd-brain	In-memeory Queue for Processing Brain and Embedding  (#1)
+8889409eba2d33e3a9afb5c1ddd4c276a3e33f0b	2026-04-23T17:51:50+05:30	Northstar-Dental	nsd-brain	update claude.md and readme.md
+8a72fb2a01d1d6e3a74f794526b31d2535aec27b	2026-04-11T00:34:35+05:30	Northstar-Dental	nsd-brain	updated the website generator v2 (#23)
+8bad38a98a8352d1ef3ddc3305e67220310fa6c1	2026-04-08T16:09:10+05:30	Northstar-Dental	nsd-brain	build fix
+8cf89567493ac1ba01055c1c9d536ea46383ce30	2026-03-20T15:46:31+05:30	Northstar-Dental	nsd-brain	search history
+8dd8b99c7dc9852eb4b98917c1be20893832e62f	2026-04-23T16:06:38+05:30	Northstar-Dental	nsd-brain	fire crawl implementation
+917c0beafbe0b5822f910bfc96a113b01a684223	2026-03-18T23:32:46+05:30	Northstar-Dental	nsd-brain	meeting summary and info
+94684ef4f393fd9d0ef1926c697f452a522d1934	2026-04-24T00:13:14+05:30	Northstar-Dental	nsd-brain	rediit apify
+9ad0900414795cf448fe780985c95c4ea5872498	2026-04-23T17:52:36+05:30	Northstar-Dental	nsd-brain	Reddit scrapping (#40)
+9b05a6540b4ee49bdd644738a47292de740e8c7c	2026-04-13T14:30:10+05:30	Northstar-Dental	nsd-brain	fixed usage tracking
+9b4f318fdcd8b6438d6a07cdaafc7e118a33c24d	2026-04-08T12:12:31+05:30	Northstar-Dental	nsd-brain	card link and detail page
+9c962875f9358be45a00f652ca649f871b156467	2026-04-13T14:32:16+05:30	Northstar-Dental	nsd-brain	fixed usage tracking (#26)
+9d51dd61d935728708072928716326f5b78be51b	2026-05-08T16:39:47+05:30	Northstar-Dental	nsd-brain	scrape data report and triggers (#44)
+9d71e17de8e52176b05d4388fc3a7dc10987bf4b	2026-04-07T16:13:59+05:30	Northstar-Dental	nsd-brain	account aritfacts workflow
+9df08ced9e26104a4bb452963acc693bdf9cf501	2026-04-22T12:08:04+05:30	Northstar-Dental	nsd-brain	remove linkedIn route
+a24185d2e6d6d8aaebf0de3fa7325445cc769987	2026-04-06T16:35:03+05:30	Northstar-Dental	nsd-brain	add location info
+a3b83d7a1e345f05f6c7c191db595efccfcae9cb	2026-04-23T17:38:00+05:30	Northstar-Dental	nsd-brain	swap Firecrawl → direct Reddit fetch
+a41fc1c7e2ee041f7440620d7b94bb02f2e794e1	2026-04-15T13:06:39+05:30	Northstar-Dental	nsd-brain	back fill migration for contact persons
+a4d5c59697b81419bb27f0bfe287635af7a7d064	2026-04-21T11:24:05+05:30	Northstar-Dental	nsd-brain	added individual account ingestion check to map contact person (#38)
+a4fce663b7df3f4f7e97fb07b7693eac59a5e13c	2026-03-20T19:09:10+05:30	Northstar-Dental	nsd-brain	add claude.md and preimer.md file
+a517c6934f92799dc1fbb0d10c1be9463aea589f	2026-04-08T12:31:55+05:30	Northstar-Dental	nsd-brain	show label on card
+a54414a3ba29698245da6aac184ee8722d12ede2	2026-05-19T13:31:21+05:30	Northstar-Dental	nsd-brain	index on morning-grind: d4b1c43 morning grind articles
+a868dd3897cb836e75131f90d9fa1c76e9851754	2026-04-03T12:09:01+05:30	Northstar-Dental	nsd-brain	card description preview fix
+a970137a15663a00414405c527cce50155a1107b	2026-04-07T16:24:48+05:30	Northstar-Dental	nsd-brain	Account Artifacts (LINK, FILE, TEXT) (#18)
+aa23a51d8a86dbfbc0c3dbc276b9fc88a8060958	2026-04-08T13:01:45+05:30	Northstar-Dental	nsd-brain	fix column and label managing ui
+ad468d024c2e9fd85bfed0a6e536b04a7002e4c8	2026-04-24T12:36:54+05:30	Northstar-Dental	nsd-brain	Reddit post and comment scrapping using APIFY (#41)
+ae6ed3f25197256c33bb7c56b1c4b7112a0011d8	2026-04-03T12:14:30+05:30	Northstar-Dental	nsd-brain	update card detail UI
+b0ef13e942f527c55ba3c19622c2c9448ab1729e	2026-04-02T21:23:43+05:30	Northstar-Dental	nsd-brain	card comment workflow
+b5dc01c4ad53cbdd97a7dbf963cc194d353e372f	2026-04-08T16:18:58+05:30	Northstar-Dental	nsd-brain	Comment conversations — threading, @mentions, editing, emoji reactions (#21)
+b857a757eb79abf743d5223ea70315cec919c6bf	2026-04-14T14:30:16+05:30	Northstar-Dental	nsd-brain	feat(schema): relationship graph data model with PersonAccount, RelationshipEdge, and event log
+bf0c968eaf31c69da596ae79db6c8a4cc048df56	2026-03-30T19:57:16+05:30	Northstar-Dental	nsd-brain	updae README and Claude.md files
+bf108fd1f0a1e596e435f6f23891f3b30aecb57c	2026-05-07T19:36:49+05:30	Northstar-Dental	nsd-brain	update readme and claude.md
+bfb072604650222a5f97662487869f2511037963	2026-03-31T17:46:03+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+bfbedbd2852097c94353fa948a7aa80ea086f8d9	2026-04-02T21:58:46+05:30	Northstar-Dental	nsd-brain	Card comment feature (#10)
+c03662d2330d590302f20b599fd83a03ce9c9853	2026-04-02T18:57:24+05:30	Northstar-Dental	nsd-brain	fix: build @nsd/conductor and @nsd/plugin packages in Docker  (#9)
+c04e5ec437648954a31510f5adbf0e2151938cb6	2026-03-20T18:36:38+05:30	Northstar-Dental	nsd-brain	migration fixes
+c09859356a27355e930075420e2c5e0e208e236a	2026-03-31T16:23:37+05:30	Northstar-Dental	nsd-brain	Prospects types and mappings (#3)
+c0b958fc4e4f2caf114f971d56253991b250397a	2026-04-03T13:48:31+05:30	Northstar-Dental	nsd-brain	Accounts list: multi-select filters, search, and alphabetical sorting
+c18799d468ec46ac0ceaa8b24802d0f0c9e500e5	2026-04-15T12:33:52+05:30	Northstar-Dental	nsd-brain	Added History audit for relationships
+c703794e04a37ffbedc0a0bc1d88ca0cca4466f8	2026-04-03T17:15:57+05:30	Northstar-Dental	nsd-brain	Port Brain from Local Queue to Conductor (#13)
+c71f04deaa15a63052bcd707de4a765bf0c6b2e9	2026-04-03T14:09:05+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+c7bd9d542eaa0fd41049903ca78bed0091c22491	2026-04-11T02:48:04+05:30	Northstar-Dental	nsd-brain	added job cancel in conductor (#25)
+c82576e5aa659d0b8d0c78d140e8d5ea6ca6d895	2026-04-08T11:34:19+05:30	Northstar-Dental	nsd-brain	 kanban board enhancements: labels, members, activity log, filters, markdown editor, customizable columns
+ca0da628d69bd0464c5d9ae0ba1569567094da57	2026-04-24T00:13:14+05:30	Northstar-Dental	nsd-brain	rediit apify
+cb12afda1d4eb5f82a71f904e0e40933c183baca	2026-05-07T20:01:31+05:30	Northstar-Dental	nsd-brain	Dentaltown scrapping (#42)
+cc1e256bcb7ab39caab85f815a9436930d7b88cf	2026-03-30T21:42:09+05:30	Northstar-Dental	nsd-brain	break transcript in chunks if needed
+cd168ee27597d20f317e9ac13a2ab8b08c37de13	2026-04-02T18:32:32+05:30	Northstar-Dental	nsd-brain	Conductor and Plugins with prompt generation workflow (#7)
+cd591a3074f37686f915a41020d0805d25ed2b48	2026-04-20T11:28:46+05:30	Northstar-Dental	nsd-brain	Revert "Linkedin scrapper (#34)"
+d1c53a6dd48b968fce9828f3598ff41dcba6aacd	2026-03-18T15:42:06+05:30	Northstar-Dental	nsd-brain	meeting insights
+d438c28e7fc7ec14b41006399d34bc4a345219ac	2026-04-03T12:38:42+05:30	Northstar-Dental	nsd-brain	Board UI: column scrolling, card preview fixes, and detail panel improvements (#11)
+d4b1c434c262dc97ebbae8908f0e31d277c97772	2026-05-11T11:58:36+05:30	Northstar-Dental	nsd-brain	morning grind articles
+d530603a10704afeec9a814c419c8392275e42b0	2026-03-25T14:30:27+05:30	Northstar-Dental	nsd-brain	Remove settings.local.json from tracking (already in .gitignore)
+d763584d9d4d82539013f89a3c77b4bcf9d6ef23	2026-03-31T17:01:03+05:30	Northstar-Dental	nsd-brain	kanban board CURD
+d7b7cf4761e6179388ae5ff84a991b957c3b2a46	2026-04-20T15:06:41+05:30	Northstar-Dental	nsd-brain	fixed person build
+d88729b4332b5e03fd332f1f579706ac4f4ffb98	2026-04-16T19:17:35+05:30	Northstar-Dental	nsd-brain	fixed null string issues in LLm call (#33)
+d955cc192287cbb1646590c680be325f36c83558	2026-04-16T16:52:47+05:30	Northstar-Dental	nsd-brain	move state to db
+d9fca2b4eded0de55b40e515b989cadb2096f3f0	2026-04-20T19:45:05+05:30	Northstar-Dental	nsd-brain	Linkedin scrapper (#36)
+de0f4817a24cacf7bf3c3846ec38ca71d55886ae	2026-03-19T12:46:12+05:30	Northstar-Dental	nsd-brain	update topic intelligence
+dead3af159e41ac6df75ad7e8f7492e80b8c9f7f	2026-05-07T19:28:16+05:30	Northstar-Dental	nsd-brain	news and magzine articles
+dfe026d0f3d9c2caecf78f5dad7b6e1de9c9971b	2026-04-03T22:26:12+05:30	Northstar-Dental	nsd-brain	Account lead tracking (#15)
+e0a875838d02a29d9d95400676bc4348a19bb1cb	2026-04-07T16:22:53+05:30	Northstar-Dental	nsd-brain	update reamde.md and claude.md
+e1956b49f09c81f07be7b5e25f512367870f6f00	2026-04-14T14:49:25+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md files
+e2d2681db14d9dd3a7222dabdb9fada80407f6ce	2026-05-08T15:20:51+05:30	Northstar-Dental	nsd-brain	scrape data report and triggers
+e5aa0b309e3a5a8e18234acb93b2b60d99c8eb0b	2026-04-24T09:52:16+05:30	Northstar-Dental	nsd-brain	ui optimization and fixes
+e87f938b34b02549979611309ae52a3e5f798a17	2026-04-01T16:04:35+05:30	Northstar-Dental	nsd-brain	Ticket Card UI update (#5)
+ea40e32ac60544f701655f5e619ad059bf4fc773	2026-05-07T20:52:46+05:30	Northstar-Dental	nsd-brain	UI fixes and seperate section
+eede8acd68af5e0ad1d71f2e8c1c10912483dd1b	2026-04-14T14:30:36+05:30	Northstar-Dental	nsd-brain	feat(frontend): people directory, person detail, and reagraph relationship graph
+f06542d780e52a0b6fbc6f4d3ecbaef44d9132ca	2026-04-13T21:50:08+05:30	Northstar-Dental	nsd-brain	Add S3-backed image upload for card comments and descriptions
+f37ba088252e00add090c78772685c4098295156	2026-04-15T17:31:21+05:30	Northstar-Dental	nsd-brain	added feture to end relationship (#31)
+f3f70ac55f8d2d7b909859a86fa4edeed869c9a4	2026-04-14T17:01:36+05:30	Northstar-Dental	nsd-brain	added person enhancement in meetings
+f43eacbf60396deca33618e3d0a4e75f53b67dc0	2026-04-08T15:08:15+05:30	Northstar-Dental	nsd-brain	format description
+f445fda8319d93f06c9aeeb32b54af8bb199a5b2	2026-04-08T12:20:12+05:30	Northstar-Dental	nsd-brain	Conductor persistence cost tracking artifacts (#20)
+f54d718379c2ed7b80290a9b38dc73d8b9447f8a	2026-04-24T09:52:16+05:30	Northstar-Dental	nsd-brain	ui optimization and fixes
+f54d8c1d694970c8f2e439495e1477f7431c75fe	2026-04-17T15:24:56+05:30	Northstar-Dental	nsd-brain	scrape single profile button
+f6fcb8f35051823589b549626f494bff36881dfe	2026-04-01T14:28:01+05:30	Northstar-Dental	nsd-brain	quill editor for card details
+f7a88c7ad5d757465bf598c4bc83d95758cb8ed5	2026-04-20T15:01:53+05:30	Northstar-Dental	nsd-brain	Person intelligence v2 (#37)
+f9995cf424693debd062353d501679432bc5a6ec	2026-04-17T15:05:16+05:30	Northstar-Dental	nsd-brain	email scrapping
+fafa162616d25e958f6b560cb566c532eda85b00	2026-03-20T18:30:56+05:30	Northstar-Dental	nsd-brain	fixes
+fcf2e0f731efd6570692834b3c5efaf1f6b5fbfb	2026-04-23T17:51:50+05:30	Northstar-Dental	nsd-brain	update claude.md and readme.md
+fcfe8ce87f047574fc246334964e370b4a5d3c95	2026-05-07T20:54:53+05:30	Northstar-Dental	nsd-brain	UI fixes and seperate section (#43)
+fd8a5455480ea1535f18df9189c5a65bd8eeddeb	2026-04-02T22:15:31+05:30	Northstar-Dental	nsd-brain	fix: return 200 for NOT_GENERATED intelligence brief instead of 404

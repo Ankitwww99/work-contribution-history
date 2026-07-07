@@ -1,0 +1,125 @@
+00e5b552fc8c797e098f7fbad94086c548ee482e	2026-06-24T20:40:08+05:30	Northstar-Dental	pms	Add delete action to schedule block right-click menu
+016e6b175cb1d820008f2b38dd5da0d13aa9b8c9	2026-07-06T12:10:12+05:30	Northstar-Dental	pms	Add order column and enable move-to-top while searching in category codes dialog
+0785a5d01593ca3bcf7c460bb5e6685e65a0be74	2026-07-01T15:43:32+05:30	Northstar-Dental	pms	Add Office Day Look-Ahead dashboard
+08a6cb0dc148c8c1ad6032527bd5595e822ba79c	2026-06-09T11:39:17+05:30	Northstar-Dental	pms	rebase schma changes
+0c1b21144cf9b6d98e9bfb6ff0692ae57252a7b9	2026-05-14T11:40:22+05:30	Northstar-Dental	pms	custom report workflow
+0c69b49e5afaad69bb754ad22b6a863cda0757f2	2026-05-21T21:53:54+05:30	Northstar-Dental	pms	unlock todays appointment for drag and drop
+0c9d93b36c6e110b675018de921b94ff7db2d6b6	2026-05-18T18:18:59+05:30	Northstar-Dental	pms	rename migration
+0de45c1bbec59c6526d2441535a56112e1366640	2026-07-06T11:54:47+05:30	Northstar-Dental	pms	Fix custom-category move/remove for CDT codes at an active location
+0f337c6f15b98192a3b781ec9792f04c8221d60c	2026-07-06T19:31:44+05:30	Northstar-Dental	pms	index on fix-insured-self-pay-on-file: 745f0d18 Align Office Day insurance widgets with app sources
+11b443be257dcb77e24b05991ae68d186109ffe8	2026-06-25T13:38:54+05:30	Northstar-Dental	pms	Add Waiting Room panel for arrived patients
+16822a3c6e8980ccc5723e7d5def82ec43f5f77b	2026-06-23T19:47:22+05:30	Northstar-Dental	pms	Fit operatory columns to screen and fix day-view timezone
+172d8e2e2dd096aa8cad5520cecf8d2507954108	2026-06-19T22:28:28+05:30	Northstar-Dental	pms	Merge branch 'main' into custom-cdt-code-category
+17b7c502b0cf5ca594e8ba689fd57059afbd1456	2026-05-29T19:19:49+05:30	Northstar-Dental	pms	Reschedule pinboard appointments without switching location
+17ee5c4f0be06b21479e7847863a0e40974266e9	2026-05-18T22:44:42+05:30	Northstar-Dental	pms	tests
+1cbd57ec342eafdf9620f9020f9e60b23aef3f3e	2026-05-14T14:13:32+05:30	Northstar-Dental	pms	schedule reports
+21932a8c5d4e1f0d77bbd85727aabb48dfe098fb	2026-07-02T12:12:26+05:30	Northstar-Dental	pms	Fix schedule-gap times in the all-locations view
+23a7dce65bb77266798a9df2bfa1ca6bbdf063bd	2026-06-08T20:36:47+05:30	Northstar-Dental	pms	AR aging
+25f2a55c0d9c3eaeba081837f5740f329ef7b625	2026-06-22T12:53:59+05:30	Northstar-Dental	pms	Fix appointment calendar positioning to use location timezone
+27615f4132e914c106e5598c506285ac2248b96e	2026-06-19T21:50:20+05:30	Northstar-Dental	pms	Schedule calendar: blocks & exceptions (operatory + provider) with right-click editing (#93)
+27f7ef70840f19be20d82c1a28a0176f7d306096	2026-06-24T19:26:58+05:30	Northstar-Dental	pms	rebase fixes
+295cbb91086dfed21f9374fe1aad9823feeb86e2	2026-05-29T15:05:09+05:30	Northstar-Dental	pms	fix migration conflicts
+2c8bf97d6b452216311f31fbb0eaf4c860b65d87	2026-05-29T15:49:29+05:30	Northstar-Dental	pms	Preserve previous slot when an appointment is moved to the Pinboard
+2f758589c77d590d6d4c21bb0080db67c317fc58	2026-06-15T19:47:39+05:30	Northstar-Dental	pms	Add cdt_codes_overrides.custom_category_id FK + backfill from OD proc categories
+3231c12457d03933e669405b489ec5ea85940c97	2026-05-14T12:45:15+05:30	Northstar-Dental	pms	out of th box built in reports
+3623b183315eeccdbba113e671eb56495782f071	2026-05-18T22:44:42+05:30	Northstar-Dental	pms	tests
+3a7acdbd24adefe50d6e62a1848a9bfd8a9a283f	2026-06-18T15:15:43+05:30	Northstar-Dental	pms	Add right-click "Create block" on schedule calendar cells
+3ca777a9c8a466f245daa33bfc6fbf8451269bc0	2026-05-26T19:47:49+05:30	Northstar-Dental	pms	Add trash icon to cancel a pinned appointment
+3ecbb8fb3faae22872b251168198af44edc27089	2026-06-24T20:21:33+05:30	Northstar-Dental	pms	Manage custom procedure code categories and codes (#106)
+45cc3bfddcaf5dbd4580f0412ad5a37f5704f6ec	2026-06-08T19:52:32+05:30	Northstar-Dental	pms	report pagination page number
+45f7467fcbb12c2956ee4f80015e7c0ec17be137	2026-06-19T21:41:55+05:30	Northstar-Dental	pms	fixes
+46f4304eba4bdfb40d14c992a2f884357a1f260a	2026-05-29T20:00:19+05:30	Northstar-Dental	pms	minor fix
+478edd7d196aaf7824936ffa607ed2d3e9258073	2026-07-06T19:41:30+05:30	Northstar-Dental	pms	Fix appointment primary insurance to skip terminated policies
+488b84f7c51dfac6b3dfba84a453c463413b72b5	2026-07-06T11:59:52+05:30	Northstar-Dental	pms	Fix custom-category move/remove for CDT codes and stale listing counts
+4909e59cda7a98d43b0bacded5b20bedd8946a9c	2026-05-25T12:09:09+05:30	Northstar-Dental	pms	collapsible pinboard panel
+4b9199b6466a02be9a242af07f4dba26762cd43a	2026-05-25T12:24:13+05:30	Northstar-Dental	pms	Add "Move to Pinboard" button to appointment hover preview
+4e4764b154c06ee86d25a2f2372148099c1d8ff5	2026-05-26T22:50:31+05:30	Northstar-Dental	pms	Move "Move to Pinboard" action onto appointment card as an icon button
+4faf1e5408c1d457169b53700c1cff1bb121b966	2026-07-02T21:50:27+05:30	Northstar-Dental	pms	Add PHI-safe per-patient AI prep summaries to Office Day
+506a5af066b5d9314ea5839b72e0b68113f6772b	2026-05-18T23:14:35+05:30	Northstar-Dental	pms	reports achitecture doc
+51ad6ec083744bfc6112dd23cf856228779cfc73	2026-06-19T21:27:44+05:30	Northstar-Dental	pms	Merge branch 'main' into schedule-blocks-and-exceptions
+525fb5358577945b69ef21d68aee7311252f1d1c	2026-06-22T19:27:46+05:30	Northstar-Dental	pms	Schedule: location-timezone positioning, exception hour labels, and full-color appointment blocks (#98)
+54eda5c7bf2e0e26c6193a85578ecc73880add49	2026-05-29T19:31:06+05:30	Northstar-Dental	pms	Replace pin icon button with right-click context menu on appointment cards
+56beab336e8d8debe1025b466dbe4cad86e8af8a	2026-06-22T20:36:51+05:30	Northstar-Dental	pms	migration fix
+584e7aee6f38b3de64ab267ac6bcb5e9744aa1b8	2026-06-01T20:58:29+05:30	Northstar-Dental	pms	Reports (#22)
+67ee2c655ef60068c815f145a4c5a19f35fbdc4e	2026-07-06T18:38:19+05:30	Northstar-Dental	pms	Fix Insurance Coverage pie to use is_self_pay flag
+6b17bebdb02f650afb1a87cb911e867b2a8e6789	2026-05-22T10:55:42+05:30	Northstar-Dental	pms	unlock todays appointment for drag and drop (#37)
+6ed38f11d550c872038fc04ba78c90bb75f5330b	2026-06-18T14:20:36-05:00	Northstar-Dental	pms	Show full details on schedule exception and block cards
+7011bfa83b2aae1e1399ee2164d2327235057156	2026-06-18T17:28:56+05:30	Northstar-Dental	pms	Add calendar right-click "Add operatory/schedule exception"
+71995143c6bb84524266561a7a61619f6407af47	2026-06-24T21:06:33+05:30	Northstar-Dental	pms	Add delete action to schedule block right-click menu (#108)
+71cccf45e112e874f878b7245f619dc6d375f04d	2026-06-11T10:38:54+05:30	Northstar-Dental	pms	make Schedule the top nav item and move Dashboard to last
+7342b7beb5e8cf22460a72a47b9b81d04f3f7eb7	2026-07-06T19:31:44+05:30	Northstar-Dental	pms	On fix-insured-self-pay-on-file: insurance choose
+741a22640de0445cfd6d9e1e6f45404fe809107f	2026-07-02T19:26:51+05:30	Northstar-Dental	pms	Add past-date "Day Recap" mode to Office Day dashboard
+745b0fbbd8ce6934878fc311301d38d0850fb986	2026-06-18T14:28:49-05:00	Northstar-Dental	pms	Restrict schedule date inputs to today or later
+745f0d1868818cccd6f36e6e99c031320615997a	2026-07-06T19:16:37+05:30	Northstar-Dental	pms	Align Office Day insurance widgets with app sources
+7a99adbb9ab38eba638479f263591d207821690c	2026-07-02T11:43:33+05:30	Northstar-Dental	pms	Add doctor-owner views to Office Day Look-Ahead
+7f762725cc0c2d58e0fa9efe9f4d68891123ee1a	2026-05-18T17:48:08+05:30	Northstar-Dental	pms	report fixes and modification
+81afffbc51e5193f69b5b4914fc14ad4a3008fb5	2026-07-06T12:33:29+05:30	Northstar-Dental	pms	Add inline order-number editing to category codes dialog
+81ebbbda67b1ffa6159c9dbf68764ed39e395575	2026-06-15T20:16:47+05:30	Northstar-Dental	pms	Source ProceduresModal categories from procedure_code_categories
+84002df2d6b82f5546688ba7e3a56096db264fd0	2026-05-29T19:31:06+05:30	Northstar-Dental	pms	Replace pin icon button with right-click context menu on appointment cards
+845a1ccbb70932c9bb6287ab33b3aa222e7337bc	2026-05-29T15:49:29+05:30	Northstar-Dental	pms	Preserve previous slot when an appointment is moved to the Pinboard
+84f1e9ac7560444fe0c34cbc5ac59a385cdf66fe	2026-07-02T12:50:12+05:30	Northstar-Dental	pms	Make Office Day list groups collapsible + add patient redirects
+855e5322a09cd9e9aeac027f6cf4fc2c21d1e6d3	2026-06-08T20:30:41+05:30	Northstar-Dental	pms	reports place holder
+8680c52ca36d26cb0740116a95a7a2e831ab9ad1	2026-06-29T18:33:54+05:30	Northstar-Dental	pms	Fix category code counts and surface location overrides in procedure code UI (#132)
+86e98ca6b8f8b5c4f54a2824b83d2422eb6e4624	2026-06-29T12:46:39+05:30	Northstar-Dental	pms	Fix shifting date nav buttons on schedule calendar
+8b880f331434a98d714a1a2113ac186feb937be4	2026-06-22T21:03:37+05:30	Northstar-Dental	pms	migration fix (#100)
+8cf70647169face33be4df4f73319595853a8848	2026-05-15T19:00:10+05:30	Northstar-Dental	pms	ai report v1
+8e21931d58556bab6b661f1f0426d1333d4473b7	2026-05-29T20:21:35+05:30	Northstar-Dental	pms	Pinboard polish: smarter rescheduling and right-click menu (#45)
+8e34b1a21ec0be516973f6006de21655e477e38d	2026-06-11T10:42:49+05:30	Northstar-Dental	pms	 move Charts to second in patient side nav, under Overview
+8e7167f458f61889f4accb5dc24f8f8da474d3c9	2026-06-29T11:42:10+05:30	Northstar-Dental	pms	Show display name and description in category reorder modal
+8eba6865f11b07546944b53e1883942fdd340538	2026-05-14T12:45:15+05:30	Northstar-Dental	pms	out of th box built in reports
+9114535025e6be8fa57c62f1cb5aca7eb339dc2a	2026-05-21T16:19:06+05:30	Northstar-Dental	pms	schedule views
+93951c93ff7fc1bc4630eef2dfa5734b815655dc	2026-06-18T17:06:42+05:30	Northstar-Dental	pms	Add operatory-level schedule exceptions
+93d2c0466a738718e5118c94758005d6da4a59d2	2026-05-15T19:00:10+05:30	Northstar-Dental	pms	ai report v1
+97469143ce7189775b12ed15a65e707fb9057bd3	2026-05-29T18:46:27+05:30	Northstar-Dental	pms	Suggest available slots for pinned appointments
+9c3a00c6e1a5bf05e9321e29b96d7e1a5ae48e5a	2026-07-06T17:27:13+05:30	Northstar-Dental	pms	Align insured/self-pay with appointment on_file on office day info page
+9cc9ec5577d2bda01cc5e51b142897d07dd06c5b	2026-05-21T20:57:01+05:30	Northstar-Dental	pms	Schedule views (#35)
+9ed83fc4539ff9bcab426ada98027c42ebb3afb2	2026-07-03T22:52:56+05:30	Northstar-Dental	pms	Office Day dashboard: look-ahead, recap, per-doctor "My Day", and PHI-safe AI prep summaries (#152)
+9ef0c1789f9923293ab84a7d7aaace61f3addf2c	2026-06-19T22:40:17+05:30	Northstar-Dental	pms	fixes
+a48d45ecfa9be53d80b8a16c14b34039d239bae2	2026-05-29T19:19:49+05:30	Northstar-Dental	pms	Reschedule pinboard appointments without switching location
+a4d419974f7394ee1dcb5a5c0ae8bd6fcbe97e0a	2026-06-22T13:48:43+05:30	Northstar-Dental	pms	Label exception custom hours Open/Close for location, From/To for provider/operatory
+a74cb7f2373ca8a33df3ee81cf386b26aff39cc2	2026-05-27T12:07:49+05:30	Northstar-Dental	pms	Share the Pinboard across all locations in the tenant
+a7d1444a95f516be223992d8024f6d708aa45844	2026-07-02T21:59:47+05:30	Northstar-Dental	pms	Persist Office Day filters in the URL query string
+a88614bb7468e75438e19ee0ef0dd56d8ad2d32f	2026-06-24T18:51:03+05:30	Northstar-Dental	pms	Manage custom procedure code categories and codes
+a9befb8dc2d838b768e9ae797b08a7b16e181d43	2026-06-11T10:11:31+05:30	Northstar-Dental	pms	add date picker to schedule toolbar for quick date navigation
+abd1722db2711dcdf55fdfb7375133b4693e57e0	2026-06-18T14:02:37-05:00	Northstar-Dental	pms	Add provider exceptions to schedule calendar with category-lane overlap layout and cut-copy-paste
+ae155beae7d439a178ac2c528c07f3e1fbacb373	2026-06-15T23:00:16+05:30	Northstar-Dental	pms	chart appointment modal ui fix
+afff4c040f48c25b63717fc01c507d7f01b2efae	2026-06-25T17:28:24+05:30	Northstar-Dental	pms	Fix Suggest slot modal padding and wire dialog into pinboard items (#118)
+b17cf07a7889e5ed21d6463454e27b381a3cf508	2026-06-18T20:08:52+05:30	Northstar-Dental	pms	Add provider exceptions to schedule calendar with category-lane overlap layout
+b1db424c942582749a98ebe3771229353b529fc5	2026-06-22T16:07:48+05:30	Northstar-Dental	pms	Fill appointment blocks with full type color and flip text for legibility
+b8c15649c66556f0178779456f209d0c2cce32f1	2026-06-29T12:13:26+05:30	Northstar-Dental	pms	Mark location-overridden codes in procedure code listings
+b9e2261fb88691e1b99a0e25f97709f81972cd6e	2026-06-18T12:59:01+05:30	Northstar-Dental	pms	Show scheduling blocks in week view
+b9faa51e5348e0dff228bf3b0a580b31a7bdd1c3	2026-05-29T18:46:27+05:30	Northstar-Dental	pms	Suggest available slots for pinned appointments
+bc66ab58abb556b709793285a490feff36eb2f89	2026-05-18T23:14:35+05:30	Northstar-Dental	pms	reports achitecture doc
+be770e480db071b226393f83ec47d7bdbd542c1e	2026-06-15T19:29:13+05:30	Northstar-Dental	pms	Import Open Dental procedure-code categories into procedure_code_categories
+bfcc9cebd0624e909d23ea590abf6fc347050f01	2026-06-19T01:12:23+05:30	Northstar-Dental	pms	Bolden hour lines and add day dividers in week view
+c09cac2760cef7bfe4730ffcffaebfe89b9fc429	2026-05-25T17:15:31+05:30	Northstar-Dental	pms	Show how long an appointment has been on the Pinboard
+c2bb260667976a4807db453fa04bdaeeec5a0cf3	2026-05-18T18:40:21+05:30	Northstar-Dental	pms	minor fix
+c3304b842ae236ad4d7c01a897d751dd58374988	2026-05-14T11:40:22+05:30	Northstar-Dental	pms	custom report workflow
+c5b8b58e731b8dbf24faa67b88531d212ac69df9	2026-06-22T19:27:28+05:30	Northstar-Dental	pms	Org procedure-code categories: import from Open Dental and use in the chart procedure picker (#81)
+c68f7644c2ab115021f07c18e8c1f22347efd42a	2026-07-06T19:41:30+05:30	Northstar-Dental	pms	Fix appointment primary insurance to skip terminated policies
+c77791ef086abbb4fe854db6be9ed44ae7d093d9	2026-06-25T13:32:05+05:30	Northstar-Dental	pms	Fix Suggest slot modal padding and wire dialog into pinboard items
+c7a56aebd0c2b9662377d903a7300a646e4b35e6	2026-05-14T14:37:35+05:30	Northstar-Dental	pms	minir fixes and UI changes
+c7c80db323dd541446ee9fea03dd75bb18346878	2026-06-15T23:59:41+05:30	Northstar-Dental	pms	chart appointment modal ui fix (#82)
+c9123aa870af203c20cca87d40709d071793f4d8	2026-05-22T13:43:06+05:30	Northstar-Dental	pms	Pinboard staging panel for the scheduler
+ca37fac93e74ee3f2dc87279e61bdceb83951aff	2026-06-29T12:48:28+05:30	Northstar-Dental	pms	Fix shifting date nav buttons on schedule calendar (#133)
+cbe6adae0c907410b3fb4e3b84803f34aa699c53	2026-05-29T19:37:20+05:30	Northstar-Dental	pms	Pinboard staging panel for the scheduler (#38)
+cc54f06980f974be0b52dd5031f829981fa96d29	2026-06-25T20:21:28+05:30	Northstar-Dental	pms	Add Waiting Room panel for arrived patients (#119)
+d5f6b8723beb928f441a2da46f1e76504c5663ff	2026-06-29T11:16:17+05:30	Northstar-Dental	pms	Fix procedure-code category count to match codes list
+e103c9788bc5c0486ff8fe2a0ef2e6d173d260d1	2026-06-26T20:02:25+05:30	Northstar-Dental	pms	Add per-category ordering for procedure codes (#126)
+e25c36dbf52470cb4b1174909360992ec6aec92b	2026-05-21T20:17:14+05:30	Northstar-Dental	pms	schedule: drag-and-drop and resize for appointments
+e26ad50215a5f95b5e3a423b49e7eb8b643775a5	2026-06-11T12:08:29+05:30	Northstar-Dental	pms	replace full-width red appointment note recording bar with discreet chip
+e29c7717038487793321a8789f797bc075a76190	2026-06-11T18:23:09+05:30	Northstar-Dental	pms	UI Improvements (feedback 0609) (#79)
+e30dd366be1a21fa26bc5486a8f5c961759b961d	2026-05-18T18:18:59+05:30	Northstar-Dental	pms	rename migration
+e39631b7761573d632580a196f418947caa4c630	2026-06-23T20:13:35+05:30	Northstar-Dental	pms	Fit operatory columns to screen and fix day-view timezone (#103)
+e59cc66b3f660fd61b134c87f696eb43f7b5d475	2026-05-18T17:48:08+05:30	Northstar-Dental	pms	report fixes and modification
+e78baf4c596c8f8c0a2c06ba5b0f4aa345841299	2026-05-14T14:37:35+05:30	Northstar-Dental	pms	minir fixes and UI changes
+f1e4acfbf0034437546a5d84560b86bd689b49ed	2026-06-11T10:35:24+05:30	Northstar-Dental	pms	feat(schedule): prefill global patient in create appointment modal
+f218b496e625158f0063313fdb0fa8ab7ac9760a	2026-06-18T12:25:22+05:30	Northstar-Dental	pms	Add effective_till to schedule block types
+f2a728056bd2008249d3bc87b20138a38ffab0c6	2026-06-05T14:09:35+05:30	Northstar-Dental	pms	patient outstanding balance
+f46686d58e06c185c2c464818585ef6ea1ab2e6d	2026-06-01T17:11:45+05:30	Northstar-Dental	pms	fix migration issue
+f4f1f0582d0ea274e654e94a3f44cefe94fad003	2026-06-11T16:06:42+05:30	Northstar-Dental	pms	review fixes
+f87912eed99ad12b92633af6c2dbcf290d93f9ca	2026-07-02T22:06:12+05:30	Northstar-Dental	pms	Add per-provider treatment-mix chart to Office Day "My Day" view
+f94838fa30680702ceeb97895dd21a6f10718d89	2026-06-05T16:15:42+05:30	Northstar-Dental	pms	patient overdue recall report
+fa77e50732e56c52562941e6bc7ab9a6bc88a285	2026-06-26T19:59:44+05:30	Northstar-Dental	pms	Add per-category ordering for procedure codes
+fcd4fd2c7162bd0a44a711d76d5f3a8db11eee99	2026-05-14T14:13:32+05:30	Northstar-Dental	pms	schedule reports
+ff670b394747eac040e33e61ed45a0e4f0c208ee	2026-06-18T14:39:00+05:30	Northstar-Dental	pms	Hide scheduling blocks on days the location is closed

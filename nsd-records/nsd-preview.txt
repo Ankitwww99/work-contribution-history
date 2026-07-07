@@ -1,0 +1,653 @@
+PREVIEW — exactly what 3-generate-commits.sh will create (nothing committed yet)
+Total commits : 625   |   Distinct days : 170   |   Range : 2025-07-22 .. 2026-07-06
+
+commits per repo:
+   266 Northstar-Dental/nsd-web-app
+   160 Northstar-Dental/nsd-brain
+   111 Northstar-Dental/pms
+    78 Northstar-Dental/nsd-backend
+     7 Northstar-Dental/infrastructure
+     3 Northstar-Dental/nsd-infra
+
+commits per month:
+  2025-07    28  ############################
+  2025-08    24  ########################
+  2025-09    16  ################
+  2025-10    32  ################################
+  2025-11    16  ################
+  2025-12    28  ############################
+  2026-01    65  ############################################################
+  2026-02   131  ############################################################
+  2026-03    42  ##########################################
+  2026-04   116  ############################################################
+  2026-05    45  #############################################
+  2026-06    63  ############################################################
+  2026-07    19  ###################
+
+FULL commit list (date  ->  message as it will appear):
+-------------------------------------------------------
+2025-07-22  Northstar-Dental: nsd-web-app: revamp folder structure
+2025-07-22  Northstar-Dental: nsd-web-app: fix auth store
+2025-07-22  Northstar-Dental: nsd-web-app: eslint and prettier setup
+2025-07-22  Northstar-Dental: nsd-web-app: css file formater
+2025-07-22  Northstar-Dental: nsd-web-app: dynamic theme with custom color
+2025-07-24  Northstar-Dental: nsd-web-app: revamp structure
+2025-07-25  Northstar-Dental: nsd-web-app: WIP:login flow
+2025-07-25  Northstar-Dental: nsd-web-app: separate user store
+2025-07-25  Northstar-Dental: nsd-web-app: reset password ui, and tanstack form
+2025-07-25  Northstar-Dental: nsd-web-app: lint and build fixes
+2025-07-25  Northstar-Dental: nsd-web-app: upadte main layout to include theme support
+2025-07-28  Northstar-Dental: nsd-web-app: update readme and cursor rules
+2025-07-28  Northstar-Dental: nsd-web-app: fix refresh token and me api call edge case
+2025-07-28  Northstar-Dental: nsd-web-app: store structure
+2025-07-28  Northstar-Dental: nsd-web-app: static top info bar
+2025-07-28  Northstar-Dental: nsd-web-app: WIP:static sidebar
+2025-07-28  Northstar-Dental: nsd-web-app: file name changes
+2025-07-28  Northstar-Dental: nsd-web-app: change role to roles array
+2025-07-28  Northstar-Dental: nsd-web-app: husky setup
+2025-07-29  Northstar-Dental: nsd-web-app: remove duplicate files
+2025-07-29  Northstar-Dental: nsd-web-app: Merge pull request #8 from Northstar-Dental/file-name-fix
+2025-07-29  Northstar-Dental: nsd-web-app: pr review fixes
+2025-07-29  Northstar-Dental: nsd-web-app: fixes
+2025-07-29  Northstar-Dental: nsd-web-app: Merge pull request #9 from Northstar-Dental/review-fixes-29-jul
+2025-07-29  Northstar-Dental: nsd-web-app: enhance UI with new components and improved navigation, store fixes
+2025-07-29  Northstar-Dental: nsd-web-app: disable dropdon when user have one option, use user info in dropdown
+2025-07-29  Northstar-Dental: nsd-web-app: fix dropdown check
+2025-07-30  Northstar-Dental: nsd-web-app: fixes
+2025-08-01  Northstar-Dental: nsd-web-app: Implement logout token refresh and sidebar tenant logo improvements (#11)
+2025-08-01  Northstar-Dental: nsd-web-app: Shared Components (#12)
+2025-08-01  Northstar-Dental: nsd-web-app: Authentication Enhancements, UI Refactoring, and Infrastructure Improvements (#13)
+2025-08-04  Northstar-Dental: nsd-web-app: Implement route persistence on reload and improve development workflow (#14)
+2025-08-06  Northstar-Dental: nsd-web-app: Refactor: Migrate User Practices from Zustand Store to React Query Cache (#15)
+2025-08-06  Northstar-Dental: nsd-web-app: Error handling with toast notifications (#16)
+2025-08-07  Northstar-Dental: nsd-web-app: NSDChip Component and Enhance Form Component Error Handling & Dialog Management (#17)
+2025-08-07  Northstar-Dental: nsd-web-app: fix lint issue (#18)
+2025-08-12  Northstar-Dental: nsd-web-app: Fix and Refactor Authentication State Management  (#19)
+2025-08-18  Northstar-Dental: nsd-web-app: Remove custom interface for field data (#21)
+2025-08-19  Northstar-Dental: nsd-infra: initail setup
+2025-08-19  Northstar-Dental: nsd-web-app: Refactor: Remove server-side implementations (#20)
+2025-08-20  Northstar-Dental: nsd-web-app: Consolidate Theme and UI Configuration Providers(#22)
+2025-08-20  Northstar-Dental: nsd-infra: deployment infra
+2025-08-22  Northstar-Dental: nsd-web-app: Settings UI (#23)
+2025-08-22  Northstar-Dental: nsd-web-app: Enable ME API call for home page (#24)
+2025-08-25  Northstar-Dental: nsd-infra: update stack
+2025-08-25  Northstar-Dental: nsd-backend: docker setup
+2025-08-26  Northstar-Dental: nsd-backend: additional keys for status, and permission count
+2025-08-26  Northstar-Dental: nsd-backend: update tests
+2025-08-26  Northstar-Dental: nsd-web-app: Husky depreciation warning fix (#26)
+2025-08-26  Northstar-Dental: nsd-web-app: Not found page and forbidden component (#25)
+2025-08-27  Northstar-Dental: nsd-backend: fix role tenant detail
+2025-08-27  Northstar-Dental: nsd-backend: add role origin details in create and update response
+2025-09-03  Northstar-Dental: nsd-web-app: Admin Settings : Role Section (#27)
+2025-09-03  Northstar-Dental: nsd-web-app: FIX: multi-select scroll (#28)
+2025-09-04  Northstar-Dental: nsd-web-app: Permission based access to routes and components  (#29)
+2025-09-09  Northstar-Dental: nsd-web-app: mobiscroll setup
+2025-09-10  Northstar-Dental: nsd-web-app: backgroung event changes
+2025-09-15  Northstar-Dental: nsd-web-app: Tests (#30)
+2025-09-16  Northstar-Dental: nsd-web-app: Make default location and practice optional (#31)
+2025-09-18  Northstar-Dental: nsd-web-app: added teeth chart
+2025-09-18  Northstar-Dental: nsd-web-app: added required width and height to Image
+2025-09-18  Northstar-Dental: nsd-web-app: make teeth selectable
+2025-09-18  Northstar-Dental: nsd-web-app: responsivene teeth chart
+2025-09-18  Northstar-Dental: nsd-web-app: drawing tools
+2025-09-22  Northstar-Dental: nsd-web-app: disable edit role button for inactive roles
+2025-09-23  Northstar-Dental: nsd-web-app: delete user/role
+2025-09-23  Northstar-Dental: nsd-web-app: disable delete button and filtered inactive roles from dropdown options
+2025-09-23  Northstar-Dental: nsd-web-app: removed scope ids form user/role list apis and invalidate list on delete
+2025-10-03  Northstar-Dental: nsd-web-app: review fixes
+2025-10-03  Northstar-Dental: nsd-web-app: remove deleted cached role
+2025-10-08  Northstar-Dental: nsd-web-app: operatories and appointment management
+2025-10-13  Northstar-Dental: nsd-web-app: location hours
+2025-10-13  Northstar-Dental: nsd-web-app: recurring schedule pattern
+2025-10-13  Northstar-Dental: nsd-web-app: schedule override pattern
+2025-10-13  Northstar-Dental: nsd-web-app: schedule blocks
+2025-10-14  Northstar-Dental: nsd-web-app: revamp block UI and genreic week schedule ui
+2025-10-14  Northstar-Dental: nsd-web-app: fix edit operatory
+2025-10-16  Northstar-Dental: nsd-web-app: basic operatory calander
+2025-10-17  Northstar-Dental: nsd-web-app: operatory calendar UI
+2025-10-17  Northstar-Dental: nsd-web-app: change admin settings ui
+2025-10-21  Northstar-Dental: nsd-web-app: location schedule api integration
+2025-10-21  Northstar-Dental: nsd-web-app: recurring schedule pattern
+2025-10-22  Northstar-Dental: nsd-web-app: location schedule override
+2025-10-22  Northstar-Dental: nsd-web-app: operatories api integration
+2025-10-22  Northstar-Dental: nsd-web-app: Schedule block api integration
+2025-10-23  Northstar-Dental: nsd-web-app: appointment type api integration
+2025-10-23  Northstar-Dental: nsd-backend: update appointment type seed data
+2025-10-24  Northstar-Dental: nsd-web-app: provider schedule and exception
+2025-10-24  Northstar-Dental: nsd-backend: update excepctionCreate payload key type to exceptionType
+2025-10-24  Northstar-Dental: nsd-web-app: WIP: operator calendar view
+2025-10-25  Northstar-Dental: nsd-web-app: refactor loction schedule and exception
+2025-10-25  Northstar-Dental: nsd-web-app: validator and block legends
+2025-10-27  Northstar-Dental: nsd-web-app: timezone fixes
+2025-10-27  Northstar-Dental: nsd-backend: update colors
+2025-10-28  Northstar-Dental: nsd-web-app: location schedule
+2025-10-29  Northstar-Dental: nsd-web-app: add appointment flow and appointment card
+2025-10-29  Northstar-Dental: nsd-web-app: create appointment with override
+2025-10-29  Northstar-Dental: nsd-web-app: add appointment from calander
+2025-10-30  Northstar-Dental: nsd-web-app: render confilcts
+2025-10-31  Northstar-Dental: nsd-web-app: timezone fixes
+2025-11-02  Northstar-Dental: nsd-web-app: reschedule modal
+2025-11-03  Northstar-Dental: nsd-web-app: disable event drag & drop and event creation using calendar ui
+2025-11-03  Northstar-Dental: nsd-web-app: componet return type fixes
+2025-11-03  Northstar-Dental: nsd-web-app: fix store property mismatch
+2025-11-05  Northstar-Dental: nsd-web-app: add tests
+2025-11-05  Northstar-Dental: nsd-web-app: add confirm diloag on appointment type delete action and fix Confirm dialog closing bug
+2025-11-06  Northstar-Dental: nsd-web-app: temp
+2025-11-06  Northstar-Dental: nsd-web-app: Tenant Info for logged in user(#39)
+2025-11-18  Northstar-Dental: nsd-web-app: Procedure Code Management (#41)
+2025-11-20  Northstar-Dental: nsd-web-app: add use clinet on pages
+2025-11-20  Northstar-Dental: nsd-web-app: fix 0 display when there is no paitent in patient selection modal
+2025-11-21  Northstar-Dental: nsd-web-app: Feedback Changes (#47)
+2025-11-24  Northstar-Dental: nsd-web-app: Custom time input and recurring exception modifications (#48)
+2025-11-26  Northstar-Dental: nsd-web-app: Exceptions, Schedules, and Operatory conflicts handling on Create and Update (#49)
+2025-11-27  Northstar-Dental: nsd-web-app: Fee schedule management (#46)
+2025-11-28  Northstar-Dental: nsd-web-app: Fee Schedule Gaps (#52)
+2025-12-04  Northstar-Dental: nsd-backend: update backend port to 4000 by default (#59)
+2025-12-08  Northstar-Dental: nsd-web-app: Insurance Carrier  (#55)
+2025-12-10  Northstar-Dental: nsd-backend: patient partial search, seed data and test cleanup (#62)
+2025-12-10  Northstar-Dental: nsd-backend: update for ci.yml (#63)
+2025-12-10  Northstar-Dental: nsd-backend: fix gitignore for clinical seed data (#65)
+2025-12-10  Northstar-Dental: nsd-backend: readme update (#64)
+2025-12-10  Northstar-Dental: nsd-backend: update readme (#66)
+2025-12-10  Northstar-Dental: nsd-backend: remove debuggers used for fixing integration tests (#67)
+2025-12-10  Northstar-Dental: nsd-backend: addl updates for seeding in ci mode (#68)
+2025-12-11  Northstar-Dental: nsd-backend: safeguards to prevent crawlers and bots (#70)
+2025-12-11  Northstar-Dental: nsd-backend: updated logo in seed data (#71)
+2025-12-12  Northstar-Dental: nsd-backend: system user account (#75)
+2025-12-13  Northstar-Dental: nsd-backend:  lists, list items, languages, translations (#76)
+2025-12-16  Northstar-Dental: nsd-backend: updated patient attributes to use list item values (#78)
+2025-12-16  Northstar-Dental: nsd-backend: add the ability to filter list items (#80)
+2025-12-18  Northstar-Dental: nsd-web-app: Update procedure code detail icon to edit icon (#79)
+2025-12-18  Northstar-Dental: nsd-web-app: Multi select checkbox ui (#80)
+2025-12-18  Northstar-Dental: nsd-web-app: Insurance Plan Module (#75)
+2025-12-21  Northstar-Dental: nsd-backend: consistent snake case naming for db tables, columns, indicies (#82)
+2025-12-22  Northstar-Dental: nsd-web-app: WIP: patient insurance
+2025-12-22  Northstar-Dental: nsd-backend: removing list codes and fks from db tables (#83)
+2025-12-22  Northstar-Dental: nsd-backend: prettier file fix (#84)
+2025-12-24  Northstar-Dental: nsd-web-app: Integration Management: SOTA CLOUD and Dental Exchange (#85)
+2025-12-29  Northstar-Dental: nsd-backend: family-aware patient changes (#85)
+2025-12-29  Northstar-Dental: nsd-web-app: SOTA Cloud Button and Exams Listing   (#86)
+2025-12-29  Northstar-Dental: nsd-web-app: DXC and SOTA Cloud integrations from DSO (#88)
+2025-12-30  Northstar-Dental: nsd-backend: seed and update carrier fixes
+2025-12-31  Northstar-Dental: nsd-backend: family aware patient updates (#87)
+2026-01-01  Northstar-Dental: nsd-web-app: FE: Schema Fixes after system lists update (#92)
+2026-01-01  Northstar-Dental: nsd-backend: comms filters (#91)
+2026-01-02  Northstar-Dental: nsd-web-app: Patient Appointment reschedule flow (#94)
+2026-01-02  Northstar-Dental: nsd-web-app: FIX: Copy to all functionality for Schedule block (#96)
+2026-01-02  Northstar-Dental: nsd-backend: message read tracking (#92)
+2026-01-02  Northstar-Dental: nsd-backend: add build step to pr job (#93)
+2026-01-02  Northstar-Dental: nsd-web-app: insurance verification
+2026-01-07  Northstar-Dental: nsd-backend: document storage (#95)
+2026-01-07  Northstar-Dental: nsd-backend: document storage additional updates (#96)
+2026-01-07  Northstar-Dental: nsd-web-app: Refactor DXC Integration management (#104)
+2026-01-07  Northstar-Dental: nsd-web-app: coverage items dynamic list
+2026-01-07  Northstar-Dental: nsd-web-app: review fixes
+2026-01-07  Northstar-Dental: nsd-web-app: Coverage items dynamic list usage  (#105)
+2026-01-08  Northstar-Dental: nsd-backend: increment folder doc count after successful finalized upload (#97)
+2026-01-09  Northstar-Dental: nsd-web-app: coverage items list and type check
+2026-01-09  Northstar-Dental: nsd-web-app: review fixes
+2026-01-09  Northstar-Dental: nsd-web-app: coverage items list and type check (#109)
+2026-01-12  Northstar-Dental: nsd-web-app: insurance benefits details
+2026-01-12  Northstar-Dental: nsd-web-app: review fixes
+2026-01-12  Northstar-Dental: nsd-web-app: review fixes
+2026-01-12  Northstar-Dental: nsd-web-app: Insurance Verification and Benefits Details (#112)
+2026-01-13  Northstar-Dental: nsd-web-app: auth ssr
+2026-01-15  Northstar-Dental: nsd-web-app: update procedure code with finacial category and transaction subtype
+2026-01-15  Northstar-Dental: nsd-web-app: add new properties in custom code
+2026-01-15  Northstar-Dental: nsd-web-app: financial category and transaction type validation check
+2026-01-15  Northstar-Dental: nsd-web-app: office fee schedule
+2026-01-15  Northstar-Dental: nsd-web-app: remove unlimited option for deductables
+2026-01-15  Northstar-Dental: nsd-web-app: update insurance plan, fee schedule apis
+2026-01-19  Northstar-Dental: nsd-web-app: appointment detail page and related ui
+2026-01-20  Northstar-Dental: nsd-web-app: appointment complete api changes
+2026-01-21  Northstar-Dental: nsd-web-app: line level ledger
+2026-01-21  Northstar-Dental: nsd-backend: initial payments work (#103)
+2026-01-22  Northstar-Dental: nsd-backend: increase payment state machine test timeout (#105)
+2026-01-22  Northstar-Dental: nsd-backend: increase lock timeout for ci (#106)
+2026-01-22  Northstar-Dental: nsd-web-app: patient level ledger
+2026-01-22  Northstar-Dental: nsd-web-app: type fixs
+2026-01-22  Northstar-Dental: nsd-web-app: move appointment edit button
+2026-01-22  Northstar-Dental: nsd-web-app: location info in patient ledger
+2026-01-22  Northstar-Dental: nsd-web-app: fixes
+2026-01-22  Northstar-Dental: nsd-web-app: scehma fixes
+2026-01-22  Northstar-Dental: nsd-backend: test updates (#107)
+2026-01-22  Northstar-Dental: nsd-backend: test updates (#108)
+2026-01-23  Northstar-Dental: nsd-backend: advisory lock updates (#109)
+2026-01-23  Northstar-Dental: nsd-backend: update docs (#111)
+2026-01-23  Northstar-Dental: nsd-backend: key rotation updates (#112)
+2026-01-23  Northstar-Dental: nsd-web-app: field breakup
+2026-01-23  Northstar-Dental: nsd-web-app: balace calulation bug fix
+2026-01-23  Northstar-Dental: nsd-web-app: review fixes
+2026-01-25  Northstar-Dental: nsd-backend: use github actions to deploy backend (#113)
+2026-01-25  Northstar-Dental: nsd-backend: only run ci.yml for pull requests (#114)
+2026-01-26  Northstar-Dental: nsd-backend: update payments to be location scoped (#115)
+2026-01-27  Northstar-Dental: nsd-web-app: Ledger (#121)
+2026-01-29  Northstar-Dental: nsd-web-app: treatment estimates and revamp appointment detail and edit flow
+2026-01-29  Northstar-Dental: nsd-backend: get family member/patient name for payments (#118)
+2026-01-29  Northstar-Dental: nsd-web-app: reevaluate appointment fee
+2026-01-29  Northstar-Dental: nsd-web-app: appointment and valid slot based on custom duration
+2026-01-29  Northstar-Dental: nsd-web-app: custom duration for custom events
+2026-01-29  Northstar-Dental: nsd-web-app: fix duration check for multiple of 10
+2026-01-30  Northstar-Dental: nsd-backend: add inactivity timeout to ui config, update tsconfig files (#122)
+2026-01-30  Northstar-Dental: nsd-backend: stripe property fix (#123)
+2026-01-30  Northstar-Dental: nsd-backend: fix tsconfig copy paths in dockerfile (#124)
+2026-01-30  Northstar-Dental: nsd-web-app: api endpoint update and checks
+2026-01-30  Northstar-Dental: nsd-web-app: patient ledger family suppport
+2026-01-30  Northstar-Dental: nsd-backend: update themeing (#125)
+2026-01-31  Northstar-Dental: nsd-web-app: Treatment Estimate  (#137)
+2026-02-03  Northstar-Dental: nsd-web-app: patient invoice workflow
+2026-02-03  Northstar-Dental: nsd-web-app: update dxc integration api
+2026-02-03  Northstar-Dental: nsd-web-app: update respone structure of verify eligibility api
+2026-02-03  Northstar-Dental: nsd-backend: image proxy with blur hashes (#130)
+2026-02-04  Northstar-Dental: nsd-web-app: ui fixes
+2026-02-04  Northstar-Dental: nsd-web-app: eligibility api
+2026-02-04  Northstar-Dental: nsd-web-app: DXC API Update and Patient Insurance Eligibility API (#142)
+2026-02-04  Northstar-Dental: nsd-web-app: review fixes 1
+2026-02-04  Northstar-Dental: nsd-backend: test updates (#132)
+2026-02-04  Northstar-Dental: nsd-web-app: Patient invoice Version 1 (#143)
+2026-02-04  Northstar-Dental: nsd-web-app: add treatment selection step when creating appt from schedule
+2026-02-04  Northstar-Dental: nsd-web-app: open add appt modal on pateint appt list page
+2026-02-04  Northstar-Dental: nsd-web-app: review fixes 1
+2026-02-04  Northstar-Dental: nsd-web-app: review fixes 2
+2026-02-04  Northstar-Dental: nsd-web-app: Treatment Selection Step while creating Appointiment (#144)
+2026-02-05  Northstar-Dental: nsd-web-app: fix All multi select component
+2026-02-05  Northstar-Dental: nsd-web-app: nsd table x-axis overflow scroll fix
+2026-02-05  Northstar-Dental: nsd-web-app: fix placeholder
+2026-02-05  Northstar-Dental: nsd-web-app: invoice listing family and practice view
+2026-02-05  Northstar-Dental: nsd-web-app: invoice view and download
+2026-02-05  Northstar-Dental: nsd-web-app: UI Component Fixes (#147)
+2026-02-05  Northstar-Dental: nsd-backend: fix adding family member and contact method from ui (#134)
+2026-02-06  Northstar-Dental: nsd-backend: rotate session as part of refresh handler (#137)
+2026-02-06  Northstar-Dental: nsd-web-app: review fixes 1
+2026-02-06  Northstar-Dental: nsd-web-app: query cache key
+2026-02-06  Northstar-Dental: nsd-web-app: Invoice API Update and Download and View PDF (#163)
+2026-02-06  Northstar-Dental: nsd-web-app: fix create appointment from calendar ui
+2026-02-06  Northstar-Dental: nsd-web-app: fix schedule planned appointment
+2026-02-06  Northstar-Dental: nsd-web-app: FIX: Appointment from calendar UI and Scheduling Planned Appointment (#164)
+2026-02-06  Northstar-Dental: nsd-backend: update rate limiting (#138)
+2026-02-07  Northstar-Dental: nsd-backend: remove decryption from db transactions when possible (#139)
+2026-02-09  Northstar-Dental: nsd-web-app: WIP:invoice details
+2026-02-09  Northstar-Dental: nsd-web-app: upadte ledger api changes
+2026-02-09  Northstar-Dental: nsd-web-app: invoice api changes and UI update
+2026-02-09  Northstar-Dental: nsd-web-app: quick action section and fixes
+2026-02-09  Northstar-Dental: nsd-web-app: review fixes 1
+2026-02-09  Northstar-Dental: nsd-web-app: Invoice Detail (#173)
+2026-02-10  Northstar-Dental: nsd-web-app: WIP: create claim
+2026-02-10  Northstar-Dental: nsd-web-app: handle provide specialty key to itme code
+2026-02-10  Northstar-Dental: nsd-web-app: complete create claim
+2026-02-10  Northstar-Dental: nsd-web-app: patient claims listing
+2026-02-10  Northstar-Dental: nsd-web-app: restructure files
+2026-02-11  Northstar-Dental: nsd-backend: combine all existing migrations (#144)
+2026-02-11  Northstar-Dental: nsd-backend: github workflow updates (#142)
+2026-02-11  Northstar-Dental: nsd-web-app: restrict rescheduleing of past and colpleted appointment
+2026-02-11  Northstar-Dental: nsd-web-app: review fixes
+2026-02-11  Northstar-Dental: nsd-web-app: Restrict rescheduling of past and completed appointment (#174)
+2026-02-11  Northstar-Dental: nsd-web-app: UI fixes
+2026-02-11  Northstar-Dental: nsd-web-app: minor fixes
+2026-02-11  Northstar-Dental: nsd-web-app: Patient Claims List and Create (#175)
+2026-02-12  Northstar-Dental: nsd-web-app: Document nesting and saving SOTA exams in document directory (#179)
+2026-02-13  Northstar-Dental: nsd-web-app: update treatment insurance policy structure
+2026-02-13  Northstar-Dental: nsd-web-app: claim details page
+2026-02-13  Northstar-Dental: nsd-web-app: use system list
+2026-02-13  Northstar-Dental: nsd-web-app: claim action buttons
+2026-02-13  Northstar-Dental: nsd-web-app: claim attachement workflow
+2026-02-16  Northstar-Dental: nsd-web-app: ui enhancements
+2026-02-16  Northstar-Dental: nsd-web-app: SSR Claims listing
+2026-02-16  Northstar-Dental: nsd-web-app: update UI and api for create invoice
+2026-02-16  Northstar-Dental: nsd-web-app: Payments and Credits (Credits & Credits History) (#180)
+2026-02-17  Northstar-Dental: nsd-web-app: review fixes 1
+2026-02-17  Northstar-Dental: nsd-web-app: claim attachment version
+2026-02-17  Northstar-Dental: nsd-web-app: review fixes 2
+2026-02-17  Northstar-Dental: nsd-web-app: Claim Details & Attachments (#181)
+2026-02-17  Northstar-Dental: nsd-web-app: fix check for fetching SOTA integration info on chart page
+2026-02-17  Northstar-Dental: nsd-web-app: add fields for fetch appointment list on server side
+2026-02-17  Northstar-Dental: nsd-web-app: fix integrationcared status bagde text color
+2026-02-17  Northstar-Dental: nsd-web-app: show claim button and checkbox for copleted appointment only
+2026-02-17  Northstar-Dental: nsd-web-app: fix success toast in case of conflict while createing appointment
+2026-02-17  Northstar-Dental: nsd-web-app: schema update
+2026-02-17  Northstar-Dental: nsd-web-app: added adjustments (#183)
+2026-02-18  Northstar-Dental: nsd-web-app: Bugs and UI Fixes  (#182)
+2026-02-18  Northstar-Dental: nsd-web-app: set operatory store on schedule to show in slot selection
+2026-02-18  Northstar-Dental: nsd-web-app: Set Operatory store on schedule to show in slot selection (#185)
+2026-02-19  Northstar-Dental: nsd-web-app: api changes
+2026-02-20  Northstar-Dental: nsd-backend: location schedule and appointment for date range
+2026-02-20  Northstar-Dental: nsd-web-app: calendar ui update
+2026-02-23  Northstar-Dental: nsd-web-app: appointment modal revamp
+2026-02-23  Northstar-Dental: nsd-web-app: reschedule appt preview  modal
+2026-02-23  Northstar-Dental: nsd-web-app: location open api
+2026-02-23  Northstar-Dental: nsd-backend: location open closed info
+2026-02-23  Northstar-Dental: nsd-web-app: month view location closed dates
+2026-02-23  Northstar-Dental: nsd-web-app: week view event tooltip
+2026-02-23  Northstar-Dental: nsd-web-app: initail patient selection
+2026-02-23  Northstar-Dental: nsd-web-app: slot selection AM/PM filter
+2026-02-23  Northstar-Dental: nsd-web-app: show appointment status
+2026-02-23  Northstar-Dental: nsd-web-app: UI updates
+2026-02-23  Northstar-Dental: nsd-web-app: fix slot selection date filter
+2026-02-23  Northstar-Dental: nsd-web-app: appointment type fe filter
+2026-02-23  Northstar-Dental: nsd-backend: family / patient updates (#154)
+2026-02-24  Northstar-Dental: nsd-web-app: minor ui fix
+2026-02-24  Northstar-Dental: nsd-backend: appt type filter on appointmentlist api
+2026-02-24  Northstar-Dental: nsd-web-app: move appointment type filter to BE
+2026-02-24  Northstar-Dental: nsd-backend: appointment tests
+2026-02-24  Northstar-Dental: nsd-backend: schedule unit tests
+2026-02-24  Northstar-Dental: nsd-backend: schedule integration test
+2026-02-24  Northstar-Dental: nsd-web-app: fix types
+2026-02-24  Northstar-Dental: nsd-web-app: break schedule client file
+2026-02-24  Northstar-Dental: nsd-web-app: Memoize callback props andstabilize render props
+2026-02-24  Northstar-Dental: nsd-web-app: memoize operatoriesOptions for header, memoize header component
+2026-02-24  Northstar-Dental: nsd-web-app: isolate patient context
+2026-02-24  Northstar-Dental: nsd-web-app: break schedule client file and move modal state so only modals re-render
+2026-02-24  Northstar-Dental: nsd-web-app: fix ssr api call when date is not provided for week and month view
+2026-02-24  Northstar-Dental: nsd-web-app: month to day view using date click
+2026-02-24  Northstar-Dental: nsd-web-app: fix browser nav, rerender issue
+2026-02-25  Northstar-Dental: nsd-web-app: fix tests
+2026-02-25  Northstar-Dental: nsd-web-app: bg color position fix
+2026-02-25  Northstar-Dental: nsd-web-app: review fixes
+2026-02-25  Northstar-Dental: nsd-web-app: review fixes
+2026-02-25  Northstar-Dental: nsd-backend: Schedule api for date range, location open api, and appointment type filer in appt list (#155)
+2026-02-25  Northstar-Dental: nsd-web-app: Schedule and Add Appointment Revamp (#191)
+2026-02-25  Northstar-Dental: nsd-web-app: fix hydration issue
+2026-02-25  Northstar-Dental: nsd-web-app: appointment status update
+2026-02-25  Northstar-Dental: nsd-backend: index on main: 6d6c4d63 family / patient updates (#154)
+2026-02-25  Northstar-Dental: nsd-backend: WIP on main: 6d6c4d63 family / patient updates (#154)
+2026-02-25  Northstar-Dental: nsd-backend: open api schema
+2026-02-25  Northstar-Dental: nsd-web-app: fix z-index for week view
+2026-02-25  Northstar-Dental: nsd-web-app: allow user to reshedule past not completed appointment
+2026-02-25  Northstar-Dental: nsd-web-app: update status update check
+2026-02-25  Northstar-Dental: nsd-backend: open api schema for previous api changes (#159)
+2026-02-25  Northstar-Dental: nsd-web-app: Appointment status update from schedule calendar (#194)
+2026-02-25  Northstar-Dental: nsd-web-app: index on main: 34d2590 Appointment status update from schedule calendar (#194)
+2026-02-25  Northstar-Dental: nsd-web-app: On main: test
+2026-02-25  Northstar-Dental: nsd-web-app: schema and ui fixes
+2026-02-26  Northstar-Dental: nsd-backend: modify retun type and change order
+2026-02-26  Northstar-Dental: nsd-web-app: treatment financial history
+2026-02-26  Northstar-Dental: nsd-backend: add base item
+2026-02-26  Northstar-Dental: nsd-web-app: Treatment financial history (#195)
+2026-02-26  Northstar-Dental: nsd-backend: modify return type and change order for treatment financial history (#160)
+2026-02-26  Northstar-Dental: nsd-web-app: removed exising ortho contract feature
+2026-02-26  Northstar-Dental: nsd-web-app: ortho contracts UI phase 1
+2026-03-02  Northstar-Dental: nsd-backend: payments part 2 (#163)
+2026-03-05  Northstar-Dental: nsd-web-app: fix month view popover issue
+2026-03-06  Northstar-Dental: nsd-backend: update allowed origins list (#164)
+2026-03-06  Northstar-Dental: nsd-web-app: fix month view popover issue (#201)
+2026-03-09  Northstar-Dental: nsd-backend: fix rate limiting for localhost (#165)
+2026-03-12  Northstar-Dental: nsd-backend: test fixtures table (#168)
+2026-03-18  Northstar-Dental: nsd-brain: initial commit and setup
+2026-03-18  Northstar-Dental: nsd-brain: meeting insights
+2026-03-18  Northstar-Dental: nsd-brain: meeting summary and info
+2026-03-18  Northstar-Dental: nsd-brain: weekly roll ups
+2026-03-19  Northstar-Dental: nsd-brain: update topic intelligence
+2026-03-19  Northstar-Dental: nsd-brain: admin settings
+2026-03-19  Northstar-Dental: nsd-brain: store data seprately
+2026-03-19  Northstar-Dental: nsd-brain: readme file
+2026-03-20  Northstar-Dental: nsd-brain: search for context
+2026-03-20  Northstar-Dental: nsd-brain: log button
+2026-03-20  Northstar-Dental: nsd-brain: search history
+2026-03-20  Northstar-Dental: nsd-brain: track api cost
+2026-03-20  Northstar-Dental: nsd-brain: fixes
+2026-03-20  Northstar-Dental: nsd-brain: migration fixes
+2026-03-20  Northstar-Dental: nsd-brain: add claude.md and preimer.md file
+2026-03-22  Northstar-Dental: nsd-backend: comment out rate limiting plugin (#170)
+2026-03-24  Northstar-Dental: nsd-brain: basic ui changes
+2026-03-25  Northstar-Dental: nsd-brain: authentication
+2026-03-25  Northstar-Dental: nsd-brain: update enc and gitignore
+2026-03-25  Northstar-Dental: nsd-brain: Remove settings.local.json from tracking (already in .gitignore)
+2026-03-30  Northstar-Dental: nsd-brain: queue for brain processing and embedding
+2026-03-30  Northstar-Dental: nsd-brain: updae README and Claude.md files
+2026-03-30  Northstar-Dental: nsd-brain: In-memeory Queue for Processing Brain and Embedding  (#1)
+2026-03-30  Northstar-Dental: nsd-brain: break transcript in chunks if needed
+2026-03-31  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-03-31  Northstar-Dental: nsd-brain: Transcript chuncks (#2)
+2026-03-31  Northstar-Dental: nsd-brain: Add Individual/Company prospect types with contact persons
+2026-03-31  Northstar-Dental: nsd-brain: prospect type and change
+2026-03-31  Northstar-Dental: nsd-brain: update meeting maping with prospects
+2026-03-31  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-03-31  Northstar-Dental: nsd-brain: Prospects types and mappings (#3)
+2026-03-31  Northstar-Dental: nsd-brain: kanban board CURD
+2026-03-31  Northstar-Dental: nsd-brain: card conversion button on meeting info page and slug usage
+2026-03-31  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-03-31  Northstar-Dental: nsd-brain: Kanban Board (#4)
+2026-03-31  Northstar-Dental: nsd-brain: build fix
+2026-04-01  Northstar-Dental: nsd-brain: add fe skill
+2026-04-01  Northstar-Dental: nsd-brain: quill editor for card details
+2026-04-01  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-04-01  Northstar-Dental: nsd-brain: Ticket Card UI update (#5)
+2026-04-01  Northstar-Dental: nsd-brain: account level braina and info
+2026-04-02  Northstar-Dental: nsd-brain: account level braina and info (#6)
+2026-04-02  Northstar-Dental: nsd-brain: Conductor and Plugins with prompt generation workflow (#7)
+2026-04-02  Northstar-Dental: nsd-brain: fix: build @nsd/conductor and @nsd/plugin packages in Docker (#8)
+2026-04-02  Northstar-Dental: nsd-brain: fix: build @nsd/conductor and @nsd/plugin packages in Docker  (#9)
+2026-04-02  Northstar-Dental: nsd-brain: card comment workflow
+2026-04-02  Northstar-Dental: nsd-brain: update Readme.md and claude.md
+2026-04-02  Northstar-Dental: nsd-brain: Card comment feature (#10)
+2026-04-02  Northstar-Dental: nsd-brain: fix: return 200 for NOT_GENERATED intelligence brief instead of 404
+2026-04-03  Northstar-Dental: nsd-brain: add scroll
+2026-04-03  Northstar-Dental: nsd-brain: card description preview fix
+2026-04-03  Northstar-Dental: nsd-brain: update card detail UI
+2026-04-03  Northstar-Dental: nsd-brain: update claude.md, readme.md and primer.md
+2026-04-03  Northstar-Dental: nsd-brain: Board UI: column scrolling, card preview fixes, and detail panel improvements (#11)
+2026-04-03  Northstar-Dental: nsd-brain: Accounts list: multi-select filters, search, and alphabetical sorting
+2026-04-03  Northstar-Dental: nsd-brain: update claude.md, readme.md and primer.md
+2026-04-03  Northstar-Dental: nsd-brain: Accounts list: multi-select filters, search, and alphabetical sorting (#12)
+2026-04-03  Northstar-Dental: nsd-brain: Port Brain from Local Queue to Conductor (#13)
+2026-04-03  Northstar-Dental: nsd-brain: added URL enrichment
+2026-04-03  Northstar-Dental: nsd-brain: added URL enrichment (#14)
+2026-04-03  Northstar-Dental: nsd-brain: track account lead souucre
+2026-04-03  Northstar-Dental: nsd-brain: update claude.md, readme.md and primer.md
+2026-04-03  Northstar-Dental: nsd-brain: Account lead tracking (#15)
+2026-04-06  Northstar-Dental: nsd-brain: fix: add prompt.account_brain to CONFIG_DEFAULTS and increase max_tokens (#16)
+2026-04-06  Northstar-Dental: nsd-brain: add location info
+2026-04-06  Northstar-Dental: nsd-brain: account extisting software
+2026-04-06  Northstar-Dental: nsd-brain: update reamde.md and claude.md
+2026-04-06  Northstar-Dental: nsd-brain: Account locations and existing software tracking (#17)
+2026-04-07  Northstar-Dental: nsd-brain: account aritfacts workflow
+2026-04-07  Northstar-Dental: nsd-brain: update reamde.md and claude.md
+2026-04-07  Northstar-Dental: nsd-brain: Account Artifacts (LINK, FILE, TEXT) (#18)
+2026-04-08  Northstar-Dental: nsd-brain:  kanban board enhancements: labels, members, activity log, filters, markdown editor, customizable columns
+2026-04-08  Northstar-Dental: nsd-brain: card link and detail page
+2026-04-08  Northstar-Dental: nsd-brain: Conductor persistence cost tracking artifacts (#20)
+2026-04-08  Northstar-Dental: nsd-brain: show label on card
+2026-04-08  Northstar-Dental: nsd-brain: fix column and label managing ui
+2026-04-08  Northstar-Dental: nsd-brain: format description
+2026-04-08  Northstar-Dental: nsd-brain: update migration
+2026-04-08  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-04-08  Northstar-Dental: nsd-brain:  Kanban board enhancements (#19)
+2026-04-08  Northstar-Dental: nsd-brain: comment reply
+2026-04-08  Northstar-Dental: nsd-brain: update readme.md, claude.md and primer.md
+2026-04-08  Northstar-Dental: nsd-brain: build fix
+2026-04-08  Northstar-Dental: nsd-brain: Comment conversations — threading, @mentions, editing, emoji reactions (#21)
+2026-04-10  Northstar-Dental: nsd-brain: Website generator (#22)
+2026-04-10  Northstar-Dental: infrastructure: Website Generator (#15)
+2026-04-11  Northstar-Dental: nsd-brain: updated the website generator v2 (#23)
+2026-04-11  Northstar-Dental: nsd-brain: website generation v3 (#24)
+2026-04-11  Northstar-Dental: nsd-brain: added job cancel in conductor
+2026-04-11  Northstar-Dental: nsd-brain: added job cancel in conductor (#25)
+2026-04-13  Northstar-Dental: nsd-brain: fixed usage tracking
+2026-04-13  Northstar-Dental: nsd-brain: fixed usage tracking (#26)
+2026-04-13  Northstar-Dental: nsd-brain: added external type (company/individual) toggle to account detail edit form
+2026-04-13  Northstar-Dental: nsd-brain: Add external type toggle to account detail edit form
+2026-04-13  Northstar-Dental: nsd-brain: Add S3-backed image upload for card comments and descriptions
+2026-04-13  Northstar-Dental: nsd-brain: image preview fix
+2026-04-13  Northstar-Dental: nsd-brain: Add image upload to card comments and descriptions (#28)
+2026-04-14  Northstar-Dental: nsd-brain: feat(schema): relationship graph data model with PersonAccount, RelationshipEdge, and event log
+2026-04-14  Northstar-Dental: nsd-brain: feat(backend): warm-path traversal, people CRUD, and edge-origin lifecycle services
+2026-04-14  Northstar-Dental: nsd-brain: refactor(backend): migrate contact callers to PersonAccount junction and auto-affiliate attendees
+2026-04-14  Northstar-Dental: nsd-brain: feat(frontend): people directory, person detail, and reagraph relationship graph
+2026-04-14  Northstar-Dental: nsd-brain: docs: relationship graph architecture, origins, and pitfalls in CLAUDE.md
+2026-04-14  Northstar-Dental: nsd-brain: refactor(admin): redesign pricing config with input/output split cards
+2026-04-14  Northstar-Dental: nsd-brain: update readme.md and claude.md files
+2026-04-14  Northstar-Dental: nsd-brain: added person enhancement in meetings
+2026-04-14  Northstar-Dental: nsd-brain: v0 of scrapping
+2026-04-14  Northstar-Dental: nsd-brain: added poeple in accounts
+2026-04-14  Northstar-Dental: nsd-brain: fix stop signal
+2026-04-14  Northstar-Dental: nsd-brain: fix 1st degree retrival
+2026-04-14  Northstar-Dental: nsd-brain: add sorting and remove buffer to update data
+2026-04-15  Northstar-Dental: nsd-brain: name and url for 2nd degree connections
+2026-04-15  Northstar-Dental: nsd-brain: URL Enrichment and People Phase 1
+2026-04-15  Northstar-Dental: nsd-brain: Added History audit for relationships
+2026-04-15  Northstar-Dental: nsd-brain: back fill migration for contact persons
+2026-04-15  Northstar-Dental: nsd-brain: Person intelligence Phase 1 (#29)
+2026-04-15  Northstar-Dental: nsd-brain: fixed the individual to company switch bug (#30)
+2026-04-15  Northstar-Dental: nsd-brain: added feture to end relationship (#31)
+2026-04-16  Northstar-Dental: nsd-brain: move state to db
+2026-04-16  Northstar-Dental: nsd-brain: combined migrations
+2026-04-16  Northstar-Dental: nsd-brain: Person intelligence v2 (#32)
+2026-04-16  Northstar-Dental: nsd-brain: fixed null string issues in LLm call (#33)
+2026-04-17  Northstar-Dental: nsd-brain: fix cureent compamy issue on 2nd degree scrape and seaching
+2026-04-17  Northstar-Dental: nsd-brain: email scrapping
+2026-04-17  Northstar-Dental: nsd-brain: scrape single profile button
+2026-04-17  Northstar-Dental: infrastructure: linkedin scraper infra
+2026-04-17  Northstar-Dental: nsd-brain: network graph
+2026-04-17  Northstar-Dental: nsd-brain: infra changes
+2026-04-17  Northstar-Dental: infrastructure: review fixes
+2026-04-18  Northstar-Dental: infrastructure: linkedin scraper infra (#16)
+2026-04-19  Northstar-Dental: nsd-brain: Linkedin scrapper (#34)
+2026-04-20  Northstar-Dental: nsd-brain: Revert "Linkedin scrapper (#34)"
+2026-04-20  Northstar-Dental: nsd-brain: Revert "Linkedin scrapper (#34)" (#35)
+2026-04-20  Northstar-Dental: nsd-brain: Person intelligence v2 (#37)
+2026-04-20  Northstar-Dental: nsd-brain: fixed person build
+2026-04-20  Northstar-Dental: nsd-brain: fixed migration for people
+2026-04-20  Northstar-Dental: nsd-brain: local run fixes
+2026-04-20  Northstar-Dental: nsd-brain: button issue fix
+2026-04-20  Northstar-Dental: nsd-brain: Linkedin scrapper (#36)
+2026-04-21  Northstar-Dental: nsd-brain: added individual account ingestion check to map contact person (#38)
+2026-04-21  Northstar-Dental: nsd-brain: add check to prevern t adding media in raw transcript and pre generated notes
+2026-04-21  Northstar-Dental: nsd-brain: Remove image support from raw transcript and pre-generated notes
+2026-04-22  Northstar-Dental: nsd-brain: remove linkedIn route
+2026-04-23  Northstar-Dental: nsd-brain: fire crawl implementation
+2026-04-23  Northstar-Dental: nsd-brain: swap Firecrawl → direct Reddit fetch
+2026-04-23  Northstar-Dental: nsd-brain: update claude.md and readme.md
+2026-04-23  Northstar-Dental: nsd-brain: Reddit scrapping (#40)
+2026-04-24  Northstar-Dental: nsd-brain: rediit apify
+2026-04-24  Northstar-Dental: nsd-brain: ui optimization and fixes
+2026-04-24  Northstar-Dental: infrastructure: apify sercer variable
+2026-04-24  Northstar-Dental: nsd-brain: update readme.md and claude.md
+2026-04-24  Northstar-Dental: infrastructure: apify secret
+2026-04-24  Northstar-Dental: nsd-brain: Reddit post and comment scrapping using APIFY (#41)
+2026-05-07  Northstar-Dental: nsd-brain: v0 scrapiing the dentaltown homepage
+2026-05-07  Northstar-Dental: nsd-brain: news and magzine articles
+2026-05-07  Northstar-Dental: nsd-brain: update readme and claude.md
+2026-05-07  Northstar-Dental: infrastructure: add firecrawl secret variable
+2026-05-07  Northstar-Dental: nsd-brain: Dentaltown scrapping (#42)
+2026-05-07  Northstar-Dental: nsd-brain: UI fixes and seperate section
+2026-05-07  Northstar-Dental: nsd-brain: UI fixes and seperate section (#43)
+2026-05-08  Northstar-Dental: nsd-brain: scrape data report and triggers
+2026-05-08  Northstar-Dental: nsd-brain: scrape data report and triggers (#44)
+2026-05-11  Northstar-Dental: nsd-brain: morning grind articles
+2026-05-11  Northstar-Dental: nsd-brain: morning grind articles (#45)
+2026-05-14  Northstar-Dental: pms: custom report workflow
+2026-05-14  Northstar-Dental: pms: out of th box built in reports
+2026-05-14  Northstar-Dental: pms: schedule reports
+2026-05-14  Northstar-Dental: pms: minir fixes and UI changes
+2026-05-15  Northstar-Dental: pms: ai report v1
+2026-05-18  Northstar-Dental: pms: report fixes and modification
+2026-05-18  Northstar-Dental: pms: rename migration
+2026-05-18  Northstar-Dental: pms: minor fix
+2026-05-18  Northstar-Dental: pms: tests
+2026-05-18  Northstar-Dental: pms: reports achitecture doc
+2026-05-19  Northstar-Dental: nsd-brain: WIP on morning-grind: d4b1c43 morning grind articles
+2026-05-19  Northstar-Dental: nsd-brain: index on morning-grind: d4b1c43 morning grind articles
+2026-05-19  Northstar-Dental: nsd-brain: anthropic model update
+2026-05-19  Northstar-Dental: nsd-brain: anthropic model update (#46)
+2026-05-21  Northstar-Dental: pms: schedule views
+2026-05-21  Northstar-Dental: pms: schedule: drag-and-drop and resize for appointments
+2026-05-21  Northstar-Dental: pms: Schedule views (#35)
+2026-05-21  Northstar-Dental: pms: unlock todays appointment for drag and drop
+2026-05-22  Northstar-Dental: pms: unlock todays appointment for drag and drop (#37)
+2026-05-22  Northstar-Dental: pms: Pinboard staging panel for the scheduler
+2026-05-25  Northstar-Dental: pms: collapsible pinboard panel
+2026-05-25  Northstar-Dental: pms: Add "Move to Pinboard" button to appointment hover preview
+2026-05-25  Northstar-Dental: pms: Show how long an appointment has been on the Pinboard
+2026-05-26  Northstar-Dental: pms: Add trash icon to cancel a pinned appointment
+2026-05-26  Northstar-Dental: pms: Move "Move to Pinboard" action onto appointment card as an icon button
+2026-05-27  Northstar-Dental: pms: Share the Pinboard across all locations in the tenant
+2026-05-29  Northstar-Dental: pms: fix migration conflicts
+2026-05-29  Northstar-Dental: pms: Preserve previous slot when an appointment is moved to the Pinboard
+2026-05-29  Northstar-Dental: pms: Suggest available slots for pinned appointments
+2026-05-29  Northstar-Dental: pms: Reschedule pinboard appointments without switching location
+2026-05-29  Northstar-Dental: pms: Replace pin icon button with right-click context menu on appointment cards
+2026-05-29  Northstar-Dental: pms: Pinboard staging panel for the scheduler (#38)
+2026-05-29  Northstar-Dental: pms: minor fix
+2026-05-29  Northstar-Dental: pms: Pinboard polish: smarter rescheduling and right-click menu (#45)
+2026-06-01  Northstar-Dental: pms: fix migration issue
+2026-06-01  Northstar-Dental: pms: Reports (#22)
+2026-06-05  Northstar-Dental: pms: patient outstanding balance
+2026-06-05  Northstar-Dental: pms: patient overdue recall report
+2026-06-08  Northstar-Dental: pms: report pagination page number
+2026-06-08  Northstar-Dental: pms: reports place holder
+2026-06-08  Northstar-Dental: pms: AR aging
+2026-06-09  Northstar-Dental: pms: rebase schma changes
+2026-06-11  Northstar-Dental: pms: add date picker to schedule toolbar for quick date navigation
+2026-06-11  Northstar-Dental: pms: feat(schedule): prefill global patient in create appointment modal
+2026-06-11  Northstar-Dental: pms: make Schedule the top nav item and move Dashboard to last
+2026-06-11  Northstar-Dental: pms:  move Charts to second in patient side nav, under Overview
+2026-06-11  Northstar-Dental: pms: replace full-width red appointment note recording bar with discreet chip
+2026-06-11  Northstar-Dental: pms: review fixes
+2026-06-11  Northstar-Dental: pms: UI Improvements (feedback 0609) (#79)
+2026-06-15  Northstar-Dental: pms: Import Open Dental procedure-code categories into procedure_code_categories
+2026-06-15  Northstar-Dental: pms: Add cdt_codes_overrides.custom_category_id FK + backfill from OD proc categories
+2026-06-15  Northstar-Dental: pms: Source ProceduresModal categories from procedure_code_categories
+2026-06-15  Northstar-Dental: pms: chart appointment modal ui fix
+2026-06-15  Northstar-Dental: pms: chart appointment modal ui fix (#82)
+2026-06-18  Northstar-Dental: pms: Add effective_till to schedule block types
+2026-06-18  Northstar-Dental: pms: Show scheduling blocks in week view
+2026-06-18  Northstar-Dental: pms: Add provider exceptions to schedule calendar with category-lane overlap layout and cut-copy-paste
+2026-06-18  Northstar-Dental: pms: Show full details on schedule exception and block cards
+2026-06-18  Northstar-Dental: pms: Restrict schedule date inputs to today or later
+2026-06-18  Northstar-Dental: pms: Hide scheduling blocks on days the location is closed
+2026-06-18  Northstar-Dental: pms: Add right-click "Create block" on schedule calendar cells
+2026-06-18  Northstar-Dental: pms: Add operatory-level schedule exceptions
+2026-06-18  Northstar-Dental: pms: Add calendar right-click "Add operatory/schedule exception"
+2026-06-18  Northstar-Dental: nsd-brain: added title in contact person (#47)
+2026-06-18  Northstar-Dental: pms: Add provider exceptions to schedule calendar with category-lane overlap layout
+2026-06-19  Northstar-Dental: pms: Bolden hour lines and add day dividers in week view
+2026-06-19  Northstar-Dental: pms: Merge branch 'main' into schedule-blocks-and-exceptions
+2026-06-19  Northstar-Dental: pms: fixes
+2026-06-19  Northstar-Dental: pms: Schedule calendar: blocks & exceptions (operatory + provider) with right-click editing (#93)
+2026-06-19  Northstar-Dental: pms: Merge branch 'main' into custom-cdt-code-category
+2026-06-19  Northstar-Dental: pms: fixes
+2026-06-22  Northstar-Dental: pms: Fix appointment calendar positioning to use location timezone
+2026-06-22  Northstar-Dental: pms: Label exception custom hours Open/Close for location, From/To for provider/operatory
+2026-06-22  Northstar-Dental: pms: Fill appointment blocks with full type color and flip text for legibility
+2026-06-22  Northstar-Dental: pms: Org procedure-code categories: import from Open Dental and use in the chart procedure picker (#81)
+2026-06-22  Northstar-Dental: pms: Schedule: location-timezone positioning, exception hour labels, and full-color appointment blocks (#98)
+2026-06-22  Northstar-Dental: pms: migration fix
+2026-06-22  Northstar-Dental: pms: migration fix (#100)
+2026-06-23  Northstar-Dental: pms: Fit operatory columns to screen and fix day-view timezone
+2026-06-23  Northstar-Dental: pms: Fit operatory columns to screen and fix day-view timezone (#103)
+2026-06-24  Northstar-Dental: pms: Manage custom procedure code categories and codes
+2026-06-24  Northstar-Dental: pms: rebase fixes
+2026-06-24  Northstar-Dental: pms: Manage custom procedure code categories and codes (#106)
+2026-06-24  Northstar-Dental: pms: Add delete action to schedule block right-click menu
+2026-06-24  Northstar-Dental: pms: Add delete action to schedule block right-click menu (#108)
+2026-06-25  Northstar-Dental: pms: Fix Suggest slot modal padding and wire dialog into pinboard items
+2026-06-25  Northstar-Dental: pms: Add Waiting Room panel for arrived patients
+2026-06-25  Northstar-Dental: pms: Fix Suggest slot modal padding and wire dialog into pinboard items (#118)
+2026-06-25  Northstar-Dental: pms: Add Waiting Room panel for arrived patients (#119)
+2026-06-26  Northstar-Dental: pms: Add per-category ordering for procedure codes
+2026-06-26  Northstar-Dental: pms: Add per-category ordering for procedure codes (#126)
+2026-06-29  Northstar-Dental: pms: Fix procedure-code category count to match codes list
+2026-06-29  Northstar-Dental: pms: Show display name and description in category reorder modal
+2026-06-29  Northstar-Dental: pms: Mark location-overridden codes in procedure code listings
+2026-06-29  Northstar-Dental: pms: Fix shifting date nav buttons on schedule calendar
+2026-06-29  Northstar-Dental: pms: Fix shifting date nav buttons on schedule calendar (#133)
+2026-06-29  Northstar-Dental: pms: Fix category code counts and surface location overrides in procedure code UI (#132)
+2026-07-01  Northstar-Dental: pms: Add Office Day Look-Ahead dashboard
+2026-07-02  Northstar-Dental: pms: Add doctor-owner views to Office Day Look-Ahead
+2026-07-02  Northstar-Dental: pms: Fix schedule-gap times in the all-locations view
+2026-07-02  Northstar-Dental: pms: Make Office Day list groups collapsible + add patient redirects
+2026-07-02  Northstar-Dental: pms: Add past-date "Day Recap" mode to Office Day dashboard
+2026-07-02  Northstar-Dental: pms: Add PHI-safe per-patient AI prep summaries to Office Day
+2026-07-02  Northstar-Dental: pms: Persist Office Day filters in the URL query string
+2026-07-02  Northstar-Dental: pms: Add per-provider treatment-mix chart to Office Day "My Day" view
+2026-07-03  Northstar-Dental: pms: Office Day dashboard: look-ahead, recap, per-doctor "My Day", and PHI-safe AI prep summaries (#152)
+2026-07-06  Northstar-Dental: pms: Fix custom-category move/remove for CDT codes at an active location
+2026-07-06  Northstar-Dental: pms: Fix custom-category move/remove for CDT codes and stale listing counts
+2026-07-06  Northstar-Dental: pms: Add order column and enable move-to-top while searching in category codes dialog
+2026-07-06  Northstar-Dental: pms: Add inline order-number editing to category codes dialog
+2026-07-06  Northstar-Dental: pms: Align insured/self-pay with appointment on_file on office day info page
+2026-07-06  Northstar-Dental: pms: Fix Insurance Coverage pie to use is_self_pay flag
+2026-07-06  Northstar-Dental: pms: Align Office Day insurance widgets with app sources
+2026-07-06  Northstar-Dental: pms: index on fix-insured-self-pay-on-file: 745f0d18 Align Office Day insurance widgets with app sources
+2026-07-06  Northstar-Dental: pms: On fix-insured-self-pay-on-file: insurance choose
+2026-07-06  Northstar-Dental: pms: Fix appointment primary insurance to skip terminated policies

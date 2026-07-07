@@ -1,0 +1,625 @@
+792d5109113bb6e32a7bfadf2c1dc3c51f7c597a	2025-07-22T00:52:06+05:30	Northstar-Dental	nsd-web-app	revamp folder structure
+5d2d46ff6b9c7da03e542dabb44448a0ce80820b	2025-07-22T12:15:39+05:30	Northstar-Dental	nsd-web-app	fix auth store
+e009ba571c3ac691a9645bbd7568826b0867c9b5	2025-07-22T15:37:22+05:30	Northstar-Dental	nsd-web-app	eslint and prettier setup
+b145378d4aa4321b89ebd54a04d53d614a500c52	2025-07-22T16:16:06+05:30	Northstar-Dental	nsd-web-app	css file formater
+f03d601cc7467d265c57e804075c766c22d732d9	2025-07-22T20:29:48+05:30	Northstar-Dental	nsd-web-app	dynamic theme with custom color
+18e2d772d4feb3b83bf24d415573d86171f9e133	2025-07-24T22:06:57+05:30	Northstar-Dental	nsd-web-app	revamp structure
+0617b0d109c31302bd82705e893c73692842326b	2025-07-25T13:12:06+05:30	Northstar-Dental	nsd-web-app	WIP:login flow
+a85f7d51716ba03ba44ee20e4649d3ce937816a7	2025-07-25T14:24:52+05:30	Northstar-Dental	nsd-web-app	separate user store
+40495c13e61b205903badf95edc39f8970eb6b2f	2025-07-25T16:42:12+05:30	Northstar-Dental	nsd-web-app	reset password ui, and tanstack form
+1ca7f42011a04196cf691377b9ecddcaf5583e03	2025-07-25T18:06:42+05:30	Northstar-Dental	nsd-web-app	lint and build fixes
+cdc06a7f41b2d8761876419beba2d377a8f2a90d	2025-07-25T18:36:20+05:30	Northstar-Dental	nsd-web-app	upadte main layout to include theme support
+bd60494ced064dd5e83ad2032ec60155956521ee	2025-07-28T13:29:26+05:30	Northstar-Dental	nsd-web-app	update readme and cursor rules
+9d7508be09cc0fe9f988540b28f17c59a8d3a57d	2025-07-28T16:05:16+05:30	Northstar-Dental	nsd-web-app	fix refresh token and me api call edge case
+58cd63ace7f2765e8b7ec0b3e234d77f1af2f67b	2025-07-28T18:06:56+05:30	Northstar-Dental	nsd-web-app	store structure
+c90f7abf2c1327ba286f8d27962169df513c1964	2025-07-28T19:00:24+05:30	Northstar-Dental	nsd-web-app	static top info bar
+346bbb86fac439cfec3c9da4fb1d156d79ab5fbf	2025-07-28T19:13:34+05:30	Northstar-Dental	nsd-web-app	WIP:static sidebar
+320857651289b140e56b8da065709a26fb8b0f88	2025-07-28T20:09:20+05:30	Northstar-Dental	nsd-web-app	file name changes
+45de3d7968481613c8e8e3586ba4bff1fec92514	2025-07-28T20:11:01+05:30	Northstar-Dental	nsd-web-app	change role to roles array
+5952e9d5fac2436b6fb3dcf2e4874afbac71b2da	2025-07-28T20:23:39+05:30	Northstar-Dental	nsd-web-app	husky setup
+3394164d24cbc80db0c0388963a499c4c98fb38b	2025-07-29T10:31:41+05:30	Northstar-Dental	nsd-web-app	remove duplicate files
+f2ded257aa03eaa8e728bd54d464d15937d7f461	2025-07-29T10:33:08+05:30	Northstar-Dental	nsd-web-app	Merge pull request #8 from Northstar-Dental/file-name-fix
+a61b1020e3093f70da7da6d457edfa157bb51553	2025-07-29T12:33:41+05:30	Northstar-Dental	nsd-web-app	pr review fixes
+eaac367cbfb012b74fa5942e775f2ec3450bb10f	2025-07-29T14:13:41+05:30	Northstar-Dental	nsd-web-app	fixes
+de402aae42e38b8739d871f0530ccbe51647d81e	2025-07-29T14:16:25+05:30	Northstar-Dental	nsd-web-app	Merge pull request #9 from Northstar-Dental/review-fixes-29-jul
+a3462038bd3ff1c85ae15f5c1d7de999c6b89a8a	2025-07-29T16:54:43+05:30	Northstar-Dental	nsd-web-app	enhance UI with new components and improved navigation, store fixes
+5a1edb61e7a8fdb1def60ae10b551a9142ddd511	2025-07-29T17:57:33+05:30	Northstar-Dental	nsd-web-app	disable dropdon when user have one option, use user info in dropdown
+abc5a03e3ed977b0501a948447175d3349c7c3db	2025-07-29T21:16:41+05:30	Northstar-Dental	nsd-web-app	fix dropdown check
+fa14f41b16bfff5c75ece34a64eb8ba564e0ffdf	2025-07-30T15:51:54+05:30	Northstar-Dental	nsd-web-app	fixes
+a2d7a30954097ff1544d5979c7ae8bc4ca005b7d	2025-08-01T11:18:16+05:30	Northstar-Dental	nsd-web-app	Implement logout token refresh and sidebar tenant logo improvements (#11)
+9de80d65ff1a5ce292af4135f702c4a979aa4887	2025-08-01T17:38:57+05:30	Northstar-Dental	nsd-web-app	Shared Components (#12)
+53b71d09e9bcd1515299409cf8072ea936c7c5fa	2025-08-01T20:36:41+05:30	Northstar-Dental	nsd-web-app	Authentication Enhancements, UI Refactoring, and Infrastructure Improvements (#13)
+ce0a95a245d38668ccf7e2c03ed958276fc399b8	2025-08-04T16:15:51+05:30	Northstar-Dental	nsd-web-app	Implement route persistence on reload and improve development workflow (#14)
+696cff88c3ebc33464245d4d03027b823b149985	2025-08-06T14:30:43+05:30	Northstar-Dental	nsd-web-app	Refactor: Migrate User Practices from Zustand Store to React Query Cache (#15)
+26225cbf08b16044fe764192596aa6c38a5c6e92	2025-08-06T18:32:47+05:30	Northstar-Dental	nsd-web-app	Error handling with toast notifications (#16)
+39d30708f58d52ade1fa9a1e3f98df00c6ebad5f	2025-08-07T12:23:05+05:30	Northstar-Dental	nsd-web-app	NSDChip Component and Enhance Form Component Error Handling & Dialog Management (#17)
+27543eb0fa16585d92901de2506c416e8048f954	2025-08-07T16:59:11+05:30	Northstar-Dental	nsd-web-app	fix lint issue (#18)
+9f503815493fd971dc1234506407d0589cb59735	2025-08-12T16:06:54+05:30	Northstar-Dental	nsd-web-app	Fix and Refactor Authentication State Management  (#19)
+7c7d09f1ee4d360a1e4a9b329dfa9d6f1ed96e7a	2025-08-18T18:28:05+05:30	Northstar-Dental	nsd-web-app	Remove custom interface for field data (#21)
+2561638ccfe9286d2ad6c5a298cd434a987d04b5	2025-08-19T17:00:23+05:30	Northstar-Dental	nsd-infra	initail setup
+e8dc745338153dd7d3126c5b599548438c02f8fd	2025-08-19T18:50:05+05:30	Northstar-Dental	nsd-web-app	Refactor: Remove server-side implementations (#20)
+7bf5f0889473d1f83d347be522d7602e34743872	2025-08-20T12:43:14+05:30	Northstar-Dental	nsd-web-app	Consolidate Theme and UI Configuration Providers(#22)
+7caad31e53a1b8cbd8c49787d7069bd707dcc78e	2025-08-20T17:53:01+05:30	Northstar-Dental	nsd-infra	deployment infra
+ae42cfacea4ec07e29e1e5c5d8d4efbc12e89b75	2025-08-22T11:48:44+05:30	Northstar-Dental	nsd-web-app	Settings UI (#23)
+b142421a577abb0917d218ff419d8ff7ba264d10	2025-08-22T18:47:34+05:30	Northstar-Dental	nsd-web-app	Enable ME API call for home page (#24)
+47df2b21bca60b0f6cac576089332b515b513f55	2025-08-25T13:23:32+05:30	Northstar-Dental	nsd-infra	update stack
+4a74ad345efbad0280d2e6c5b93534bf805d379b	2025-08-25T13:27:27+05:30	Northstar-Dental	nsd-backend	docker setup
+3c29c30eb7d2081036b523fe392e4d21536e5b88	2025-08-26T17:32:55+05:30	Northstar-Dental	nsd-backend	additional keys for status, and permission count
+b611828fd689282a7ab5b886619f3bb4a824429f	2025-08-26T18:15:02+05:30	Northstar-Dental	nsd-backend	update tests
+eb5f13208fb826f1de94f024b6eafd82a6d41b2d	2025-08-26T20:25:20+05:30	Northstar-Dental	nsd-web-app	Husky depreciation warning fix (#26)
+a2c4b394611deab56ffffdd13152fdbcd53da72e	2025-08-26T20:25:45+05:30	Northstar-Dental	nsd-web-app	Not found page and forbidden component (#25)
+04b1a47cb05a8825b77c4f4c4143401fd936797b	2025-08-27T12:50:53+05:30	Northstar-Dental	nsd-backend	fix role tenant detail
+bf43dcd6e1c7fae24053570ba405616d239fc0fb	2025-08-27T18:07:03+05:30	Northstar-Dental	nsd-backend	add role origin details in create and update response
+7f7774f9437e29ccca62563d18c5ebd17c0aed72	2025-09-03T11:46:28+05:30	Northstar-Dental	nsd-web-app	Admin Settings : Role Section (#27)
+a81ce28ff20ebd25059cce8dcad08e6527ce1460	2025-09-03T14:57:31+05:30	Northstar-Dental	nsd-web-app	FIX: multi-select scroll (#28)
+9792119711abf4555b8e9c91b22c72418cb9ca57	2025-09-04T15:43:35+05:30	Northstar-Dental	nsd-web-app	Permission based access to routes and components  (#29)
+4dffeac4a2f3fd82dc29be25b34ddbb357041274	2025-09-09T18:41:51+05:30	Northstar-Dental	nsd-web-app	mobiscroll setup
+256c297ece0186543213545cea8a97f12e83cbbb	2025-09-10T18:18:01+05:30	Northstar-Dental	nsd-web-app	backgroung event changes
+28a0b020431595bdfbe548246a38d177c795758b	2025-09-15T17:15:36+05:30	Northstar-Dental	nsd-web-app	Tests (#30)
+b5420c82db881cc992b9c798bd7da23193304f59	2025-09-16T12:17:57+05:30	Northstar-Dental	nsd-web-app	Make default location and practice optional (#31)
+a8c544da2c634a2bf607b5ea3a58853e717d7a40	2025-09-18T13:16:23+05:30	Northstar-Dental	nsd-web-app	added teeth chart
+689dc965daada2e595cac16817c1372909b73be5	2025-09-18T13:17:08+05:30	Northstar-Dental	nsd-web-app	added required width and height to Image
+63b9ed30ed9c0da63eeb28b998d5a87e6243e306	2025-09-18T13:17:57+05:30	Northstar-Dental	nsd-web-app	make teeth selectable
+92a9290a8a08d53c6546dab1635975bc414d15ee	2025-09-18T13:38:31+05:30	Northstar-Dental	nsd-web-app	responsivene teeth chart
+4386860977ec5c131887100e7762cb13128ef90a	2025-09-18T17:13:01+05:30	Northstar-Dental	nsd-web-app	drawing tools
+c4aa0bc6761a85745875ecf2668a69010a47f197	2025-09-22T18:24:27+05:30	Northstar-Dental	nsd-web-app	disable edit role button for inactive roles
+75c660205933576d97473e895d36c95d2df31610	2025-09-23T16:12:50+05:30	Northstar-Dental	nsd-web-app	delete user/role
+fa19b767605dae545691e3d827e05bb244a2e0fb	2025-09-23T16:16:26+05:30	Northstar-Dental	nsd-web-app	disable delete button and filtered inactive roles from dropdown options
+bd6454b1afeee2653d0946c9968c88abeb224b8f	2025-09-23T16:19:13+05:30	Northstar-Dental	nsd-web-app	removed scope ids form user/role list apis and invalidate list on delete
+dfe375eb5a7cf3885daa8c3cc2515cf28c213e07	2025-10-03T13:02:22+05:30	Northstar-Dental	nsd-web-app	review fixes
+a78f846e4060d02ba9121296a979ee873a68fc29	2025-10-03T13:18:57+05:30	Northstar-Dental	nsd-web-app	remove deleted cached role
+a7f51cfd6a09f927fd082fdfaeb633124560594f	2025-10-08T16:48:38+05:30	Northstar-Dental	nsd-web-app	operatories and appointment management
+35f042a0392d0ce01daf0216239b117bf59bae08	2025-10-13T11:14:09+05:30	Northstar-Dental	nsd-web-app	location hours
+abfe71da23e4d2ee2739821d9a186ee366285acf	2025-10-13T13:41:36+05:30	Northstar-Dental	nsd-web-app	recurring schedule pattern
+9a476948d5a4666c851c65af49c3a19ae6c9720a	2025-10-13T14:21:21+05:30	Northstar-Dental	nsd-web-app	schedule override pattern
+2e2279cc5d1600d8b2a5369d4556b308838aba10	2025-10-13T15:54:14+05:30	Northstar-Dental	nsd-web-app	schedule blocks
+31f5a2a7697b8f0661baba921cfe13f49df875bc	2025-10-14T14:32:07+05:30	Northstar-Dental	nsd-web-app	revamp block UI and genreic week schedule ui
+a34410598db19ff8cce2520c1b35262f78229978	2025-10-14T14:48:54+05:30	Northstar-Dental	nsd-web-app	fix edit operatory
+930214d799f2838ca7bc6c6694d9372e466c003c	2025-10-16T12:22:49+05:30	Northstar-Dental	nsd-web-app	basic operatory calander
+a502d2329bdf3f1fc01f24eb3736614a289e81b8	2025-10-17T14:42:11+05:30	Northstar-Dental	nsd-web-app	operatory calendar UI
+46aed7d4614780791ef27e9c218d460aa3a28219	2025-10-17T15:26:09+05:30	Northstar-Dental	nsd-web-app	change admin settings ui
+24672c8727cc18126265df585f1eab1d3c458226	2025-10-21T15:12:41+05:30	Northstar-Dental	nsd-web-app	location schedule api integration
+345d40f3d1df4fbe816a9c7a7b01b05d591ea5b2	2025-10-21T19:39:38+05:30	Northstar-Dental	nsd-web-app	recurring schedule pattern
+562d074f64a0ca2f3869ce4d0c92efbaf56682d5	2025-10-22T12:03:27+05:30	Northstar-Dental	nsd-web-app	location schedule override
+0823a932135abc5fa49414f819c983bd3476d889	2025-10-22T14:19:09+05:30	Northstar-Dental	nsd-web-app	operatories api integration
+cad7fa1cb1894708329347f8cbed975c82862992	2025-10-22T19:18:45+05:30	Northstar-Dental	nsd-web-app	Schedule block api integration
+5c95b6cef2b55d6f75da62e85ffeb5be7d558ae2	2025-10-23T17:15:54+05:30	Northstar-Dental	nsd-web-app	appointment type api integration
+7d425f834cf973d4a10ecfb6b5905ac49e46ba2b	2025-10-23T17:17:01+05:30	Northstar-Dental	nsd-backend	update appointment type seed data
+48a9ad709b29aa74c42e38c1876758ad0274f844	2025-10-24T14:35:09+05:30	Northstar-Dental	nsd-web-app	provider schedule and exception
+857ee423af0a591cc7dfcd5dad82008f03ebaa95	2025-10-24T14:39:39+05:30	Northstar-Dental	nsd-backend	update excepctionCreate payload key type to exceptionType
+c0e756883b24bb1ffdff5f0d775206eb31635c85	2025-10-24T22:17:29+05:30	Northstar-Dental	nsd-web-app	WIP: operator calendar view
+708563829bdadd40f9be3d060b9220dc4e33b054	2025-10-25T13:24:16+05:30	Northstar-Dental	nsd-web-app	refactor loction schedule and exception
+90a67553bec037453ce3dbfde55165438464fce2	2025-10-25T22:53:07+05:30	Northstar-Dental	nsd-web-app	validator and block legends
+8c390aac3d30118eb92babaf94f61486cb472bb5	2025-10-27T13:46:09+05:30	Northstar-Dental	nsd-web-app	timezone fixes
+5225a102415dc3215959b49a76f731034a28acf8	2025-10-27T17:47:41+05:30	Northstar-Dental	nsd-backend	update colors
+abb65adccfc2a191de9fd5bb1afd316cf5308620	2025-10-28T11:53:40+05:30	Northstar-Dental	nsd-web-app	location schedule
+573cd6add451ca380dbb626987a1e3ce19044c7b	2025-10-29T16:21:05+05:30	Northstar-Dental	nsd-web-app	add appointment flow and appointment card
+42b432cc84759f97dce2c4f3d64eb41150785fff	2025-10-29T18:27:45+05:30	Northstar-Dental	nsd-web-app	create appointment with override
+203051bae04209701c641818fe47f1a1c45386a1	2025-10-29T20:40:45+05:30	Northstar-Dental	nsd-web-app	add appointment from calander
+a7a5f69fee11823b10400e5399a5ffc41e7f1ca2	2025-10-30T13:11:21+05:30	Northstar-Dental	nsd-web-app	render confilcts
+44987a10044b9927e0b09b0890120ee46acab9f1	2025-10-31T13:29:02+05:30	Northstar-Dental	nsd-web-app	timezone fixes
+123cafbd791c584da73cd9a20c79a4fd57a40279	2025-11-02T21:51:43+05:30	Northstar-Dental	nsd-web-app	reschedule modal
+4afe7014dd7c536238f7fd3eca70bb6e6614f7d2	2025-11-03T01:48:16+05:30	Northstar-Dental	nsd-web-app	disable event drag & drop and event creation using calendar ui
+276602558fd219aba7db7e368d8fada1f88e0208	2025-11-03T20:11:07+05:30	Northstar-Dental	nsd-web-app	componet return type fixes
+f0e7436875b63ea60ac000487e19bb9b28b611e6	2025-11-03T20:51:27+05:30	Northstar-Dental	nsd-web-app	fix store property mismatch
+75c8c7b842702920a8d29e12525fc415a986f3f5	2025-11-05T00:13:16+05:30	Northstar-Dental	nsd-web-app	add tests
+85770b8564ab13257b8cc0cf61933fbd7bc5275b	2025-11-05T00:21:24+05:30	Northstar-Dental	nsd-web-app	add confirm diloag on appointment type delete action and fix Confirm dialog closing bug
+7b44bb00e9647bd33461f71ef922cd49b7199d1b	2025-11-06T12:39:33+05:30	Northstar-Dental	nsd-web-app	temp
+578535d38d1a10c8cab6ebd0baab16f615b50999	2025-11-06T12:49:39+05:30	Northstar-Dental	nsd-web-app	Tenant Info for logged in user(#39)
+0c549f91c8104a607cd6316bea07ebaa81099a12	2025-11-18T00:25:01+05:30	Northstar-Dental	nsd-web-app	Procedure Code Management (#41)
+0d89dcbf0334cddb973553e2a7f61e76137013a3	2025-11-20T15:41:54+05:30	Northstar-Dental	nsd-web-app	add use clinet on pages
+b97a899ad330155424144e07f2eabd92468c6f2a	2025-11-20T15:43:31+05:30	Northstar-Dental	nsd-web-app	fix 0 display when there is no paitent in patient selection modal
+043241e4561156f21e7e3461677da35ef499eccc	2025-11-21T18:21:13+05:30	Northstar-Dental	nsd-web-app	Feedback Changes (#47)
+292a8bb95b26ffdf8ee5134e99ea5f450d6f62a6	2025-11-24T20:31:46+05:30	Northstar-Dental	nsd-web-app	Custom time input and recurring exception modifications (#48)
+bd9b70ddef91d52bdb5ff0abaab8c18b802d93d0	2025-11-26T17:56:07+05:30	Northstar-Dental	nsd-web-app	Exceptions, Schedules, and Operatory conflicts handling on Create and Update (#49)
+d3a9636c6fddb7a64065ca2d818b07d4c148b071	2025-11-27T11:51:59+05:30	Northstar-Dental	nsd-web-app	Fee schedule management (#46)
+b679548c321cb2795e887998250fd73e43182c33	2025-11-28T20:17:46+05:30	Northstar-Dental	nsd-web-app	Fee Schedule Gaps (#52)
+527e125fa9513be4cb624c59ac7720dc338cefdc	2025-12-04T16:25:47-05:00	Northstar-Dental	nsd-backend	update backend port to 4000 by default (#59)
+a3cb9a6b1fc3bc3b4b65a7d43b789ee507aeb01b	2025-12-08T20:43:07+05:30	Northstar-Dental	nsd-web-app	Insurance Carrier  (#55)
+7ac8a0308f49bffb64ad1948d6a15ed2695eb9ad	2025-12-10T11:08:15-05:00	Northstar-Dental	nsd-backend	patient partial search, seed data and test cleanup (#62)
+31f403e012b1c513575a075e3ef5482e613cce49	2025-12-10T13:30:04-05:00	Northstar-Dental	nsd-backend	update for ci.yml (#63)
+15134b78f9d86538f28f7a91bfb1e1135db08efd	2025-12-10T13:41:17-05:00	Northstar-Dental	nsd-backend	fix gitignore for clinical seed data (#65)
+73ad20637db96b307501cd0a465e97887be98fa9	2025-12-10T13:49:56-05:00	Northstar-Dental	nsd-backend	readme update (#64)
+21797f2ddbd0a2b1fd929ee3a637450667799364	2025-12-10T14:29:22-05:00	Northstar-Dental	nsd-backend	update readme (#66)
+3ab68359ed6e82512f78b3411bd87a733b4ad8b9	2025-12-10T19:12:23-05:00	Northstar-Dental	nsd-backend	remove debuggers used for fixing integration tests (#67)
+635dca1c7226a21bd9007faded14b75368970044	2025-12-10T19:24:52-05:00	Northstar-Dental	nsd-backend	addl updates for seeding in ci mode (#68)
+7ef063084ea6b6183c01863b063cf55b68c1e0c1	2025-12-11T17:06:03-05:00	Northstar-Dental	nsd-backend	safeguards to prevent crawlers and bots (#70)
+4aebbe6666fdb64f2443cde872171e2f52d0a7f7	2025-12-11T22:12:44-05:00	Northstar-Dental	nsd-backend	updated logo in seed data (#71)
+0ff3e5dff912da676e4e2f8737d61184e54ec7fb	2025-12-12T11:49:49-05:00	Northstar-Dental	nsd-backend	system user account (#75)
+53eb5238e227acd6d2743caf651222dfd28bd256	2025-12-13T15:05:04-05:00	Northstar-Dental	nsd-backend	 lists, list items, languages, translations (#76)
+124288c8a849a96b965658b86541581dbe1722e3	2025-12-16T00:20:54-05:00	Northstar-Dental	nsd-backend	updated patient attributes to use list item values (#78)
+536b8612ea581a3ba5790638e9b80d86266afcf0	2025-12-16T13:03:37-05:00	Northstar-Dental	nsd-backend	add the ability to filter list items (#80)
+35d651a5e93bb26bd80b3bfe59c47676577024b3	2025-12-18T15:55:05+05:30	Northstar-Dental	nsd-web-app	Update procedure code detail icon to edit icon (#79)
+837ec447b418882842e789512df253f4e5a4a0ba	2025-12-18T16:15:41+05:30	Northstar-Dental	nsd-web-app	Multi select checkbox ui (#80)
+5f6badcc2e288c261103fa4523c6c01f1da5649e	2025-12-18T20:57:50+05:30	Northstar-Dental	nsd-web-app	Insurance Plan Module (#75)
+ce03a4c3e3133e1430a38e577247a2f8a9e0c0f9	2025-12-21T18:15:51-05:00	Northstar-Dental	nsd-backend	consistent snake case naming for db tables, columns, indicies (#82)
+61248f9f3204c23305414515f5fa4ccb5a76c154	2025-12-22T13:00:08+05:30	Northstar-Dental	nsd-web-app	WIP: patient insurance
+1c4d1301b00c3f7aa9a93cc6b61966142441b3f5	2025-12-22T16:23:47-05:00	Northstar-Dental	nsd-backend	removing list codes and fks from db tables (#83)
+5d1af49f59dd42902dd61d543b7021b1ae2c6ead	2025-12-22T17:06:59-05:00	Northstar-Dental	nsd-backend	prettier file fix (#84)
+bdaa169a4916f61f24f68a05c943d01223b9e47a	2025-12-24T20:21:35+05:30	Northstar-Dental	nsd-web-app	Integration Management: SOTA CLOUD and Dental Exchange (#85)
+3c20c2afbb13e8fe3c031d5f942e97475633c7fc	2025-12-29T01:08:27-05:00	Northstar-Dental	nsd-backend	family-aware patient changes (#85)
+5612e484969c89b966a485ba89b7185e2b0731ee	2025-12-29T12:49:33+05:30	Northstar-Dental	nsd-web-app	SOTA Cloud Button and Exams Listing   (#86)
+e0e66ccbcf360c8d691a31c6b52bd6f7eef7939e	2025-12-29T13:36:08+05:30	Northstar-Dental	nsd-web-app	DXC and SOTA Cloud integrations from DSO (#88)
+d760ab9dc257f8f3c2b31e13ea65a710b60652ea	2025-12-30T19:15:33+05:30	Northstar-Dental	nsd-backend	seed and update carrier fixes
+0db3fcc62a3a04ef07b02b276e4a9a10f3d2727f	2025-12-31T17:31:17-05:00	Northstar-Dental	nsd-backend	family aware patient updates (#87)
+67df6eacdc228a7bafaee18bce4af22c11a41fa4	2026-01-01T05:06:15+05:30	Northstar-Dental	nsd-web-app	FE: Schema Fixes after system lists update (#92)
+3da5d63fd781f7b94e8fc712d9456d98f757698c	2026-01-01T17:37:15-05:00	Northstar-Dental	nsd-backend	comms filters (#91)
+d248867bbdb6ace463796e6e0b16f92bdb02e3ac	2026-01-02T12:55:48+05:30	Northstar-Dental	nsd-web-app	Patient Appointment reschedule flow (#94)
+04dc6fead3a01a1255253466ee9aebded5e2b62e	2026-01-02T14:38:13+05:30	Northstar-Dental	nsd-web-app	FIX: Copy to all functionality for Schedule block (#96)
+70f778ac9db3addd3e579aa81b17f9e7ab5ff480	2026-01-02T14:44:22-05:00	Northstar-Dental	nsd-backend	message read tracking (#92)
+12e9289e1b6d0db17211436e7da724bf320fa908	2026-01-02T15:38:20-05:00	Northstar-Dental	nsd-backend	add build step to pr job (#93)
+2b50f4d1f95e372302942ba040708687d9a752d7	2026-01-02T19:43:08+05:30	Northstar-Dental	nsd-web-app	insurance verification
+baa7694a4f5a962784652d20bb80f782805d74b3	2026-01-07T11:43:57-05:00	Northstar-Dental	nsd-backend	document storage (#95)
+24de9dd1519dba433c720f8b1abf1796344cfa73	2026-01-07T12:05:55-05:00	Northstar-Dental	nsd-backend	document storage additional updates (#96)
+5f4a582f4fcce98574e0308703a36bca02765909	2026-01-07T12:33:28+05:30	Northstar-Dental	nsd-web-app	Refactor DXC Integration management (#104)
+ca6295d6a3c12d9361bbbb6447aa24ab21ff7720	2026-01-07T14:10:07+05:30	Northstar-Dental	nsd-web-app	coverage items dynamic list
+e287daf5d64750decbdc5572fe1e6b085626dd1d	2026-01-07T14:33:23+05:30	Northstar-Dental	nsd-web-app	review fixes
+e50bf941c027abe1044278be61471446cded6714	2026-01-07T19:27:12+05:30	Northstar-Dental	nsd-web-app	Coverage items dynamic list usage  (#105)
+1b1dfe0d3ae131b6b26fe911c4a8701321c40e10	2026-01-08T08:25:13-05:00	Northstar-Dental	nsd-backend	increment folder doc count after successful finalized upload (#97)
+cee7d77b94837e7fb4f7659206e037da681313eb	2026-01-09T14:18:42+05:30	Northstar-Dental	nsd-web-app	coverage items list and type check
+ffd2cc1beb95872aebc81d28090b2b3840b87101	2026-01-09T14:49:16+05:30	Northstar-Dental	nsd-web-app	review fixes
+675b0179f50707716e78311c3eb054bca9b66fd7	2026-01-09T15:01:20+05:30	Northstar-Dental	nsd-web-app	coverage items list and type check (#109)
+45ac438253543c7a22fa29f1a4cabb360a28e4e9	2026-01-12T15:27:53+05:30	Northstar-Dental	nsd-web-app	insurance benefits details
+0bcadfb1721fa024befdbeea20029d6beb26a3e0	2026-01-12T15:42:39+05:30	Northstar-Dental	nsd-web-app	review fixes
+108b332eaaea498c3ae7bdcdabb061f244627f58	2026-01-12T15:55:25+05:30	Northstar-Dental	nsd-web-app	review fixes
+cc2b524dceb57ffa4fe48591950dec91df26181e	2026-01-12T16:08:52+05:30	Northstar-Dental	nsd-web-app	Insurance Verification and Benefits Details (#112)
+1638429b5588adaf700de7d89bd2b1c761d910db	2026-01-13T22:31:52+05:30	Northstar-Dental	nsd-web-app	auth ssr
+9f7e90c1cc96c3f8f833a10334ce34b065635405	2026-01-15T14:01:05+05:30	Northstar-Dental	nsd-web-app	update procedure code with finacial category and transaction subtype
+f6208225676e192513e2d4e037d8613da3932daf	2026-01-15T15:45:48+05:30	Northstar-Dental	nsd-web-app	add new properties in custom code
+4b71a1713a3fdf21b0507ed73303e09c6a614fb8	2026-01-15T16:39:37+05:30	Northstar-Dental	nsd-web-app	financial category and transaction type validation check
+6b60ef156ea50aba730cb5ea0c808a32a1b4edc7	2026-01-15T18:44:07+05:30	Northstar-Dental	nsd-web-app	office fee schedule
+e14f71f52febe1d7972977a3a2b4853dbdbf22d9	2026-01-15T19:11:35+05:30	Northstar-Dental	nsd-web-app	remove unlimited option for deductables
+12ff065199afa40acaa9d281ecb96bb262875e91	2026-01-15T19:49:40+05:30	Northstar-Dental	nsd-web-app	update insurance plan, fee schedule apis
+1fe34f9374fe3e0967a0b15effdd031590c859f0	2026-01-19T13:51:32+05:30	Northstar-Dental	nsd-web-app	appointment detail page and related ui
+09aefd6e7c4564491b54ed5b1c7ac1fddca7ac25	2026-01-20T12:36:50+05:30	Northstar-Dental	nsd-web-app	appointment complete api changes
+f31cf5a9f722efe91cdcc8fe80553ef42a3918ec	2026-01-21T21:43:51+05:30	Northstar-Dental	nsd-web-app	line level ledger
+05413324fc619bdd5919c959e2ce73154d2fac93	2026-01-21T23:16:46-05:00	Northstar-Dental	nsd-backend	initial payments work (#103)
+9c956ed52054bc9c2f860fa1c586db3bcd38a675	2026-01-22T08:13:06-05:00	Northstar-Dental	nsd-backend	increase payment state machine test timeout (#105)
+161eb9d290ce0107d4988184f7b6fdc31143e6ad	2026-01-22T08:45:23-05:00	Northstar-Dental	nsd-backend	increase lock timeout for ci (#106)
+6cc35c6baf86dfe002573d0901e213b540f89449	2026-01-22T14:55:25+05:30	Northstar-Dental	nsd-web-app	patient level ledger
+b1fceb687c4dc6ecc756ddf9610d639bbe4928ee	2026-01-22T15:24:42+05:30	Northstar-Dental	nsd-web-app	type fixs
+d9a13027822f6ab2573005c7ba3a997c47a97b19	2026-01-22T16:24:18+05:30	Northstar-Dental	nsd-web-app	move appointment edit button
+01d5043daa6505901f5ac61936e3cc3b0528aee4	2026-01-22T16:25:30+05:30	Northstar-Dental	nsd-web-app	location info in patient ledger
+ebe8a8ea4b29d50a35fe25b0732bb092f5432f8e	2026-01-22T16:38:37+05:30	Northstar-Dental	nsd-web-app	fixes
+481f743752d1e14ca057c7d1b033a0082cf3b2e1	2026-01-22T16:50:14+05:30	Northstar-Dental	nsd-web-app	scehma fixes
+aa756ec00ba2846786dfcb2b0db658c231a7b45e	2026-01-22T20:46:23-05:00	Northstar-Dental	nsd-backend	test updates (#107)
+322e5e7b99f732575a0a6cf5b469aba90b11209a	2026-01-22T23:24:39-05:00	Northstar-Dental	nsd-backend	test updates (#108)
+216dba8b2074ce4f5b3a735010cca30b560efe26	2026-01-23T08:47:42-05:00	Northstar-Dental	nsd-backend	advisory lock updates (#109)
+50a1a9fb949b595cbeff59c30d4ae0f0a0777f3a	2026-01-23T12:56:30-05:00	Northstar-Dental	nsd-backend	update docs (#111)
+b623ddff84b508dca3e551ffe9ef9a154b5ff4c4	2026-01-23T17:49:21-05:00	Northstar-Dental	nsd-backend	key rotation updates (#112)
+803c89f712d04287ea8debbe9db8317da4b25677	2026-01-23T21:31:42+05:30	Northstar-Dental	nsd-web-app	field breakup
+ec4bcd405bbcff8f0f86dbb3bfd6b6ab96182563	2026-01-23T21:59:06+05:30	Northstar-Dental	nsd-web-app	balace calulation bug fix
+dfbf036db7d1fae1fc76073f532842e45c089e4e	2026-01-23T22:22:40+05:30	Northstar-Dental	nsd-web-app	review fixes
+38fd215d5fdf30f10cd757aee197bcadc5711285	2026-01-25T20:12:33-05:00	Northstar-Dental	nsd-backend	use github actions to deploy backend (#113)
+2caa2307b228b0674af6a740ce1d253d3cd6fabb	2026-01-25T20:17:01-05:00	Northstar-Dental	nsd-backend	only run ci.yml for pull requests (#114)
+0e2f4fe96d6d7fe65acd2a1d92983bd31e85fe53	2026-01-26T23:51:08-05:00	Northstar-Dental	nsd-backend	update payments to be location scoped (#115)
+48a2f72cf8a84c07042e69635d1e3aa7de1c5d09	2026-01-27T10:30:46+05:30	Northstar-Dental	nsd-web-app	Ledger (#121)
+4da2b2df4e43c3411aa020001b4dbed296ef0f7f	2026-01-29T02:14:35+05:30	Northstar-Dental	nsd-web-app	treatment estimates and revamp appointment detail and edit flow
+16cf965f10f22af5977a46ed13fb4bf6085a52a3	2026-01-29T11:47:25-05:00	Northstar-Dental	nsd-backend	get family member/patient name for payments (#118)
+47e522f68afd051a69be8ecba928ce26525fc756	2026-01-29T16:28:42+05:30	Northstar-Dental	nsd-web-app	reevaluate appointment fee
+5d53b5dd220ed3bc94e98ebb5783173ff653675b	2026-01-29T17:53:49+05:30	Northstar-Dental	nsd-web-app	appointment and valid slot based on custom duration
+4e7030dfc0b0099e187e68f18265fd0a1ba9d96e	2026-01-29T18:28:17+05:30	Northstar-Dental	nsd-web-app	custom duration for custom events
+47b913b8521f72b37ec01acb4249b68bcc12bfda	2026-01-29T19:06:55+05:30	Northstar-Dental	nsd-web-app	fix duration check for multiple of 10
+51e3b0452deeedf973a3c8bb72dc256c26480efc	2026-01-30T13:17:21-05:00	Northstar-Dental	nsd-backend	add inactivity timeout to ui config, update tsconfig files (#122)
+cbdde46aec3d9716309996bb75a4dae702631471	2026-01-30T13:29:46-05:00	Northstar-Dental	nsd-backend	stripe property fix (#123)
+1a6bc62abe16bebe8a88aa99eb6c651247c44758	2026-01-30T13:46:03-05:00	Northstar-Dental	nsd-backend	fix tsconfig copy paths in dockerfile (#124)
+464ac7565ca3c404fba0f7f6b2f7d7c86d16d62f	2026-01-30T17:35:42+05:30	Northstar-Dental	nsd-web-app	api endpoint update and checks
+43eb53c94eccc7ff132b7a33839504e91ce5168a	2026-01-30T18:14:21+05:30	Northstar-Dental	nsd-web-app	patient ledger family suppport
+99c2b119c06d5c4cab474c521dafac2da03e49f6	2026-01-30T18:39:55-05:00	Northstar-Dental	nsd-backend	update themeing (#125)
+b72d96440ba20982b1d511f439137e74ca66fded	2026-01-31T08:08:11+05:30	Northstar-Dental	nsd-web-app	Treatment Estimate  (#137)
+3254c0746c7ade2d8598b97af69677bfa00a796b	2026-02-03T17:24:16+05:30	Northstar-Dental	nsd-web-app	patient invoice workflow
+065e674008bf7c470547f214699403e72797d33e	2026-02-03T20:09:20+05:30	Northstar-Dental	nsd-web-app	update dxc integration api
+339053c7dffc1a382c346b3498edd6b540f523bb	2026-02-03T20:17:31+05:30	Northstar-Dental	nsd-web-app	update respone structure of verify eligibility api
+0ff7439137397cf3cca22e2e11a1a1bc431f8880	2026-02-03T22:15:04-05:00	Northstar-Dental	nsd-backend	image proxy with blur hashes (#130)
+88036fed42116bf9a86a7c34e62fba8fbea856bc	2026-02-04T13:36:15+05:30	Northstar-Dental	nsd-web-app	ui fixes
+8c23ab838827142eeaa4373267a4d0b3ef9fb3dc	2026-02-04T20:16:05+05:30	Northstar-Dental	nsd-web-app	eligibility api
+56c6ea7764151f55a33b24e787a5c1c158af3440	2026-02-04T20:30:58+05:30	Northstar-Dental	nsd-web-app	DXC API Update and Patient Insurance Eligibility API (#142)
+326c94c5a65d2ce65d8aa031ee3d4fc1f30660f7	2026-02-04T20:44:52+05:30	Northstar-Dental	nsd-web-app	review fixes 1
+258ac027ce9bbe6f3a8a25d8e9b8763e19d7e444	2026-02-04T20:51:22-05:00	Northstar-Dental	nsd-backend	test updates (#132)
+43ca8c0585a93b0f6f6e8d76513630d52e936f33	2026-02-04T20:56:57+05:30	Northstar-Dental	nsd-web-app	Patient invoice Version 1 (#143)
+72d0d975615159db6630cbbc37b2395f7fd9bb69	2026-02-04T21:56:03+05:30	Northstar-Dental	nsd-web-app	add treatment selection step when creating appt from schedule
+a055a4c89a46e350a5362c1ff6b0f930ca11e53f	2026-02-04T22:06:32+05:30	Northstar-Dental	nsd-web-app	open add appt modal on pateint appt list page
+c7f97e4c4350d84a33ff26bc80d6836e4f0e6e97	2026-02-04T22:20:22+05:30	Northstar-Dental	nsd-web-app	review fixes 1
+70e7a33e62157ef5dfc94254cd47447950ac1be7	2026-02-04T22:34:31+05:30	Northstar-Dental	nsd-web-app	review fixes 2
+9472770e50978a27ad6a5024070ef14140bd2c94	2026-02-04T22:41:23+05:30	Northstar-Dental	nsd-web-app	Treatment Selection Step while creating Appointiment (#144)
+9029210c7ea464548459c6c2a74b8aa2cb9d1fb7	2026-02-05T18:59:50+05:30	Northstar-Dental	nsd-web-app	fix All multi select component
+7d5d27b7415b4a3948ffcc48d76eb0bc7754d952	2026-02-05T19:02:28+05:30	Northstar-Dental	nsd-web-app	nsd table x-axis overflow scroll fix
+70cf1180f8c628f932b4da03a20454cf1f2a2ffd	2026-02-05T19:25:23+05:30	Northstar-Dental	nsd-web-app	fix placeholder
+7bba6a92b755366cbf41e9445ecdce29aa4630da	2026-02-05T19:52:18+05:30	Northstar-Dental	nsd-web-app	invoice listing family and practice view
+fe242939eab44c5c55335a0db266e462a714708f	2026-02-05T19:58:34+05:30	Northstar-Dental	nsd-web-app	invoice view and download
+e89c57312e073f408ac54917684ea0a8d95b41a7	2026-02-05T20:34:54+05:30	Northstar-Dental	nsd-web-app	UI Component Fixes (#147)
+944c66561caab64dffecd31a76da030b09fa13e3	2026-02-05T22:38:43-05:00	Northstar-Dental	nsd-backend	fix adding family member and contact method from ui (#134)
+227c56dac717d6cad67ef5ecc244bfd40a662395	2026-02-06T11:49:39-05:00	Northstar-Dental	nsd-backend	rotate session as part of refresh handler (#137)
+e0e8f7b6a683ed4f5f51085c6ef1fa18a9287ef9	2026-02-06T15:10:56+05:30	Northstar-Dental	nsd-web-app	review fixes 1
+9af3f563b17c3bf7c16577970a195019f2491783	2026-02-06T15:24:40+05:30	Northstar-Dental	nsd-web-app	query cache key
+8b4060d231ae49b02aff3112962038fb5d00c9dd	2026-02-06T15:25:37+05:30	Northstar-Dental	nsd-web-app	Invoice API Update and Download and View PDF (#163)
+6b776270d705632ef64a265708fc965138abf9ad	2026-02-06T16:02:32+05:30	Northstar-Dental	nsd-web-app	fix create appointment from calendar ui
+4a02a4054c7f63a9708def5d852bcfeebd0cbe7d	2026-02-06T16:04:09+05:30	Northstar-Dental	nsd-web-app	fix schedule planned appointment
+4f209e30639b3cddbbaecb25ec90721fe5369694	2026-02-06T16:19:54+05:30	Northstar-Dental	nsd-web-app	FIX: Appointment from calendar UI and Scheduling Planned Appointment (#164)
+947eacecda00899dbabe1dce5b0b72d0df43a70c	2026-02-06T20:31:58-05:00	Northstar-Dental	nsd-backend	update rate limiting (#138)
+a3c8367c9fec41e9f06f4353e8030315fb7d0e5c	2026-02-07T00:15:07-05:00	Northstar-Dental	nsd-backend	remove decryption from db transactions when possible (#139)
+9b4036dae9a1b5ac2a085e420650508ba7e40362	2026-02-09T11:33:52+05:30	Northstar-Dental	nsd-web-app	WIP:invoice details
+a28c4f2e556aa94ba39f5b3077773312b592a813	2026-02-09T11:58:08+05:30	Northstar-Dental	nsd-web-app	upadte ledger api changes
+b62f68ebf14b4578205126babf0eae5fd95fd93d	2026-02-09T15:20:37+05:30	Northstar-Dental	nsd-web-app	invoice api changes and UI update
+4f9973272ac5281f930e568e8bc10cf41dc18220	2026-02-09T15:51:46+05:30	Northstar-Dental	nsd-web-app	quick action section and fixes
+0761a428933ba3efe4ea8946a851cf445670eb21	2026-02-09T16:24:11+05:30	Northstar-Dental	nsd-web-app	review fixes 1
+cc86830d15420c9ca4a511c5d33ccff139bfd2fa	2026-02-09T20:59:38+05:30	Northstar-Dental	nsd-web-app	Invoice Detail (#173)
+c67a1d4898fa842238ceb6aa5124cf0548042d42	2026-02-10T11:46:49+05:30	Northstar-Dental	nsd-web-app	WIP: create claim
+c6cde9ce209bc42d7ed0fdde90e611af5be074b5	2026-02-10T12:00:34+05:30	Northstar-Dental	nsd-web-app	handle provide specialty key to itme code
+6a7362dfbd7c378302d7d6e9acf1e90088bb5286	2026-02-10T13:30:20+05:30	Northstar-Dental	nsd-web-app	complete create claim
+1008dc82bb00d1ddcf7a6f310b1ec7b0d6a652d6	2026-02-10T19:33:57+05:30	Northstar-Dental	nsd-web-app	patient claims listing
+9f5bbdfeaca3b619283a01aca90b8ef0028430b2	2026-02-10T21:09:09+05:30	Northstar-Dental	nsd-web-app	restructure files
+15df4037684a73f87e24fb8248fcacc35160e381	2026-02-11T12:13:01-06:00	Northstar-Dental	nsd-backend	combine all existing migrations (#144)
+7b61eb5a6244a8f98f0adad87c0f09ee168c3ec7	2026-02-11T12:19:25-06:00	Northstar-Dental	nsd-backend	github workflow updates (#142)
+b721008951f632e56364ba779b6b2d7de18b8f38	2026-02-11T13:19:24+05:30	Northstar-Dental	nsd-web-app	restrict rescheduleing of past and colpleted appointment
+7749220dede46632de4f78d526c670f02b258364	2026-02-11T13:42:42+05:30	Northstar-Dental	nsd-web-app	review fixes
+42d1c0b598d06b9f10b5bf3e0db7143bec288f1b	2026-02-11T13:50:33+05:30	Northstar-Dental	nsd-web-app	Restrict rescheduling of past and completed appointment (#174)
+614f29d735ce2fffc34382616616f2d4f1a999d3	2026-02-11T17:29:52+05:30	Northstar-Dental	nsd-web-app	UI fixes
+923abd3abfdc9c6109e75108b5040b7992376fc1	2026-02-11T17:57:36+05:30	Northstar-Dental	nsd-web-app	minor fixes
+ff1b99bb5d76fd156237fc6c3139544764da35a9	2026-02-11T18:21:26+05:30	Northstar-Dental	nsd-web-app	Patient Claims List and Create (#175)
+cde6b0d96cd39151a05d2a7641f4b47a98197d85	2026-02-12T19:34:48+05:30	Northstar-Dental	nsd-web-app	Document nesting and saving SOTA exams in document directory (#179)
+403bd8fb2dae0205b08a5ae3c99f703cc5f72e17	2026-02-13T12:18:17+05:30	Northstar-Dental	nsd-web-app	update treatment insurance policy structure
+1672a8b41f622041cb07aa3bbc735527ba177d46	2026-02-13T15:59:37+05:30	Northstar-Dental	nsd-web-app	claim details page
+4fc69cd7fdfcbf895fa5a09c42d72b94d6f9c7a7	2026-02-13T17:00:04+05:30	Northstar-Dental	nsd-web-app	use system list
+2ebc0ab404e0431aa6c491d62814b96a3044eddf	2026-02-13T18:14:01+05:30	Northstar-Dental	nsd-web-app	claim action buttons
+37598d9bc82bfb9ea3700097169cda84f3bf3f52	2026-02-13T20:18:27+05:30	Northstar-Dental	nsd-web-app	claim attachement workflow
+520a949c37ceb4cd607b04e33fd301314a2a4c75	2026-02-16T15:45:09+05:30	Northstar-Dental	nsd-web-app	ui enhancements
+480251dbf88cc8aa96c236bcfcbf71f77ad1c662	2026-02-16T16:11:47+05:30	Northstar-Dental	nsd-web-app	SSR Claims listing
+3aa09f90b5077ff529e328b5c82b0ad36b423526	2026-02-16T17:11:09+05:30	Northstar-Dental	nsd-web-app	update UI and api for create invoice
+9d7c4ce7b349f3c0c3ca12af266edbd6ebd4f0f6	2026-02-16T20:29:48+05:30	Northstar-Dental	nsd-web-app	Payments and Credits (Credits & Credits History) (#180)
+7eebbe7d0b08a91f28c7358c00b177fc11cc4418	2026-02-17T12:00:01+05:30	Northstar-Dental	nsd-web-app	review fixes 1
+f0fcea3ec86ae426c2ebd15593186b6dd17d9fc8	2026-02-17T13:34:17+05:30	Northstar-Dental	nsd-web-app	claim attachment version
+135cb815eccf00fac96bff6bb22e5159fb4548f8	2026-02-17T14:21:42+05:30	Northstar-Dental	nsd-web-app	review fixes 2
+f8dec22276292e35b2b5b87864a8fe40323ea03f	2026-02-17T14:33:21+05:30	Northstar-Dental	nsd-web-app	Claim Details & Attachments (#181)
+34c4d396f95e539865638a523ec92e77acd06ff3	2026-02-17T14:47:06+05:30	Northstar-Dental	nsd-web-app	fix check for fetching SOTA integration info on chart page
+4cfb4d0956bd198f81d51585aa4b7b50eefd9846	2026-02-17T14:49:28+05:30	Northstar-Dental	nsd-web-app	add fields for fetch appointment list on server side
+53f231cf79da1f8ca7d6f2f7dc996e1e16fcba8b	2026-02-17T14:53:17+05:30	Northstar-Dental	nsd-web-app	fix integrationcared status bagde text color
+22dddd61491bb17e97d1ae5241ba48f85ddd259d	2026-02-17T15:48:38+05:30	Northstar-Dental	nsd-web-app	show claim button and checkbox for copleted appointment only
+cdbf7dfddc9ac4453814e190060b2f69d9cfaf93	2026-02-17T16:19:17+05:30	Northstar-Dental	nsd-web-app	fix success toast in case of conflict while createing appointment
+003ce3f53eb1c86739012ccb062326016fe07093	2026-02-17T20:46:28+05:30	Northstar-Dental	nsd-web-app	schema update
+44a5074f8c125959ce3ba88e67abafa2b8620034	2026-02-17T20:51:05+05:30	Northstar-Dental	nsd-web-app	added adjustments (#183)
+1e3e2168d3cef8ad2d243b8e4d88d2c20939c570	2026-02-18T12:33:22+05:30	Northstar-Dental	nsd-web-app	Bugs and UI Fixes  (#182)
+ae26d502b25a483620f5dec866cc84842bf502c6	2026-02-18T13:38:47+05:30	Northstar-Dental	nsd-web-app	set operatory store on schedule to show in slot selection
+2a6103c9b41cdd0863e940ff832adb278f54e4e8	2026-02-18T14:54:30+05:30	Northstar-Dental	nsd-web-app	Set Operatory store on schedule to show in slot selection (#185)
+422fbe1111b7b198c1dff17bb95f96d39bc53b56	2026-02-19T11:52:30+05:30	Northstar-Dental	nsd-web-app	api changes
+b997fd409cd3a5203a470fe14255804c0aba3e5f	2026-02-20T13:16:47+05:30	Northstar-Dental	nsd-backend	location schedule and appointment for date range
+243a7e20d023081527aa5eac0ad2e69ab605b312	2026-02-20T14:22:33+05:30	Northstar-Dental	nsd-web-app	calendar ui update
+1e84a62267e7154bebdb757345847778adb52273	2026-02-23T13:33:25+05:30	Northstar-Dental	nsd-web-app	appointment modal revamp
+da3fe9db607c0493929f41c6e4a1e7cd1488f025	2026-02-23T13:45:41+05:30	Northstar-Dental	nsd-web-app	reschedule appt preview  modal
+802acb997809455157f6b6c5d5cf08fbfb7f8f80	2026-02-23T13:58:07+05:30	Northstar-Dental	nsd-web-app	location open api
+019f72c8929fcce8bc7a680efe2f752bd21ffc79	2026-02-23T15:13:07+05:30	Northstar-Dental	nsd-backend	location open closed info
+07dfda58d188ed7dba8ccbfc3ddf3db12761e778	2026-02-23T15:18:22+05:30	Northstar-Dental	nsd-web-app	month view location closed dates
+2db69a96391b0aab787e54593f191d2407853969	2026-02-23T17:29:49+05:30	Northstar-Dental	nsd-web-app	week view event tooltip
+5399f3f62e3e66c961d78fe69134b4e3f1ba9d43	2026-02-23T18:03:07+05:30	Northstar-Dental	nsd-web-app	initail patient selection
+51df21384bfc71cf5f116868977b99c15bd1aeee	2026-02-23T18:13:01+05:30	Northstar-Dental	nsd-web-app	slot selection AM/PM filter
+352d158b51d37a3c8baf8e0528d786ee13fb27e3	2026-02-23T18:50:48+05:30	Northstar-Dental	nsd-web-app	show appointment status
+5262ea7c5e285ac03f38b6f56ac0fec57c6a7b80	2026-02-23T19:19:16+05:30	Northstar-Dental	nsd-web-app	UI updates
+2fa87af38446c3c484d82cf17812735d97c4278e	2026-02-23T19:26:47+05:30	Northstar-Dental	nsd-web-app	fix slot selection date filter
+0b308a405c735a85f616d75ebdeb7f838db3a7e2	2026-02-23T22:16:24+05:30	Northstar-Dental	nsd-web-app	appointment type fe filter
+6d6c4d63066143dccbcc08f2702e9dbcdd5b07b0	2026-02-23T23:20:23-05:00	Northstar-Dental	nsd-backend	family / patient updates (#154)
+a02c56972cd5d72b084ab699ef352dd073524493	2026-02-24T12:03:46+05:30	Northstar-Dental	nsd-web-app	minor ui fix
+be47a066c52c4202164873f594b15e636109dcfc	2026-02-24T12:14:05+05:30	Northstar-Dental	nsd-backend	appt type filter on appointmentlist api
+a29a02bece5c32d26a4e3ac309ca621b64f96696	2026-02-24T12:20:49+05:30	Northstar-Dental	nsd-web-app	move appointment type filter to BE
+89a9e959296f1d0821cc5d5c9d49a06bbf0d4eca	2026-02-24T12:57:01+05:30	Northstar-Dental	nsd-backend	appointment tests
+6e0ed260ce7d498d8c4232bfce8eeaaecc5dc910	2026-02-24T14:00:28+05:30	Northstar-Dental	nsd-backend	schedule unit tests
+8d57573b532551d131d096e3c93e64c2c0368c2f	2026-02-24T15:51:23+05:30	Northstar-Dental	nsd-backend	schedule integration test
+fbf08a2fa915dffcb9828465208fc21d110c79b0	2026-02-24T15:59:36+05:30	Northstar-Dental	nsd-web-app	fix types
+5e808000aa0286e9918d6587513b00c616dfa7b2	2026-02-24T16:55:43+05:30	Northstar-Dental	nsd-web-app	break schedule client file
+b57c306d58a0936478669a3e67846464368073d7	2026-02-24T17:30:57+05:30	Northstar-Dental	nsd-web-app	Memoize callback props andstabilize render props
+675c7d8b6c352d9174e60c8e38e7e23978c212b4	2026-02-24T17:36:38+05:30	Northstar-Dental	nsd-web-app	memoize operatoriesOptions for header, memoize header component
+5f6920a5baabf207a6a6153d7a10113bf8fa10c4	2026-02-24T17:43:12+05:30	Northstar-Dental	nsd-web-app	isolate patient context
+b255cf442a4da0ecee339e2645f6a760b92a4bb2	2026-02-24T18:01:48+05:30	Northstar-Dental	nsd-web-app	break schedule client file and move modal state so only modals re-render
+bbb2ea8337967b4a84cabe8ba16e0239f554d689	2026-02-24T18:14:30+05:30	Northstar-Dental	nsd-web-app	fix ssr api call when date is not provided for week and month view
+5c206dfe954fe0e7aac15d2be2d861fa0040e2ad	2026-02-24T18:32:00+05:30	Northstar-Dental	nsd-web-app	month to day view using date click
+4159883072353567e589c22810d035f0b33a49e0	2026-02-24T20:59:01+05:30	Northstar-Dental	nsd-web-app	fix browser nav, rerender issue
+2869abf11bb93f6c3d26f1529ec779573a24b697	2026-02-25T12:58:33+05:30	Northstar-Dental	nsd-web-app	fix tests
+ede39642c3ec0a6780fa54f43ec8af30d2b94c99	2026-02-25T13:13:01+05:30	Northstar-Dental	nsd-web-app	bg color position fix
+4e854fa0689b87f41afc84c3e0e8710ea1cb7d46	2026-02-25T14:39:48+05:30	Northstar-Dental	nsd-web-app	review fixes
+fee2cfeab74e3fc41f86e53662ca71465bfb40ef	2026-02-25T15:01:30+05:30	Northstar-Dental	nsd-web-app	review fixes
+6faed216b2459620444b0a95944f4bea2124ee61	2026-02-25T15:08:08+05:30	Northstar-Dental	nsd-backend	Schedule api for date range, location open api, and appointment type filer in appt list (#155)
+7b09745b1dec5774e94a76dee1be6856e7e2598a	2026-02-25T15:08:19+05:30	Northstar-Dental	nsd-web-app	Schedule and Add Appointment Revamp (#191)
+c8bbf4c77906367f337855aa2ecd7e42f4b73f0b	2026-02-25T15:50:30+05:30	Northstar-Dental	nsd-web-app	fix hydration issue
+871b3a9b4218041c6adefb1672cbc2f064bca4e3	2026-02-25T17:00:23+05:30	Northstar-Dental	nsd-web-app	appointment status update
+7c897da439737ea800f2aa0dae8b8be3c8639839	2026-02-25T17:12:31+05:30	Northstar-Dental	nsd-backend	index on main: 6d6c4d63 family / patient updates (#154)
+8a68c11e9c54a1dd854b7002837358f57c26ac18	2026-02-25T17:12:31+05:30	Northstar-Dental	nsd-backend	WIP on main: 6d6c4d63 family / patient updates (#154)
+d4f70b9eeab1215fe6f0ec4c497d98d7c560e37f	2026-02-25T17:13:11+05:30	Northstar-Dental	nsd-backend	open api schema
+4de649039fd43477d1451a65c528f07a83618129	2026-02-25T17:32:48+05:30	Northstar-Dental	nsd-web-app	fix z-index for week view
+fd13b52fc6c321953a194c6063d0cc63e0da1365	2026-02-25T17:38:32+05:30	Northstar-Dental	nsd-web-app	allow user to reshedule past not completed appointment
+aca432895523f7e4b61ae5169bcfa2d525bb19b4	2026-02-25T17:47:26+05:30	Northstar-Dental	nsd-web-app	update status update check
+529f2639cc88c520fa1661354fe069e5540b1341	2026-02-25T17:52:37+05:30	Northstar-Dental	nsd-backend	open api schema for previous api changes (#159)
+34d2590e14b002fb89951016514c40889a367ebb	2026-02-25T17:53:04+05:30	Northstar-Dental	nsd-web-app	Appointment status update from schedule calendar (#194)
+8b733a736791c46e69fda23c7fa38efe8456e127	2026-02-25T18:15:52+05:30	Northstar-Dental	nsd-web-app	index on main: 34d2590 Appointment status update from schedule calendar (#194)
+f83eed1003159cc5928ac06fdc4b249372990078	2026-02-25T18:15:52+05:30	Northstar-Dental	nsd-web-app	On main: test
+e40b2848d11b3df568218a42ce7d75d4ae8bc7dc	2026-02-25T18:58:30+05:30	Northstar-Dental	nsd-web-app	schema and ui fixes
+02bd3fb3d5e316f298deadfc18c8deb4d42e1dd0	2026-02-26T17:00:46+05:30	Northstar-Dental	nsd-backend	modify retun type and change order
+a09c17f892ad18129f40b674bc5a8269fc850902	2026-02-26T17:10:12+05:30	Northstar-Dental	nsd-web-app	treatment financial history
+8274273bdf2b40d4e5bf677d89eb14ebab43e951	2026-02-26T17:12:38+05:30	Northstar-Dental	nsd-backend	add base item
+265eb4ed076974763a7bae7b62e150d4bf79b48c	2026-02-26T17:30:27+05:30	Northstar-Dental	nsd-web-app	Treatment financial history (#195)
+2cc875ec0a3c2f526e6da841b8e0d8bd03ac476d	2026-02-26T18:06:44+05:30	Northstar-Dental	nsd-backend	modify return type and change order for treatment financial history (#160)
+0be72a88b61ea173cf03966cc81850cf5da90425	2026-02-26T18:55:43+05:30	Northstar-Dental	nsd-web-app	removed exising ortho contract feature
+4a76b79162d72529b1b1914ee93a9723d984c507	2026-02-26T20:42:33+05:30	Northstar-Dental	nsd-web-app	ortho contracts UI phase 1
+582c5351fceec69757bf7edb0dd090f4683ec68b	2026-03-02T17:21:52-05:00	Northstar-Dental	nsd-backend	payments part 2 (#163)
+42f51898f628d1dc17815412bf02a5df60e3d450	2026-03-05T23:17:08+05:30	Northstar-Dental	nsd-web-app	fix month view popover issue
+8e33812f093eb17b5d37cf3aec7ed525e311bc81	2026-03-06T10:01:40-05:00	Northstar-Dental	nsd-backend	update allowed origins list (#164)
+c64eb9578c80ab8c2353f64f7d7fbefc8529ede3	2026-03-06T18:42:14+05:30	Northstar-Dental	nsd-web-app	fix month view popover issue (#201)
+2b4545c618944193ce4f61ae66851000b364301e	2026-03-09T16:24:58-04:00	Northstar-Dental	nsd-backend	fix rate limiting for localhost (#165)
+121ce0af096c0cf4900cce74e802cdc9e29ee895	2026-03-12T23:38:06-04:00	Northstar-Dental	nsd-backend	test fixtures table (#168)
+6793e69e2b89f661fe1b021de8eefb21d3695476	2026-03-18T14:27:45+05:30	Northstar-Dental	nsd-brain	initial commit and setup
+d1c53a6dd48b968fce9828f3598ff41dcba6aacd	2026-03-18T15:42:06+05:30	Northstar-Dental	nsd-brain	meeting insights
+917c0beafbe0b5822f910bfc96a113b01a684223	2026-03-18T23:32:46+05:30	Northstar-Dental	nsd-brain	meeting summary and info
+78317fdee41c76c33e73615f8921a59011ec1b1e	2026-03-18T23:52:57+05:30	Northstar-Dental	nsd-brain	weekly roll ups
+de0f4817a24cacf7bf3c3846ec38ca71d55886ae	2026-03-19T12:46:12+05:30	Northstar-Dental	nsd-brain	update topic intelligence
+727e673cbdae527c9bde77a1f0088fd4eb64d49d	2026-03-19T13:04:47+05:30	Northstar-Dental	nsd-brain	admin settings
+6d2a818443194bb90ab370d9e68926f9a7715abd	2026-03-19T13:34:34+05:30	Northstar-Dental	nsd-brain	store data seprately
+0bf22075814af5d0863243f62d17f11c1d7e6525	2026-03-19T20:12:50+05:30	Northstar-Dental	nsd-brain	readme file
+63fff5257cad35a92e9f6b3d3fc9bcc28eff4735	2026-03-20T12:20:33+05:30	Northstar-Dental	nsd-brain	search for context
+30bbd35cd728f838dc933d6ed3cecb0d5b36a86a	2026-03-20T14:48:02+05:30	Northstar-Dental	nsd-brain	log button
+8cf89567493ac1ba01055c1c9d536ea46383ce30	2026-03-20T15:46:31+05:30	Northstar-Dental	nsd-brain	search history
+5bac7aa70644f5291c4943e7711b030e7ed998b6	2026-03-20T16:50:00+05:30	Northstar-Dental	nsd-brain	track api cost
+fafa162616d25e958f6b560cb566c532eda85b00	2026-03-20T18:30:56+05:30	Northstar-Dental	nsd-brain	fixes
+c04e5ec437648954a31510f5adbf0e2151938cb6	2026-03-20T18:36:38+05:30	Northstar-Dental	nsd-brain	migration fixes
+a4fce663b7df3f4f7e97fb07b7693eac59a5e13c	2026-03-20T19:09:10+05:30	Northstar-Dental	nsd-brain	add claude.md and preimer.md file
+9e3eb4970b81540f90161a5e61792e8907f8848e	2026-03-22T11:20:57-04:00	Northstar-Dental	nsd-backend	comment out rate limiting plugin (#170)
+25bce340fba66b87e12ba1434a74db16f8b50896	2026-03-24T12:53:31+05:30	Northstar-Dental	nsd-brain	basic ui changes
+5d0f26d35a2714d2ac0fd3887935c731cd86215b	2026-03-25T13:57:35+05:30	Northstar-Dental	nsd-brain	authentication
+0537389ecc144b3e076a798c0362c51b9b00e263	2026-03-25T14:22:56+05:30	Northstar-Dental	nsd-brain	update enc and gitignore
+d530603a10704afeec9a814c419c8392275e42b0	2026-03-25T14:30:27+05:30	Northstar-Dental	nsd-brain	Remove settings.local.json from tracking (already in .gitignore)
+6d9c62e5c3af6b354e9bd684fbfe06b5e6b9e742	2026-03-30T19:53:17+05:30	Northstar-Dental	nsd-brain	queue for brain processing and embedding
+bf0c968eaf31c69da596ae79db6c8a4cc048df56	2026-03-30T19:57:16+05:30	Northstar-Dental	nsd-brain	updae README and Claude.md files
+8866dc7b4cbec7c2bc3c2c82456aed5a4636ef86	2026-03-30T20:20:22+05:30	Northstar-Dental	nsd-brain	In-memeory Queue for Processing Brain and Embedding  (#1)
+cc1e256bcb7ab39caab85f815a9436930d7b88cf	2026-03-30T21:42:09+05:30	Northstar-Dental	nsd-brain	break transcript in chunks if needed
+0ec6704771a3cd1e75ec614cd9cbdd90a1c0dc01	2026-03-31T13:47:20+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+85ee4f21f58e3ba48169a7186ae34fdfe8b5ab8f	2026-03-31T13:47:51+05:30	Northstar-Dental	nsd-brain	Transcript chuncks (#2)
+062da83b1dca074e4d20074de81ecad73fc593e3	2026-03-31T15:45:33+05:30	Northstar-Dental	nsd-brain	Add Individual/Company prospect types with contact persons
+5e5fc28c078606096dfa414c99a0b4c1f12f68c6	2026-03-31T16:00:38+05:30	Northstar-Dental	nsd-brain	prospect type and change
+03d851ee1038ec326509c19a811a1b9cfa73a972	2026-03-31T16:14:08+05:30	Northstar-Dental	nsd-brain	update meeting maping with prospects
+4250c4f2b4933b91189c989f1ea48c05cd6ba410	2026-03-31T16:18:18+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+c09859356a27355e930075420e2c5e0e208e236a	2026-03-31T16:23:37+05:30	Northstar-Dental	nsd-brain	Prospects types and mappings (#3)
+d763584d9d4d82539013f89a3c77b4bcf9d6ef23	2026-03-31T17:01:03+05:30	Northstar-Dental	nsd-brain	kanban board CURD
+0559e28b4169f71c877de05791ecb2cbdbb47393	2026-03-31T17:35:34+05:30	Northstar-Dental	nsd-brain	card conversion button on meeting info page and slug usage
+bfb072604650222a5f97662487869f2511037963	2026-03-31T17:46:03+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+7721340f9c2798881b7473cd434f1f5cc8ed5359	2026-03-31T17:46:24+05:30	Northstar-Dental	nsd-brain	Kanban Board (#4)
+0b9270e8cd668c59701800ef7a7045d4c89248c6	2026-03-31T19:38:07+05:30	Northstar-Dental	nsd-brain	build fix
+63e58e34545c8067ebdbfe0ecbe947949a56d414	2026-04-01T13:10:38+05:30	Northstar-Dental	nsd-brain	add fe skill
+f6fcb8f35051823589b549626f494bff36881dfe	2026-04-01T14:28:01+05:30	Northstar-Dental	nsd-brain	quill editor for card details
+6d4393164a9eb5f0bc9e046f28fe8f3c14ba1ae1	2026-04-01T16:03:36+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+e87f938b34b02549979611309ae52a3e5f798a17	2026-04-01T16:04:35+05:30	Northstar-Dental	nsd-brain	Ticket Card UI update (#5)
+2bd97755cd865f082da8f3e4261a47c1de3eb5b2	2026-04-01T20:26:23+05:30	Northstar-Dental	nsd-brain	account level braina and info
+05a4eb1a8a9684b4990826dc3579df7c62b2da7a	2026-04-02T12:04:37+05:30	Northstar-Dental	nsd-brain	account level braina and info (#6)
+cd168ee27597d20f317e9ac13a2ab8b08c37de13	2026-04-02T18:32:32+05:30	Northstar-Dental	nsd-brain	Conductor and Plugins with prompt generation workflow (#7)
+727e3538abdb8ffbff27e10c25edf882996ed998	2026-04-02T18:45:38+05:30	Northstar-Dental	nsd-brain	fix: build @nsd/conductor and @nsd/plugin packages in Docker (#8)
+c03662d2330d590302f20b599fd83a03ce9c9853	2026-04-02T18:57:24+05:30	Northstar-Dental	nsd-brain	fix: build @nsd/conductor and @nsd/plugin packages in Docker  (#9)
+b0ef13e942f527c55ba3c19622c2c9448ab1729e	2026-04-02T21:23:43+05:30	Northstar-Dental	nsd-brain	card comment workflow
+31642b31b2546d59c405cfc0eb1731b8763fe0b9	2026-04-02T21:48:32+05:30	Northstar-Dental	nsd-brain	update Readme.md and claude.md
+bfbedbd2852097c94353fa948a7aa80ea086f8d9	2026-04-02T21:58:46+05:30	Northstar-Dental	nsd-brain	Card comment feature (#10)
+fd8a5455480ea1535f18df9189c5a65bd8eeddeb	2026-04-02T22:15:31+05:30	Northstar-Dental	nsd-brain	fix: return 200 for NOT_GENERATED intelligence brief instead of 404
+23bac3604bfe14448b19db308f8ddfb3655c7b8a	2026-04-03T12:06:10+05:30	Northstar-Dental	nsd-brain	add scroll
+a868dd3897cb836e75131f90d9fa1c76e9851754	2026-04-03T12:09:01+05:30	Northstar-Dental	nsd-brain	card description preview fix
+ae6ed3f25197256c33bb7c56b1c4b7112a0011d8	2026-04-03T12:14:30+05:30	Northstar-Dental	nsd-brain	update card detail UI
+06dadf5bda08cec2e099d6813e20d2e46645c7d6	2026-04-03T12:23:10+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+d438c28e7fc7ec14b41006399d34bc4a345219ac	2026-04-03T12:38:42+05:30	Northstar-Dental	nsd-brain	Board UI: column scrolling, card preview fixes, and detail panel improvements (#11)
+c0b958fc4e4f2caf114f971d56253991b250397a	2026-04-03T13:48:31+05:30	Northstar-Dental	nsd-brain	Accounts list: multi-select filters, search, and alphabetical sorting
+c71f04deaa15a63052bcd707de4a765bf0c6b2e9	2026-04-03T14:09:05+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+05754c8cd4dcb71016d84e8c6740c2f67e65ddd3	2026-04-03T14:09:34+05:30	Northstar-Dental	nsd-brain	Accounts list: multi-select filters, search, and alphabetical sorting (#12)
+c703794e04a37ffbedc0a0bc1d88ca0cca4466f8	2026-04-03T17:15:57+05:30	Northstar-Dental	nsd-brain	Port Brain from Local Queue to Conductor (#13)
+2f2a7bbcc1a662e71f648ab6a35ae68b54c7b0cd	2026-04-03T18:51:42+05:30	Northstar-Dental	nsd-brain	added URL enrichment
+37b7bae4a3087e46d2ffd7051257861574f14b87	2026-04-03T18:52:09+05:30	Northstar-Dental	nsd-brain	added URL enrichment (#14)
+5a04571ad01662d4d670b7dfc53bc659f7dbef12	2026-04-03T22:04:05+05:30	Northstar-Dental	nsd-brain	track account lead souucre
+1675df6f86b2082b946048a3ec9f759c1f9d2c3e	2026-04-03T22:25:01+05:30	Northstar-Dental	nsd-brain	update claude.md, readme.md and primer.md
+dfe026d0f3d9c2caecf78f5dad7b6e1de9c9971b	2026-04-03T22:26:12+05:30	Northstar-Dental	nsd-brain	Account lead tracking (#15)
+5bab9ed50c13411262ed68eb957cab828356d49c	2026-04-06T11:09:36+05:30	Northstar-Dental	nsd-brain	fix: add prompt.account_brain to CONFIG_DEFAULTS and increase max_tokens (#16)
+a24185d2e6d6d8aaebf0de3fa7325445cc769987	2026-04-06T16:35:03+05:30	Northstar-Dental	nsd-brain	add location info
+7a9622fdb0630ac2a95a798e7795735388f95a74	2026-04-06T16:56:46+05:30	Northstar-Dental	nsd-brain	account extisting software
+592af574cab40bd1479e31075769f2b9116ea48f	2026-04-06T17:06:32+05:30	Northstar-Dental	nsd-brain	update reamde.md and claude.md
+8439b0eb99d28c7491000e133c268cdefe03abc0	2026-04-06T17:08:56+05:30	Northstar-Dental	nsd-brain	Account locations and existing software tracking (#17)
+9d71e17de8e52176b05d4388fc3a7dc10987bf4b	2026-04-07T16:13:59+05:30	Northstar-Dental	nsd-brain	account aritfacts workflow
+e0a875838d02a29d9d95400676bc4348a19bb1cb	2026-04-07T16:22:53+05:30	Northstar-Dental	nsd-brain	update reamde.md and claude.md
+a970137a15663a00414405c527cce50155a1107b	2026-04-07T16:24:48+05:30	Northstar-Dental	nsd-brain	Account Artifacts (LINK, FILE, TEXT) (#18)
+c82576e5aa659d0b8d0c78d140e8d5ea6ca6d895	2026-04-08T11:34:19+05:30	Northstar-Dental	nsd-brain	 kanban board enhancements: labels, members, activity log, filters, markdown editor, customizable columns
+9b4f318fdcd8b6438d6a07cdaafc7e118a33c24d	2026-04-08T12:12:31+05:30	Northstar-Dental	nsd-brain	card link and detail page
+f445fda8319d93f06c9aeeb32b54af8bb199a5b2	2026-04-08T12:20:12+05:30	Northstar-Dental	nsd-brain	Conductor persistence cost tracking artifacts (#20)
+a517c6934f92799dc1fbb0d10c1be9463aea589f	2026-04-08T12:31:55+05:30	Northstar-Dental	nsd-brain	show label on card
+aa23a51d8a86dbfbc0c3dbc276b9fc88a8060958	2026-04-08T13:01:45+05:30	Northstar-Dental	nsd-brain	fix column and label managing ui
+f43eacbf60396deca33618e3d0a4e75f53b67dc0	2026-04-08T15:08:15+05:30	Northstar-Dental	nsd-brain	format description
+602bccb70de54cc9e84b70fddc210a624b2f4a6b	2026-04-08T15:11:51+05:30	Northstar-Dental	nsd-brain	update migration
+6efafd536e40d370a51de0903538921daa76ba33	2026-04-08T15:20:57+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+7ee1c6e29fc140dccaa6e4ccd723d25a527f0499	2026-04-08T15:21:33+05:30	Northstar-Dental	nsd-brain	 Kanban board enhancements (#19)
+11356d974a06c34bd8db8076ffae949ab4e4f753	2026-04-08T15:56:22+05:30	Northstar-Dental	nsd-brain	comment reply
+07a49e424279d1be60606320d9ca5c595c545133	2026-04-08T16:03:34+05:30	Northstar-Dental	nsd-brain	update readme.md, claude.md and primer.md
+8bad38a98a8352d1ef3ddc3305e67220310fa6c1	2026-04-08T16:09:10+05:30	Northstar-Dental	nsd-brain	build fix
+b5dc01c4ad53cbdd97a7dbf963cc194d353e372f	2026-04-08T16:18:58+05:30	Northstar-Dental	nsd-brain	Comment conversations — threading, @mentions, editing, emoji reactions (#21)
+4b09b29c2fd75b2ee36a1e188466809430eaa8dd	2026-04-10T20:37:52+05:30	Northstar-Dental	nsd-brain	Website generator (#22)
+3ab855906b3fb4ad3a069fb00a4f27d24cf04842	2026-04-10T22:47:39+05:30	Northstar-Dental	infrastructure	Website Generator (#15)
+8a72fb2a01d1d6e3a74f794526b31d2535aec27b	2026-04-11T00:34:35+05:30	Northstar-Dental	nsd-brain	updated the website generator v2 (#23)
+01bda959b8b85ca353b3dafdcfc1373c5946e8dd	2026-04-11T01:55:59+05:30	Northstar-Dental	nsd-brain	website generation v3 (#24)
+7a5889622e6b17713734e526d9370e641ebf36f9	2026-04-11T02:28:41+05:30	Northstar-Dental	nsd-brain	added job cancel in conductor
+c7bd9d542eaa0fd41049903ca78bed0091c22491	2026-04-11T02:48:04+05:30	Northstar-Dental	nsd-brain	added job cancel in conductor (#25)
+9b05a6540b4ee49bdd644738a47292de740e8c7c	2026-04-13T14:30:10+05:30	Northstar-Dental	nsd-brain	fixed usage tracking
+9c962875f9358be45a00f652ca649f871b156467	2026-04-13T14:32:16+05:30	Northstar-Dental	nsd-brain	fixed usage tracking (#26)
+2d40ab63e08147adfa54ab3ab6148000432734cb	2026-04-13T20:41:37+05:30	Northstar-Dental	nsd-brain	added external type (company/individual) toggle to account detail edit form
+6ea4f3a2942713dfbc48b211dffe3329f2a6f203	2026-04-13T20:42:31+05:30	Northstar-Dental	nsd-brain	Add external type toggle to account detail edit form
+f06542d780e52a0b6fbc6f4d3ecbaef44d9132ca	2026-04-13T21:50:08+05:30	Northstar-Dental	nsd-brain	Add S3-backed image upload for card comments and descriptions
+3fa4af4349e1651ed35a59b1ef2a983f515a2fcb	2026-04-13T22:32:28+05:30	Northstar-Dental	nsd-brain	image preview fix
+1a49a7703cea56c0249409f333665569c46b81b9	2026-04-13T22:37:07+05:30	Northstar-Dental	nsd-brain	Add image upload to card comments and descriptions (#28)
+b857a757eb79abf743d5223ea70315cec919c6bf	2026-04-14T14:30:16+05:30	Northstar-Dental	nsd-brain	feat(schema): relationship graph data model with PersonAccount, RelationshipEdge, and event log
+2be9c849f88bba424718ca1915188ab04dd3ac32	2026-04-14T14:30:22+05:30	Northstar-Dental	nsd-brain	feat(backend): warm-path traversal, people CRUD, and edge-origin lifecycle services
+6c49786ff0e2a86fca2acf854fd56ce27adf2930	2026-04-14T14:30:29+05:30	Northstar-Dental	nsd-brain	refactor(backend): migrate contact callers to PersonAccount junction and auto-affiliate attendees
+eede8acd68af5e0ad1d71f2e8c1c10912483dd1b	2026-04-14T14:30:36+05:30	Northstar-Dental	nsd-brain	feat(frontend): people directory, person detail, and reagraph relationship graph
+2bf1821c357f59eb3f20656707d2813e5825bf10	2026-04-14T14:30:42+05:30	Northstar-Dental	nsd-brain	docs: relationship graph architecture, origins, and pitfalls in CLAUDE.md
+54cf77088f94668dc6188fd565ee77ea20865403	2026-04-14T14:32:17+05:30	Northstar-Dental	nsd-brain	refactor(admin): redesign pricing config with input/output split cards
+e1956b49f09c81f07be7b5e25f512367870f6f00	2026-04-14T14:49:25+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md files
+f3f70ac55f8d2d7b909859a86fa4edeed869c9a4	2026-04-14T17:01:36+05:30	Northstar-Dental	nsd-brain	added person enhancement in meetings
+0d682968aae6c989988bed69af34e2a9ae92e843	2026-04-14T17:32:59+05:30	Northstar-Dental	nsd-brain	v0 of scrapping
+0b0968f7af707c848fa97f00d3d4da6effd35984	2026-04-14T17:35:26+05:30	Northstar-Dental	nsd-brain	added poeple in accounts
+2156d74829115287119ff13581744d9edf990c8b	2026-04-14T17:47:07+05:30	Northstar-Dental	nsd-brain	fix stop signal
+24a289e1ea5787e12d21c64fd0dfe7f69e2607b2	2026-04-14T20:29:34+05:30	Northstar-Dental	nsd-brain	fix 1st degree retrival
+2cc6c9bf292680f1135dadc00ed5ef3437f83ee2	2026-04-14T20:39:15+05:30	Northstar-Dental	nsd-brain	add sorting and remove buffer to update data
+6d9e1353ae3ad164c4115818b91dee6e57571d17	2026-04-15T11:40:27+05:30	Northstar-Dental	nsd-brain	name and url for 2nd degree connections
+102a41e32f5539cceab49481f3453441a08f2e65	2026-04-15T11:51:19+05:30	Northstar-Dental	nsd-brain	URL Enrichment and People Phase 1
+c18799d468ec46ac0ceaa8b24802d0f0c9e500e5	2026-04-15T12:33:52+05:30	Northstar-Dental	nsd-brain	Added History audit for relationships
+a41fc1c7e2ee041f7440620d7b94bb02f2e794e1	2026-04-15T13:06:39+05:30	Northstar-Dental	nsd-brain	back fill migration for contact persons
+64194db645bfe1dd14e911967fda4212f4281c5f	2026-04-15T13:10:08+05:30	Northstar-Dental	nsd-brain	Person intelligence Phase 1 (#29)
+5f1f92116f92e1f70f2e3908d30c545ce54341e1	2026-04-15T16:40:04+05:30	Northstar-Dental	nsd-brain	fixed the individual to company switch bug (#30)
+f37ba088252e00add090c78772685c4098295156	2026-04-15T17:31:21+05:30	Northstar-Dental	nsd-brain	added feture to end relationship (#31)
+d955cc192287cbb1646590c680be325f36c83558	2026-04-16T16:52:47+05:30	Northstar-Dental	nsd-brain	move state to db
+2145535cea5beeb32f1f03ee820eaa9154d6fca0	2026-04-16T17:16:05+05:30	Northstar-Dental	nsd-brain	combined migrations
+72a0550ddea20eb3065316123f5bc7d1e4d922f3	2026-04-16T18:34:24+05:30	Northstar-Dental	nsd-brain	Person intelligence v2 (#32)
+d88729b4332b5e03fd332f1f579706ac4f4ffb98	2026-04-16T19:17:35+05:30	Northstar-Dental	nsd-brain	fixed null string issues in LLm call (#33)
+2453b66b3f71386310c3e8fe0600d08bf4359854	2026-04-17T14:38:36+05:30	Northstar-Dental	nsd-brain	fix cureent compamy issue on 2nd degree scrape and seaching
+f9995cf424693debd062353d501679432bc5a6ec	2026-04-17T15:05:16+05:30	Northstar-Dental	nsd-brain	email scrapping
+f54d8c1d694970c8f2e439495e1477f7431c75fe	2026-04-17T15:24:56+05:30	Northstar-Dental	nsd-brain	scrape single profile button
+392ac62a13be715483b7b98457543df7ab4970f4	2026-04-17T16:34:01+05:30	Northstar-Dental	infrastructure	linkedin scraper infra
+1876d7a3c14aaa5463af3a8bea805460d3270be5	2026-04-17T18:35:59+05:30	Northstar-Dental	nsd-brain	network graph
+7867e33a1f34490a76d89e0279e92529faca7dd5	2026-04-17T18:52:44+05:30	Northstar-Dental	nsd-brain	infra changes
+9e99dad753fe944c392b37d527d60cc72abf83be	2026-04-17T22:18:27+05:30	Northstar-Dental	infrastructure	review fixes
+73529fac61f350acdd34d0f56083af58964a4453	2026-04-18T05:26:12+05:30	Northstar-Dental	infrastructure	linkedin scraper infra (#16)
+857f3f43aa359a78b0a1a1410a47cb55564ab321	2026-04-19T00:20:38+05:30	Northstar-Dental	nsd-brain	Linkedin scrapper (#34)
+cd591a3074f37686f915a41020d0805d25ed2b48	2026-04-20T11:28:46+05:30	Northstar-Dental	nsd-brain	Revert "Linkedin scrapper (#34)"
+3f9351d3ba8176aff45ab22a59c8c01d0d15289f	2026-04-20T11:29:05+05:30	Northstar-Dental	nsd-brain	Revert "Linkedin scrapper (#34)" (#35)
+f7a88c7ad5d757465bf598c4bc83d95758cb8ed5	2026-04-20T15:01:53+05:30	Northstar-Dental	nsd-brain	Person intelligence v2 (#37)
+d7b7cf4761e6179388ae5ff84a991b957c3b2a46	2026-04-20T15:06:41+05:30	Northstar-Dental	nsd-brain	fixed person build
+87cf6909e4b5483f4290e68e255e1de2cc27b2f5	2026-04-20T16:02:26+05:30	Northstar-Dental	nsd-brain	fixed migration for people
+22da43c3806ac7d8c317c28e589e03117cdbcc68	2026-04-20T16:04:57+05:30	Northstar-Dental	nsd-brain	local run fixes
+41a44b4f0fb3d8164da8fd03cc8d974dea816371	2026-04-20T18:44:13+05:30	Northstar-Dental	nsd-brain	button issue fix
+d9fca2b4eded0de55b40e515b989cadb2096f3f0	2026-04-20T19:45:05+05:30	Northstar-Dental	nsd-brain	Linkedin scrapper (#36)
+a4d5c59697b81419bb27f0bfe287635af7a7d064	2026-04-21T11:24:05+05:30	Northstar-Dental	nsd-brain	added individual account ingestion check to map contact person (#38)
+03b4b864ea94278e02fdbd88dcef4688bc4fcaff	2026-04-21T12:51:47+05:30	Northstar-Dental	nsd-brain	add check to prevern t adding media in raw transcript and pre generated notes
+639540912e75054d3865cbc150c17ab01dfb0891	2026-04-21T12:54:44+05:30	Northstar-Dental	nsd-brain	Remove image support from raw transcript and pre-generated notes
+9df08ced9e26104a4bb452963acc693bdf9cf501	2026-04-22T12:08:04+05:30	Northstar-Dental	nsd-brain	remove linkedIn route
+8dd8b99c7dc9852eb4b98917c1be20893832e62f	2026-04-23T16:06:38+05:30	Northstar-Dental	nsd-brain	fire crawl implementation
+a3b83d7a1e345f05f6c7c191db595efccfcae9cb	2026-04-23T17:38:00+05:30	Northstar-Dental	nsd-brain	swap Firecrawl → direct Reddit fetch
+8889409eba2d33e3a9afb5c1ddd4c276a3e33f0b	2026-04-23T17:51:50+05:30	Northstar-Dental	nsd-brain	update claude.md and readme.md
+9ad0900414795cf448fe780985c95c4ea5872498	2026-04-23T17:52:36+05:30	Northstar-Dental	nsd-brain	Reddit scrapping (#40)
+94684ef4f393fd9d0ef1926c697f452a522d1934	2026-04-24T00:13:14+05:30	Northstar-Dental	nsd-brain	rediit apify
+e5aa0b309e3a5a8e18234acb93b2b60d99c8eb0b	2026-04-24T09:52:16+05:30	Northstar-Dental	nsd-brain	ui optimization and fixes
+5be6f4a76d4d04ca6dd127bae10ed868aec0d05e	2026-04-24T11:01:19+05:30	Northstar-Dental	infrastructure	apify sercer variable
+567b6ce2707d92af07085fc845d2e17e1497de19	2026-04-24T12:22:47+05:30	Northstar-Dental	nsd-brain	update readme.md and claude.md
+61246dac687df98056683e9025fea6544d4f4fe2	2026-04-24T12:29:30+05:30	Northstar-Dental	infrastructure	apify secret
+ad468d024c2e9fd85bfed0a6e536b04a7002e4c8	2026-04-24T12:36:54+05:30	Northstar-Dental	nsd-brain	Reddit post and comment scrapping using APIFY (#41)
+1583cc36fc708b0200ae48904780e85ed2254b00	2026-05-07T12:41:19+05:30	Northstar-Dental	nsd-brain	v0 scrapiing the dentaltown homepage
+dead3af159e41ac6df75ad7e8f7492e80b8c9f7f	2026-05-07T19:28:16+05:30	Northstar-Dental	nsd-brain	news and magzine articles
+bf108fd1f0a1e596e435f6f23891f3b30aecb57c	2026-05-07T19:36:49+05:30	Northstar-Dental	nsd-brain	update readme and claude.md
+908a16e236dd6e613b2706efc9425d6a11302561	2026-05-07T20:00:19+05:30	Northstar-Dental	infrastructure	add firecrawl secret variable
+cb12afda1d4eb5f82a71f904e0e40933c183baca	2026-05-07T20:01:31+05:30	Northstar-Dental	nsd-brain	Dentaltown scrapping (#42)
+ea40e32ac60544f701655f5e619ad059bf4fc773	2026-05-07T20:52:46+05:30	Northstar-Dental	nsd-brain	UI fixes and seperate section
+fcfe8ce87f047574fc246334964e370b4a5d3c95	2026-05-07T20:54:53+05:30	Northstar-Dental	nsd-brain	UI fixes and seperate section (#43)
+e2d2681db14d9dd3a7222dabdb9fada80407f6ce	2026-05-08T15:20:51+05:30	Northstar-Dental	nsd-brain	scrape data report and triggers
+9d51dd61d935728708072928716326f5b78be51b	2026-05-08T16:39:47+05:30	Northstar-Dental	nsd-brain	scrape data report and triggers (#44)
+d4b1c434c262dc97ebbae8908f0e31d277c97772	2026-05-11T11:58:36+05:30	Northstar-Dental	nsd-brain	morning grind articles
+4ea17d47b408b504f145f5624c647b53c4d7d84b	2026-05-11T19:13:07+05:30	Northstar-Dental	nsd-brain	morning grind articles (#45)
+0c1b21144cf9b6d98e9bfb6ff0692ae57252a7b9	2026-05-14T11:40:22+05:30	Northstar-Dental	pms	custom report workflow
+3231c12457d03933e669405b489ec5ea85940c97	2026-05-14T12:45:15+05:30	Northstar-Dental	pms	out of th box built in reports
+1cbd57ec342eafdf9620f9020f9e60b23aef3f3e	2026-05-14T14:13:32+05:30	Northstar-Dental	pms	schedule reports
+c7a56aebd0c2b9662377d903a7300a646e4b35e6	2026-05-14T14:37:35+05:30	Northstar-Dental	pms	minir fixes and UI changes
+8cf70647169face33be4df4f73319595853a8848	2026-05-15T19:00:10+05:30	Northstar-Dental	pms	ai report v1
+7f762725cc0c2d58e0fa9efe9f4d68891123ee1a	2026-05-18T17:48:08+05:30	Northstar-Dental	pms	report fixes and modification
+0c9d93b36c6e110b675018de921b94ff7db2d6b6	2026-05-18T18:18:59+05:30	Northstar-Dental	pms	rename migration
+c2bb260667976a4807db453fa04bdaeeec5a0cf3	2026-05-18T18:40:21+05:30	Northstar-Dental	pms	minor fix
+17ee5c4f0be06b21479e7847863a0e40974266e9	2026-05-18T22:44:42+05:30	Northstar-Dental	pms	tests
+506a5af066b5d9314ea5839b72e0b68113f6772b	2026-05-18T23:14:35+05:30	Northstar-Dental	pms	reports achitecture doc
+25854d1344292cddb8aed5dc8fffe2227f37ed47	2026-05-19T13:31:21+05:30	Northstar-Dental	nsd-brain	WIP on morning-grind: d4b1c43 morning grind articles
+a54414a3ba29698245da6aac184ee8722d12ede2	2026-05-19T13:31:21+05:30	Northstar-Dental	nsd-brain	index on morning-grind: d4b1c43 morning grind articles
+765605abc7ab96255ba98bf0f34e10c0e49bd4a3	2026-05-19T20:18:49+05:30	Northstar-Dental	nsd-brain	anthropic model update
+444814d5a97e5e8adce44a3d0b52005b083d122c	2026-05-19T20:25:29+05:30	Northstar-Dental	nsd-brain	anthropic model update (#46)
+9114535025e6be8fa57c62f1cb5aca7eb339dc2a	2026-05-21T16:19:06+05:30	Northstar-Dental	pms	schedule views
+e25c36dbf52470cb4b1174909360992ec6aec92b	2026-05-21T20:17:14+05:30	Northstar-Dental	pms	schedule: drag-and-drop and resize for appointments
+9cc9ec5577d2bda01cc5e51b142897d07dd06c5b	2026-05-21T20:57:01+05:30	Northstar-Dental	pms	Schedule views (#35)
+0c69b49e5afaad69bb754ad22b6a863cda0757f2	2026-05-21T21:53:54+05:30	Northstar-Dental	pms	unlock todays appointment for drag and drop
+6b17bebdb02f650afb1a87cb911e867b2a8e6789	2026-05-22T10:55:42+05:30	Northstar-Dental	pms	unlock todays appointment for drag and drop (#37)
+c9123aa870af203c20cca87d40709d071793f4d8	2026-05-22T13:43:06+05:30	Northstar-Dental	pms	Pinboard staging panel for the scheduler
+4909e59cda7a98d43b0bacded5b20bedd8946a9c	2026-05-25T12:09:09+05:30	Northstar-Dental	pms	collapsible pinboard panel
+4b9199b6466a02be9a242af07f4dba26762cd43a	2026-05-25T12:24:13+05:30	Northstar-Dental	pms	Add "Move to Pinboard" button to appointment hover preview
+c09cac2760cef7bfe4730ffcffaebfe89b9fc429	2026-05-25T17:15:31+05:30	Northstar-Dental	pms	Show how long an appointment has been on the Pinboard
+3ca777a9c8a466f245daa33bfc6fbf8451269bc0	2026-05-26T19:47:49+05:30	Northstar-Dental	pms	Add trash icon to cancel a pinned appointment
+4e4764b154c06ee86d25a2f2372148099c1d8ff5	2026-05-26T22:50:31+05:30	Northstar-Dental	pms	Move "Move to Pinboard" action onto appointment card as an icon button
+a74cb7f2373ca8a33df3ee81cf386b26aff39cc2	2026-05-27T12:07:49+05:30	Northstar-Dental	pms	Share the Pinboard across all locations in the tenant
+295cbb91086dfed21f9374fe1aad9823feeb86e2	2026-05-29T15:05:09+05:30	Northstar-Dental	pms	fix migration conflicts
+2c8bf97d6b452216311f31fbb0eaf4c860b65d87	2026-05-29T15:49:29+05:30	Northstar-Dental	pms	Preserve previous slot when an appointment is moved to the Pinboard
+97469143ce7189775b12ed15a65e707fb9057bd3	2026-05-29T18:46:27+05:30	Northstar-Dental	pms	Suggest available slots for pinned appointments
+17b7c502b0cf5ca594e8ba689fd57059afbd1456	2026-05-29T19:19:49+05:30	Northstar-Dental	pms	Reschedule pinboard appointments without switching location
+54eda5c7bf2e0e26c6193a85578ecc73880add49	2026-05-29T19:31:06+05:30	Northstar-Dental	pms	Replace pin icon button with right-click context menu on appointment cards
+cbe6adae0c907410b3fb4e3b84803f34aa699c53	2026-05-29T19:37:20+05:30	Northstar-Dental	pms	Pinboard staging panel for the scheduler (#38)
+46f4304eba4bdfb40d14c992a2f884357a1f260a	2026-05-29T20:00:19+05:30	Northstar-Dental	pms	minor fix
+8e21931d58556bab6b661f1f0426d1333d4473b7	2026-05-29T20:21:35+05:30	Northstar-Dental	pms	Pinboard polish: smarter rescheduling and right-click menu (#45)
+f46686d58e06c185c2c464818585ef6ea1ab2e6d	2026-06-01T17:11:45+05:30	Northstar-Dental	pms	fix migration issue
+584e7aee6f38b3de64ab267ac6bcb5e9744aa1b8	2026-06-01T20:58:29+05:30	Northstar-Dental	pms	Reports (#22)
+f2a728056bd2008249d3bc87b20138a38ffab0c6	2026-06-05T14:09:35+05:30	Northstar-Dental	pms	patient outstanding balance
+f94838fa30680702ceeb97895dd21a6f10718d89	2026-06-05T16:15:42+05:30	Northstar-Dental	pms	patient overdue recall report
+45cc3bfddcaf5dbd4580f0412ad5a37f5704f6ec	2026-06-08T19:52:32+05:30	Northstar-Dental	pms	report pagination page number
+855e5322a09cd9e9aeac027f6cf4fc2c21d1e6d3	2026-06-08T20:30:41+05:30	Northstar-Dental	pms	reports place holder
+23a7dce65bb77266798a9df2bfa1ca6bbdf063bd	2026-06-08T20:36:47+05:30	Northstar-Dental	pms	AR aging
+08a6cb0dc148c8c1ad6032527bd5595e822ba79c	2026-06-09T11:39:17+05:30	Northstar-Dental	pms	rebase schma changes
+a9befb8dc2d838b768e9ae797b08a7b16e181d43	2026-06-11T10:11:31+05:30	Northstar-Dental	pms	add date picker to schedule toolbar for quick date navigation
+f1e4acfbf0034437546a5d84560b86bd689b49ed	2026-06-11T10:35:24+05:30	Northstar-Dental	pms	feat(schedule): prefill global patient in create appointment modal
+71cccf45e112e874f878b7245f619dc6d375f04d	2026-06-11T10:38:54+05:30	Northstar-Dental	pms	make Schedule the top nav item and move Dashboard to last
+8e34b1a21ec0be516973f6006de21655e477e38d	2026-06-11T10:42:49+05:30	Northstar-Dental	pms	 move Charts to second in patient side nav, under Overview
+e26ad50215a5f95b5e3a423b49e7eb8b643775a5	2026-06-11T12:08:29+05:30	Northstar-Dental	pms	replace full-width red appointment note recording bar with discreet chip
+f4f1f0582d0ea274e654e94a3f44cefe94fad003	2026-06-11T16:06:42+05:30	Northstar-Dental	pms	review fixes
+e29c7717038487793321a8789f797bc075a76190	2026-06-11T18:23:09+05:30	Northstar-Dental	pms	UI Improvements (feedback 0609) (#79)
+be770e480db071b226393f83ec47d7bdbd542c1e	2026-06-15T19:29:13+05:30	Northstar-Dental	pms	Import Open Dental procedure-code categories into procedure_code_categories
+2f758589c77d590d6d4c21bb0080db67c317fc58	2026-06-15T19:47:39+05:30	Northstar-Dental	pms	Add cdt_codes_overrides.custom_category_id FK + backfill from OD proc categories
+81ebbbda67b1ffa6159c9dbf68764ed39e395575	2026-06-15T20:16:47+05:30	Northstar-Dental	pms	Source ProceduresModal categories from procedure_code_categories
+ae155beae7d439a178ac2c528c07f3e1fbacb373	2026-06-15T23:00:16+05:30	Northstar-Dental	pms	chart appointment modal ui fix
+c7c80db323dd541446ee9fea03dd75bb18346878	2026-06-15T23:59:41+05:30	Northstar-Dental	pms	chart appointment modal ui fix (#82)
+f218b496e625158f0063313fdb0fa8ab7ac9760a	2026-06-18T12:25:22+05:30	Northstar-Dental	pms	Add effective_till to schedule block types
+b9e2261fb88691e1b99a0e25f97709f81972cd6e	2026-06-18T12:59:01+05:30	Northstar-Dental	pms	Show scheduling blocks in week view
+abd1722db2711dcdf55fdfb7375133b4693e57e0	2026-06-18T14:02:37-05:00	Northstar-Dental	pms	Add provider exceptions to schedule calendar with category-lane overlap layout and cut-copy-paste
+6ed38f11d550c872038fc04ba78c90bb75f5330b	2026-06-18T14:20:36-05:00	Northstar-Dental	pms	Show full details on schedule exception and block cards
+745b0fbbd8ce6934878fc311301d38d0850fb986	2026-06-18T14:28:49-05:00	Northstar-Dental	pms	Restrict schedule date inputs to today or later
+ff670b394747eac040e33e61ed45a0e4f0c208ee	2026-06-18T14:39:00+05:30	Northstar-Dental	pms	Hide scheduling blocks on days the location is closed
+3a7acdbd24adefe50d6e62a1848a9bfd8a9a283f	2026-06-18T15:15:43+05:30	Northstar-Dental	pms	Add right-click "Create block" on schedule calendar cells
+93951c93ff7fc1bc4630eef2dfa5734b815655dc	2026-06-18T17:06:42+05:30	Northstar-Dental	pms	Add operatory-level schedule exceptions
+7011bfa83b2aae1e1399ee2164d2327235057156	2026-06-18T17:28:56+05:30	Northstar-Dental	pms	Add calendar right-click "Add operatory/schedule exception"
+3288474bd23f9defc5c2433186571da6c19f41cd	2026-06-18T18:42:38+05:30	Northstar-Dental	nsd-brain	added title in contact person (#47)
+b17cf07a7889e5ed21d6463454e27b381a3cf508	2026-06-18T20:08:52+05:30	Northstar-Dental	pms	Add provider exceptions to schedule calendar with category-lane overlap layout
+bfcc9cebd0624e909d23ea590abf6fc347050f01	2026-06-19T01:12:23+05:30	Northstar-Dental	pms	Bolden hour lines and add day dividers in week view
+51ad6ec083744bfc6112dd23cf856228779cfc73	2026-06-19T21:27:44+05:30	Northstar-Dental	pms	Merge branch 'main' into schedule-blocks-and-exceptions
+45f7467fcbb12c2956ee4f80015e7c0ec17be137	2026-06-19T21:41:55+05:30	Northstar-Dental	pms	fixes
+27615f4132e914c106e5598c506285ac2248b96e	2026-06-19T21:50:20+05:30	Northstar-Dental	pms	Schedule calendar: blocks & exceptions (operatory + provider) with right-click editing (#93)
+172d8e2e2dd096aa8cad5520cecf8d2507954108	2026-06-19T22:28:28+05:30	Northstar-Dental	pms	Merge branch 'main' into custom-cdt-code-category
+9ef0c1789f9923293ab84a7d7aaace61f3addf2c	2026-06-19T22:40:17+05:30	Northstar-Dental	pms	fixes
+25f2a55c0d9c3eaeba081837f5740f329ef7b625	2026-06-22T12:53:59+05:30	Northstar-Dental	pms	Fix appointment calendar positioning to use location timezone
+a4d419974f7394ee1dcb5a5c0ae8bd6fcbe97e0a	2026-06-22T13:48:43+05:30	Northstar-Dental	pms	Label exception custom hours Open/Close for location, From/To for provider/operatory
+b1db424c942582749a98ebe3771229353b529fc5	2026-06-22T16:07:48+05:30	Northstar-Dental	pms	Fill appointment blocks with full type color and flip text for legibility
+c5b8b58e731b8dbf24faa67b88531d212ac69df9	2026-06-22T19:27:28+05:30	Northstar-Dental	pms	Org procedure-code categories: import from Open Dental and use in the chart procedure picker (#81)
+525fb5358577945b69ef21d68aee7311252f1d1c	2026-06-22T19:27:46+05:30	Northstar-Dental	pms	Schedule: location-timezone positioning, exception hour labels, and full-color appointment blocks (#98)
+56beab336e8d8debe1025b466dbe4cad86e8af8a	2026-06-22T20:36:51+05:30	Northstar-Dental	pms	migration fix
+8b880f331434a98d714a1a2113ac186feb937be4	2026-06-22T21:03:37+05:30	Northstar-Dental	pms	migration fix (#100)
+16822a3c6e8980ccc5723e7d5def82ec43f5f77b	2026-06-23T19:47:22+05:30	Northstar-Dental	pms	Fit operatory columns to screen and fix day-view timezone
+e39631b7761573d632580a196f418947caa4c630	2026-06-23T20:13:35+05:30	Northstar-Dental	pms	Fit operatory columns to screen and fix day-view timezone (#103)
+a88614bb7468e75438e19ee0ef0dd56d8ad2d32f	2026-06-24T18:51:03+05:30	Northstar-Dental	pms	Manage custom procedure code categories and codes
+27f7ef70840f19be20d82c1a28a0176f7d306096	2026-06-24T19:26:58+05:30	Northstar-Dental	pms	rebase fixes
+3ecbb8fb3faae22872b251168198af44edc27089	2026-06-24T20:21:33+05:30	Northstar-Dental	pms	Manage custom procedure code categories and codes (#106)
+00e5b552fc8c797e098f7fbad94086c548ee482e	2026-06-24T20:40:08+05:30	Northstar-Dental	pms	Add delete action to schedule block right-click menu
+71995143c6bb84524266561a7a61619f6407af47	2026-06-24T21:06:33+05:30	Northstar-Dental	pms	Add delete action to schedule block right-click menu (#108)
+c77791ef086abbb4fe854db6be9ed44ae7d093d9	2026-06-25T13:32:05+05:30	Northstar-Dental	pms	Fix Suggest slot modal padding and wire dialog into pinboard items
+11b443be257dcb77e24b05991ae68d186109ffe8	2026-06-25T13:38:54+05:30	Northstar-Dental	pms	Add Waiting Room panel for arrived patients
+afff4c040f48c25b63717fc01c507d7f01b2efae	2026-06-25T17:28:24+05:30	Northstar-Dental	pms	Fix Suggest slot modal padding and wire dialog into pinboard items (#118)
+cc54f06980f974be0b52dd5031f829981fa96d29	2026-06-25T20:21:28+05:30	Northstar-Dental	pms	Add Waiting Room panel for arrived patients (#119)
+fa77e50732e56c52562941e6bc7ab9a6bc88a285	2026-06-26T19:59:44+05:30	Northstar-Dental	pms	Add per-category ordering for procedure codes
+e103c9788bc5c0486ff8fe2a0ef2e6d173d260d1	2026-06-26T20:02:25+05:30	Northstar-Dental	pms	Add per-category ordering for procedure codes (#126)
+d5f6b8723beb928f441a2da46f1e76504c5663ff	2026-06-29T11:16:17+05:30	Northstar-Dental	pms	Fix procedure-code category count to match codes list
+8e7167f458f61889f4accb5dc24f8f8da474d3c9	2026-06-29T11:42:10+05:30	Northstar-Dental	pms	Show display name and description in category reorder modal
+b8c15649c66556f0178779456f209d0c2cce32f1	2026-06-29T12:13:26+05:30	Northstar-Dental	pms	Mark location-overridden codes in procedure code listings
+86e98ca6b8f8b5c4f54a2824b83d2422eb6e4624	2026-06-29T12:46:39+05:30	Northstar-Dental	pms	Fix shifting date nav buttons on schedule calendar
+ca37fac93e74ee3f2dc87279e61bdceb83951aff	2026-06-29T12:48:28+05:30	Northstar-Dental	pms	Fix shifting date nav buttons on schedule calendar (#133)
+8680c52ca36d26cb0740116a95a7a2e831ab9ad1	2026-06-29T18:33:54+05:30	Northstar-Dental	pms	Fix category code counts and surface location overrides in procedure code UI (#132)
+0785a5d01593ca3bcf7c460bb5e6685e65a0be74	2026-07-01T15:43:32+05:30	Northstar-Dental	pms	Add Office Day Look-Ahead dashboard
+7a99adbb9ab38eba638479f263591d207821690c	2026-07-02T11:43:33+05:30	Northstar-Dental	pms	Add doctor-owner views to Office Day Look-Ahead
+21932a8c5d4e1f0d77bbd85727aabb48dfe098fb	2026-07-02T12:12:26+05:30	Northstar-Dental	pms	Fix schedule-gap times in the all-locations view
+84f1e9ac7560444fe0c34cbc5ac59a385cdf66fe	2026-07-02T12:50:12+05:30	Northstar-Dental	pms	Make Office Day list groups collapsible + add patient redirects
+741a22640de0445cfd6d9e1e6f45404fe809107f	2026-07-02T19:26:51+05:30	Northstar-Dental	pms	Add past-date "Day Recap" mode to Office Day dashboard
+4faf1e5408c1d457169b53700c1cff1bb121b966	2026-07-02T21:50:27+05:30	Northstar-Dental	pms	Add PHI-safe per-patient AI prep summaries to Office Day
+a7d1444a95f516be223992d8024f6d708aa45844	2026-07-02T21:59:47+05:30	Northstar-Dental	pms	Persist Office Day filters in the URL query string
+f87912eed99ad12b92633af6c2dbcf290d93f9ca	2026-07-02T22:06:12+05:30	Northstar-Dental	pms	Add per-provider treatment-mix chart to Office Day "My Day" view
+9ed83fc4539ff9bcab426ada98027c42ebb3afb2	2026-07-03T22:52:56+05:30	Northstar-Dental	pms	Office Day dashboard: look-ahead, recap, per-doctor "My Day", and PHI-safe AI prep summaries (#152)
+0de45c1bbec59c6526d2441535a56112e1366640	2026-07-06T11:54:47+05:30	Northstar-Dental	pms	Fix custom-category move/remove for CDT codes at an active location
+488b84f7c51dfac6b3dfba84a453c463413b72b5	2026-07-06T11:59:52+05:30	Northstar-Dental	pms	Fix custom-category move/remove for CDT codes and stale listing counts
+016e6b175cb1d820008f2b38dd5da0d13aa9b8c9	2026-07-06T12:10:12+05:30	Northstar-Dental	pms	Add order column and enable move-to-top while searching in category codes dialog
+81afffbc51e5193f69b5b4914fc14ad4a3008fb5	2026-07-06T12:33:29+05:30	Northstar-Dental	pms	Add inline order-number editing to category codes dialog
+9c3a00c6e1a5bf05e9321e29b96d7e1a5ae48e5a	2026-07-06T17:27:13+05:30	Northstar-Dental	pms	Align insured/self-pay with appointment on_file on office day info page
+67ee2c655ef60068c815f145a4c5a19f35fbdc4e	2026-07-06T18:38:19+05:30	Northstar-Dental	pms	Fix Insurance Coverage pie to use is_self_pay flag
+745f0d1868818cccd6f36e6e99c031320615997a	2026-07-06T19:16:37+05:30	Northstar-Dental	pms	Align Office Day insurance widgets with app sources
+0f337c6f15b98192a3b781ec9792f04c8221d60c	2026-07-06T19:31:44+05:30	Northstar-Dental	pms	index on fix-insured-self-pay-on-file: 745f0d18 Align Office Day insurance widgets with app sources
+7342b7beb5e8cf22460a72a47b9b81d04f3f7eb7	2026-07-06T19:31:44+05:30	Northstar-Dental	pms	On fix-insured-self-pay-on-file: insurance choose
+478edd7d196aaf7824936ffa607ed2d3e9258073	2026-07-06T19:41:30+05:30	Northstar-Dental	pms	Fix appointment primary insurance to skip terminated policies
